@@ -2,9 +2,9 @@ name: ipcidr
 on:
   push:
     branches:
-      - 'master'
+      - master
   schedule:
-    - cron: '5 */12 * * *'
+    - cron: "5 */12 * * *"
   workflow_dispatch:
 
 jobs:
