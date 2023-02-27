@@ -4,7 +4,7 @@ on:
     branches:
       - master
   schedule:
-    - cron: "5 */12 * * *"
+    - cron: "0 04 * * FRI"
   workflow_dispatch:
 
 jobs:
