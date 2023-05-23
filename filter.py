@@ -25,9 +25,13 @@ for ip in ip_dns_list:
         filtered_ips.append(ip)
 
 # Step 5: Save the modified list without Cloudflare IP addresses to a file
-with open("ip-dns-nocdn.txt", "w") as file:
+with open("ip-dns-nocdn-prefix.txt", "w") as file:
     for ip in filtered_ips:
         ip_with_prefix = ip + ("/32" if ipaddress.ip_address(ip).version == 4 else "/128")
         file.write(ip_with_prefix + "\n")
 
-print("Filtered IP addresses saved to ip-dns-nocdn.txt.")
+with open("ip-dns-nocdn.txt", "w") as file:
+    for ip in filtered_ips:
+        file.write(ip + "\n")
+
+print("Filtered IP addresses without IPs Cloudflare.")
