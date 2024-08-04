@@ -72,4 +72,4 @@ jobs:
           # Commit message
           commit_message: automatic/regular IP-DNS updates
           # File pattern used for `git add`. For example `src/*.js`
-          file_pattern: './ip*.txt ./doh*.txt'
+          file_pattern: './ip*.txt *doh.txt'
