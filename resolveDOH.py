@@ -14,7 +14,8 @@ with open('ipv4-doh.txt', 'w') as ipv4_file, open('ipv6-doh.txt', 'w') as ipv6_f
             data_ipv4 = json.loads(response_ipv4.text)
             if "Answer" in data_ipv4:
                 for answer in data_ipv4["Answer"]:
-                    ipv4_file.write(f"{answer['data']} #{domain}\n")
+                    if answer["type"] == 1:  # Type A (IPv4)
+                        ipv4_file.write(f"{answer['data']} #{domain}\n")
 
         # Request for IPv6 (AAAA) records
         url_ipv6 = f"https://dns.google/resolve?name={domain}&type=AAAA"
@@ -23,4 +24,5 @@ with open('ipv4-doh.txt', 'w') as ipv4_file, open('ipv6-doh.txt', 'w') as ipv6_f
             data_ipv6 = json.loads(response_ipv6.text)
             if "Answer" in data_ipv6:
                 for answer in data_ipv6["Answer"]:
-                    ipv6_file.write(f"{answer['data']} #{domain}\n")
+                    if answer["type"] == 28:  # Type A (IPv4)
+                        ipv6_file.write(f"{answer['data']} #{domain}\n")
