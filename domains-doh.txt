@@ -256,7 +256,6 @@ dns-doh.dnsforfamily.com
 dns-dot.dnsforfamily.com
 dns-family.adguard.com
 dns-fr-psv1.cloudsides.com
-dns-free.link
 dns-gcp.aaflalo.me
 dns-malwaresec.nordthreatprotection.com
 dns-nosec.quad9.net
@@ -336,7 +335,6 @@ dns.brembeck.cloud
 dns.burgas.pro
 dns.busold.ws
 dns.bw.i81.ru
-dns.caksono.com
 dns.carson-family.com
 dns.carter.me
 dns.caspervk.net
@@ -396,7 +394,6 @@ dns.dns-over-https.com
 dns.dnshome.de
 dns.dnsoverhttps.net
 dns.dnswarden.com
-dns.doh.best
 dns.dooks.uk
 dns.dotnet.win
 dns.dyn1.de
@@ -710,7 +707,6 @@ dns.vault81.de
 dns.velyn.my.id
 dns.vinnyp.xyz
 dns.vinokurov.tk
-dns.vip-kingstore.xyz
 dns.vishalk.com
 dns.vmath.my.id
 dns.vojtat.cz
