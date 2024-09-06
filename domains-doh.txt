@@ -33,7 +33,6 @@ adb-home.xaoimoon.fr
 adb.aadityakushwaha.com
 adblock-dot.dnswarden.com
 adblock.any.dns.nixnet.xyz
-adblock.borjalopez.eu
 adblock.dns.mullvad.net
 adblock.doh.mullvad.net
 adblock.indianets.net
@@ -536,7 +535,6 @@ dns.maolaohei.xyz
 dns.marasov.id
 dns.marbledfennec.net
 dns.mateo.ovh
-dns.mathewakhil.online
 dns.maybe.icu
 dns.mayx.eu.org
 dns.meeo.win
@@ -604,7 +602,6 @@ dns.pesaventofilippo.com
 dns.phillipjberry.net
 dns.pierzchlewicz.pl
 dns.pizzari.me
-dns.pnh.my.id
 dns.porteii.com
 dns.pragmasec.nl
 dns.princex.net
@@ -635,7 +632,6 @@ dns.rootlab.top
 dns.rotunneling.net
 dns.rslvr.eu
 dns.rubyfish.cn
-dns.sarak.as
 dns.sarakas.net
 dns.sarilouis.com
 dns.sb
@@ -1065,7 +1061,6 @@ google-public-dns-b.google.com
 green2.jnraptor.net
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1210,7 +1205,6 @@ nl.rslvr.eu
 noads.imbuffering.com
 ns.00dani.me
 ns.data.haus
-ns.lov.host
 ns.mtsoln.com
 ns.ral9005.org
 ns.trcnet.fi
@@ -1326,7 +1320,6 @@ resolver-eu.haringstad.com
 resolver.r0cket.net
 resolver.rferee.dev
 resolver.sunet.se
-resolver.unstoppable.io
 resolver1-fs.opendns.com
 resolver1.absolight.net
 resolver1.ipv6-sandbox.opendns.com
