@@ -51,7 +51,6 @@ adg.jnorton.us
 adg.khon.dev
 adg.rokh.biz
 adg.rueiliu.space
-adg.tshost.no
 adguard-dns.com
 adguard-ironhide.ultima-thule.ru
 adguard-kartoffel.zernico.de
@@ -119,7 +118,6 @@ africa.avastdns.com
 africadns1.liquidtelecom.net
 africadns2.liquidtelecom.net
 ag.apollohct.com
-ag.brianlee.fun
 ag.ff0x.ca
 ag.hostme.co.il
 ag.marschi.de
@@ -438,6 +436,7 @@ dns.gi.co.id
 dns.ginovs.nl
 dns.girino.org
 dns.glf.wtf
+dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -632,6 +631,7 @@ dns.rootlab.top
 dns.rotunneling.net
 dns.rslvr.eu
 dns.rubyfish.cn
+dns.sarak.as
 dns.sarakas.net
 dns.sarilouis.com
 dns.sb
@@ -716,7 +716,6 @@ dns.warpnine.de
 dns.watch
 dns.wechat.com
 dns.weixin.qq.com.cn
-dns.xiumu.org
 dns.xlion.tw
 dns.xuming.studio
 dns.xusqui.com
@@ -724,7 +723,6 @@ dns.xwdmw.xyz
 dns.yameenassotally.com
 dns.yandex.ru
 dns.yatima.tv
-dns.youni.win
 dns.zemows.industries
 dns.zfsystem.tech
 dns.zui.lol
