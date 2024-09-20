@@ -20,6 +20,9 @@
 5g.o0o.re
 8888.google
 89433332.xyz
+a.family.ns.dnslify.com
+a.ns.dnslify.com
+a.safe.ns.dnslify.com
 a.zpn.me
 abe01.dnscry.pt
 abel.waringer-atg.de
@@ -160,6 +163,9 @@ au01.dns4me.net
 au02.dns4me.net
 awan.ftp.sh
 b-ii.com
+b.family.ns.dnslify.com
+b.ns.dnslify.com
+b.safe.ns.dnslify.com
 bahopir188.dnshome.de
 base.dns.mullvad.net
 basic.bravedns.com
@@ -719,7 +725,6 @@ dns.weixin.qq.com.cn
 dns.xlion.tw
 dns.xuming.studio
 dns.xusqui.com
-dns.xwdmw.xyz
 dns.yameenassotally.com
 dns.yandex.ru
 dns.yatima.tv
@@ -847,6 +852,7 @@ doh.dns.sb
 doh.dns1.lonet.org
 doh.dns4all.eu
 doh.dnscrypt.uk
+doh.dnslify.com
 doh.dnswarden.com
 doh.domreg.lt
 doh.dscloud.me
@@ -888,7 +894,6 @@ doh.maskab.com
 doh.max.net.id
 doh.micronets.in
 doh.mmmalia.com
-doh.morizt.id
 doh.mullvad.net
 doh.nic.lv
 doh.niyawe.de
@@ -1059,6 +1064,7 @@ google-public-dns-b.google.com
 green2.jnraptor.net
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1298,7 +1304,6 @@ public2.alidns.com
 public254.alidns.com
 public99.alidns.com
 publicdnsserver.com
-pukanuragan.ru
 punono.duckdns.org
 puredns.org
 qlf-doh.inria.fr
