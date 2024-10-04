@@ -51,8 +51,8 @@ adfreedns.top
 adg.geili.me
 adg.jnorton.us
 adg.khon.dev
-adg.rokh.biz
 adg.rueiliu.space
+adg.tshost.no
 adguard-dns.com
 adguard-ironhide.ultima-thule.ru
 adguard-kartoffel.zernico.de
@@ -727,7 +727,6 @@ dns.yandex.ru
 dns.yatima.tv
 dns.zemows.industries
 dns.zfsystem.tech
-dns.zui.lol
 dns.zzuhacker.cn
 dns0.eu
 dns01.flm9.net
@@ -1123,7 +1122,6 @@ jp2.ooroot.com
 jpdns.cola16.app
 jurre-home.duckdns.org
 justhost.bedro.cloud
-kaitain.restena.lu
 kaiwu.xyz
 keithchung.hopto.org
 kids.5ososea.com
@@ -1349,7 +1347,6 @@ safe.dot.dns.yandex.net
 safeservedns.com
 sandbox.opendns.com
 sbdns.co.in
-sby-doh.limotelu.org
 sdns.233py.com
 sdns22.gkonuralp.com
 sea01.dnscry.pt
@@ -1409,7 +1406,6 @@ tetty-is.so-gorgeo.us.kg
 tienpham.id.vn
 tiger.dns.qwer.pw
 tigrons.ru
-timedns.net
 timmes.nl
 tj.jamesxue.xyz
 tky-dns.bitdefender.net
