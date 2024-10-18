@@ -1,4 +1,5 @@
 003153.xyz
+0ms.dev
 1.dns.noridev.moe
 123000123.xyz
 1a.ns.ozer.im
@@ -25,10 +26,12 @@ ad.tzockt.beer
 ada.openbld.net
 adb-home.xaoimoon.fr
 adb.aadityakushwaha.com
+adb.timnichollsphotography.com
 adblock.any.dns.nixnet.xyz
 adblock.dns.mullvad.net
 adblock.doh.mullvad.net
 adblock.indianets.net
+adblock.krctech.dev
 adblock.leenit.kr
 adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
@@ -76,6 +79,7 @@ adguard.londonwebnerd.cloud
 adguard.maison.gifino.fr
 adguard.marto.si
 adguard.meddy94.de
+adguard.neon0404.space
 adguard.oms-ctr.ru
 adguard.onlyfriends.info
 adguard.pangerl.it
@@ -139,12 +143,14 @@ apac-mask.wrr.mask.apple-dns.net
 api.cloudflareclient.com
 aqua.is.my.waifu.cz
 arashi.eu.org
+arashi.net.eu.org
 area51.mywire.org
 armorrush.eu.org
 at-wie-w-p-1.nashkan.net
 at.pzhg.me
 ath01.dnscry.pt
 atl01.dnscry.pt
+atris.cyou
 au-syd-w-f-1.nashkan.net
 au-syd.doh.sb
 au.rslvr.eu
@@ -187,10 +193,12 @@ ca01.dns4me.net
 ca02.dns4me.net
 callies-online.site
 canary.mask.apple-dns.net
+catchen121299.top
 cdn.0ms.dev
 cfdjb.org
 chandr1000.net
 chaos-system.de
+chr.kepegawaiandju.id
 chrome.cloudflare-dns.com
 chromium.dns.nextdns.io
 clean.dnsforge.de
@@ -219,6 +227,8 @@ cvt01.dnscry.pt
 cynntex.fun
 d.adguard-dns.com
 d.apemlegit.my.id
+d.bod.lol
+d.niaox.com
 d.toairs.com
 d2.shabi.icu
 dandelionsprout.asuscomm.com
@@ -244,6 +254,7 @@ deic-ore.anycast.uncensoreddns.org
 den01.dnscry.pt
 dfw02.dnscry.pt
 diy.itsa.top
+dltuykfgp.top
 dns-1.wil.cloud
 dns-2.wil.cloud
 dns-cybersec.nordthreatprotection.com
@@ -261,6 +272,7 @@ dns-unfiltered.adguard.com
 dns.0ooo.icu
 dns.0rz.ing
 dns.0x55.net
+dns.13evl.com
 dns.23-4.cn
 dns.233py.com
 dns.240527.xyz
@@ -268,6 +280,7 @@ dns.354688.xyz
 dns.3wv.de
 dns.4-the.win
 dns.52306.org
+dns.688447.xyz
 dns.7vpn.com
 dns.886886886.xyz
 dns.888654.xyz
@@ -301,6 +314,7 @@ dns.arkbotech.com
 dns.artikel10.org
 dns.ashleyjackson.net
 dns.asterimoon.com
+dns.auapi.fun
 dns.azsopro.net
 dns.b33.space
 dns.b612.me
@@ -314,6 +328,7 @@ dns.bermeitinger.eu
 dns.beta.gandi.net
 dns.bitdefender.net
 dns.bitservices.io
+dns.blaumer.dev
 dns.blokada.org
 dns.bmwhocking.com
 dns.bobstrecansky.com
@@ -325,6 +340,8 @@ dns.brembeck.cloud
 dns.burgas.pro
 dns.busold.ws
 dns.bw.i81.ru
+dns.cabbage.zone
+dns.cahlen.com
 dns.carson-family.com
 dns.carter.me
 dns.caspervk.net
@@ -352,6 +369,7 @@ dns.colorfreedom.org
 dns.comff.net
 dns.comss.one
 dns.connect.fail
+dns.controld.com
 dns.criena.net
 dns.cryptomize.com
 dns.crystalyx.net
@@ -364,6 +382,7 @@ dns.d365.in
 dns.d4d.moe
 dns.d94.xyz
 dns.d96.info
+dns.daarrk.tech
 dns.daemon.za.net
 dns.dallinbryce.com
 dns.datenquark.de
@@ -411,6 +430,7 @@ dns.fancyorg.at
 dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
+dns.fgbk.net
 dns.filipccz.eu
 dns.fizz.studio
 dns.flatuslifir.is
@@ -447,6 +467,7 @@ dns.hellozhao.com
 dns.henek.ovh
 dns.hinet.net
 dns.home.daniil.it
+dns.hoody.com
 dns.horcrux.vip
 dns.hostux.net
 dns.hotta.page
@@ -471,6 +492,7 @@ dns.indybanipal.com
 dns.inforlogia.com
 dns.interhub.cc
 dns.internal.hosmatic.com
+dns.is0mino.com
 dns.ishan.pw
 dns.islandnet.com
 dns.janl.eu
@@ -502,7 +524,6 @@ dns.keweon.center
 dns.koala.us.to
 dns.korzhyk.pp.ua
 dns.kosan.moe
-dns.kugoapps.com
 dns.kukal.cz
 dns.kusoneko.moe
 dns.kuuhaku.moe
@@ -512,6 +533,7 @@ dns.lars-lehmann.net
 dns.lashes-brow.ru
 dns.learningman.top
 dns.lepilleur.com
+dns.lermer.nl
 dns.levonet.sk
 dns.lgprk.com
 dns.liberador.net
@@ -574,9 +596,11 @@ dns.novg.net
 dns.npe.bz
 dns.npsolution.it
 dns.nullgate.net
+dns.numerus.com
 dns.odinpl.com
 dns.ofdoom.net
 dns.oliviertv.co.za
+dns.olpploiopkuyhiopsfrt.info
 dns.opendns.com
 dns.oryxlabs.com
 dns.oszx.co
@@ -615,6 +639,7 @@ dns.reitmeier.me
 dns.renardyre.com
 dns.repinger.com
 dns.repinger.my.id
+dns.repressoh.it
 dns.retakecs.com
 dns.rin.sh
 dns.roedel.cloud
@@ -659,14 +684,18 @@ dns.sstomp.nl
 dns.startupstack.tech
 dns.stevenz.net
 dns.stirringphoto.com
+dns.stormycloud.org
 dns.strassmair.org
 dns.suhaila.dev
 dns.superstefan.win
+dns.sv-zauner.at
 dns.svoi.dev
 dns.swin.pro
 dns.switch.ch
 dns.syaifullah.com
+dns.szpadel.ovh
 dns.t53.de
+dns.technologycage.com
 dns.technostriker.com
 dns.telekom.de
 dns.tesem.dog
@@ -721,6 +750,7 @@ dns1.au.newpangea.de
 dns1.cl.newpangea.de
 dns1.conne.net
 dns1.digitale-gesellschaft.ch
+dns1.dns-ga.de
 dns1.dnscrypt.ca
 dns1.in-berlin.de
 dns1.in.newpangea.de
@@ -742,6 +772,7 @@ dns12.quad9.net
 dns13.quad9.net
 dns2.cbio.top
 dns2.digitale-gesellschaft.ch
+dns2.dns-ga.de
 dns2.guidocioni.it
 dns2.in-berlin.de
 dns2.klcd.eu
@@ -750,11 +781,13 @@ dns2.nextdns.io
 dns2.nordvpn.com
 dns2.prima-solusindo.com
 dns2.saferbfc.org
+dns3.dns-ga.de
 dns4me.net
 dns64.cloudflare-dns.com
 dns64.dns.google
 dns8.org
 dns9.quad9.net
+dnsblock.grisumedia.de
 dnscache.e-utp.net
 dnsforfamily.com
 dnsforge.de
@@ -772,6 +805,7 @@ dnsse.alekberg.net
 dnstls.mobik.com
 dnsvps.familiamv.net
 dnswebvsn.com
+do-39574-tr.xyz
 do.dnscrypt.uk
 do.shimul.me
 dog.dns.qwer.pw
@@ -797,6 +831,7 @@ doh.apad.pro
 doh.applied-privacy.net
 doh.appliedprivacy.net
 doh.archuser.org
+doh.asagiri.moe
 doh.asia.dnswarden.com
 doh.au.ahadns.net
 doh.azoris.ovh
@@ -836,6 +871,7 @@ doh.eastas.pi-dns.com
 doh.eastau.pi-dns.com
 doh.eastus.pi-dns.com
 doh.eddi.net
+doh.ersei.net
 doh.es.ahadns.net
 doh.eu.dnswarden.com
 doh.excdn.eu.org
@@ -903,6 +939,7 @@ doh.suche.org
 doh.sunoaki.net
 doh.syshero.org
 doh.technochat.in
+doh.thio.me
 doh.tiar.app
 doh.tiarap.org
 doh.totoro.pub
@@ -917,6 +954,7 @@ doh.xcom.pro
 doh.xfinity.com
 doh.xyz
 doh.zephyrus.id
+doh.zknt.org
 doh003.280blocker.net
 doh1.alidns.com
 doh1.b-cdn.net
@@ -993,11 +1031,13 @@ family.mydns.network
 family.puredns.org
 family.rabbitdns.org
 familyshield.opendns.com
+farewellkou.click
 fdns1.dismail.de
 fdns2.dismail.de
 fet01.dnscry.pt
 fezgate.ovh
 fi-hel-w-f-2.nashkan.net
+fidelius.top
 firefox.dns.nextdns.io
 fjr01.dnscry.pt
 fly.io
@@ -1029,8 +1069,11 @@ gclouddns.com
 geg01.dnscry.pt
 geshido.vpn.geshido.ru
 getdnsapi.net
+gibblets.top
+glacius.top
 google-public-dns-a.google.com
 google-public-dns-b.google.com
+goose.buckyfan.net
 green2.jnraptor.net
 gru01.dnscry.pt
 guard.sntrk.ru
@@ -1038,10 +1081,13 @@ gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
+ha.o51r15.com
 han01.dnscry.pt
 hanniel.tech
+hard.dnsforge.de
 hel01.dnscry.pt
 helios.plan9-dns.com
+hfgx.shop
 hitian.me
 hk-hkg.doh.sb
 hk.rslvr.eu
@@ -1051,6 +1097,7 @@ hkg02.dnscry.pt
 hkname.freecdn.one
 hktko1.mask-t.apple-dns.net
 hole.elbschloss.xyz
+home-server.store
 home.enjoymylife.net
 home.wriedts.de
 home27.duckdns.org
@@ -1060,6 +1107,7 @@ hshh.org
 httpdns-push.heytapmobile.com
 httpdns-sc.aliyuncs.com
 httpdns.meituan.com
+hungary.privacy-dns.pw
 i.233py.com
 iana.tenta.io
 ibksturm.synology.me
@@ -1071,7 +1119,9 @@ iedub2.mask.apple-dns.net
 ihctw.synology.me
 iij.jp
 ikarosalpha.xyz
+imperio.top
 in-blr.doh.sb
+india.privacy-dns.pw
 ines.zfn.uni-bremen.de
 inpssh.online
 internetsehat.bebasid.com
@@ -1085,6 +1135,7 @@ jit.ddns.net
 jkdns.me
 jkt01.dnscry.pt
 jnb01.dnscry.pt
+johneldenring.lol
 jp-dns1.bancuh.com
 jp-kix.doh.sb
 jp-nrt.doh.sb
@@ -1108,6 +1159,7 @@ kids.dns0.eu
 kilabit.info
 kiri.nonexiste.net
 kiv01.dnscry.pt
+ko-18948-tr.xyz
 korzhov.dev
 kr-sel.doh.sb
 kr1.ooroot.com
@@ -1116,12 +1168,15 @@ kracon.anycast.censurfridns.dk
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
 krtekvpn.duckdns.org
+kx-97795-tr.xyz
 kz-pav-w-p-1.nashkan.net
+las-vegas.privacy-dns.pw
 las01.dnscry.pt
 lastentarvike.fi
 lax01.dnscry.pt
 lax02.dnscry.pt
 lelux.fi
+lesuo.top
 lim01.dnscry.pt
 lindung.pp.ua
 lion.dns.qwer.pw
@@ -1135,12 +1190,14 @@ lukscasino-542-tr.xyz
 lukscasino-929-tr.xyz
 luna-is.so-gorgeo.us.kg
 lux1.nixnet.xyz
+luxembourg.privacy-dns.pw
 lv1.nixnet.xyz
 mad01.dnscry.pt
 mail.data.haus
 mailer.amlegion.org
 mailkyb.co
 mainframe.dewed.de
+maqgie.xyz
 mask-api.fe2.apple-dns.net
 mask-api.icloud.com
 mask-boot.icloud.com
@@ -1155,9 +1212,11 @@ meganerd.nl
 megumin.is.my.waifu.cz
 mendozasdelivery.com
 mia01.dnscry.pt
+michelo.line.pm
 mikezhang.xyz
 mil01.dnscry.pt
 minilla.store
+mita-is.so-gorgeo.us.kg
 mnrv.trade
 morbitzer.de
 mozilla.cloudflare-dns.com
@@ -1165,7 +1224,9 @@ mru01.dnscry.pt
 msr177.com
 muc01.dnscry.pt
 muli.stusta.mhn.de
+multi.dns.marbledfennec.net
 muxyuji.ru
+myatris.sbs
 n0.eu
 n5.lsasss.com
 naganohara-yoimiya.momokko.moe
@@ -1174,9 +1235,11 @@ nat64.tuxis.nl
 naw01.dnscry.pt
 ndns.233py.com
 nenam.eu
+net01.youcef.io
 netcup.mismat.ch
 nicsezcheckfbi.gov
 nightlymoon.us.kg
+nindy-is.so-gorgeo.us.kg
 nl-ams.doh.sb
 nl-ams2.doh.sb
 nl-dro-w-f-1.nashkan.net
@@ -1187,9 +1250,13 @@ nlhfd1.mask-t.apple-dns.net
 nlhfd1.mask.apple-dns.net
 noads.imbuffering.com
 north-america-mask.wrr.mask.apple-dns.net
+nova-is.so-gorgeo.us.kg
 ns.00dani.me
 ns.data.haus
 ns.mtsoln.com
+ns.nerdytechgeeks.co.za
+ns.net.kg
+ns.nwps.fi
 ns.ral9005.org
 ns.trcnet.fi
 ns0.fdn.fr
@@ -1204,11 +1271,13 @@ ns2.4netguides.org
 ns2.flodns.net
 ns2.opennameserver.org
 ns2.recursive.dnsbycomodo.com
+ns2.wuyouss.com
 ns3.bit-trail.nl
 ns3.com
 ns3.cx
 ns3.link
 ns3.opennameserver.org
+ns3.wuyouss.com
 ns4.opennameserver.org
 nsc.torgues.net
 nsec.arnor.org
@@ -1221,6 +1290,7 @@ nyc01.dnscry.pt
 nz01.dns4me.net
 o.rsaikat.com
 o1.lt
+obscuro.top
 oceania-mask.wrr.mask.apple-dns.net
 odoh.cloudflare-dns.com
 odoh.crypto.sx
@@ -1267,6 +1337,9 @@ pihole3.hoerli.net
 pihole4.hoerli.net
 please.dontsteal.my.id
 pluton.plan9-dns.com
+pm1239-bd.xyz
+pm7051-br.xyz
+pm9352-bd.xyz
 pooblet.co.za
 pope.cnblw.me
 princez.uk
@@ -1289,6 +1362,7 @@ publicdnsserver.com
 pukanuragan.ru
 punono.duckdns.org
 puredns.org
+qdns02.nymterm.com
 qlf-doh.inria.fr
 qual.cuprum.ru
 query.hdns.io
@@ -1302,6 +1376,7 @@ res-acst3.absolight.net
 resolv1.trash.net
 resolv2.trash.net
 resolv3.trash.net
+resolve2.r9x.cc
 resolver-eu.haringstad.com
 resolver.r0cket.net
 resolver.rferee.dev
@@ -1317,6 +1392,7 @@ resolver2.opendns.com
 resolver3.absolight.net
 resolver4.dns.openinternet.io
 rethinkdns.com
+revelio.top
 rfree1.blue-shield.at
 rfree2.blue-shield.at
 rgnet-iad.anycast.censurfridns.dk
@@ -1325,9 +1401,11 @@ ric.openbld.net
 ricko.is
 ro-buc-w-f-1.nashkan.net
 ro-buc-w-p-1.nashkan.net
+romania.privacy-dns.pw
 rpz-public-resolver1.rrdns.pch.net
 ru-mow.doh.sb
 rumpelsepp.org
+rx.techomespace.com
 sa01.dns4me.net
 safe.dns.yandex.ru
 safe.dot.dns.yandex.net
@@ -1386,7 +1464,9 @@ stratus.bugz.fr
 sukidayo.eu.org
 sundalandia.pp.ua
 sunnygyl.com
+sweden.privacy-dns.pw
 switch.ch
+switzerland.privacy-dns.pw
 syd.adfilter.net
 syd01.dnscry.pt
 takhtakh.domyah.net
@@ -1435,6 +1515,7 @@ uncensoreddns.org
 unfiltered.adguard-dns.com
 unicast.censurfridns.dk
 unicast.uncensoreddns.org
+united-arab-emirates.privacy-dns.pw
 urology.wiki
 us-chi-w-f-1.nashkan.net
 us-chi-w-p-1.nashkan.net
@@ -1490,6 +1571,7 @@ wikimedia-dns.org
 wrr.mask.apple-dns.net
 www.c-dns.com
 www.chungocoai.name.vn
+www.dltuykfgp.top
 www.dnsadguard.co.uk
 www.inpssh.online
 www.jabber-germany.de
@@ -1502,6 +1584,7 @@ www.unasw.eu
 www.zburger.top
 wyx.cloud
 xenergy.cc
+xholgm.top
 xn--durhre-yxa.de
 xray.krnl.eu
 yarp.lefolgoc.net
@@ -1511,6 +1594,7 @@ your-dns.run
 yovbak.com
 yul01.dnscry.pt
 yunyun.is.my.waifu.cz
+yussy-is.so-gorgeo.us.kg
 yuvelirtut.website
 yvr01.dnscry.pt
 yyz01.dnscry.pt
