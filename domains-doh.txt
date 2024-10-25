@@ -3,16 +3,23 @@
 1.dns.noridev.moe
 123000123.xyz
 1a.ns.ozer.im
+1and1-dns.de
 1dot1dot1dot1.cloudflare-dns.com
 2.dns.noridev.moe
+2.dnscrypt-cert.blahdns.com
+2.dnscrypt-cert.browser.yandex.net
+2.dnscrypt-cert.captnemo.in
+2.dnscrypt-cert.dns.seby.io
 2.dnscrypt-cert.ffmuc.net
+2.dnscrypt-cert.opendns.com
+2.dnscrypt-cert.quad9.net
+2.dnscrypt-cert.shield-2.dnsbycomodo.com
 233py.com
 351242444.xyz
 3dcosas.xyz
 3dns.eu
 5g.o0o.re
 8888.google
-89433332.xyz
 a.family.ns.dnslify.com
 a.ns.dnslify.com
 a.safe.ns.dnslify.com
@@ -27,6 +34,7 @@ ada.openbld.net
 adb-home.xaoimoon.fr
 adb.aadityakushwaha.com
 adb.timnichollsphotography.com
+adblock-dot.dnswarden.com
 adblock.any.dns.nixnet.xyz
 adblock.dns.mullvad.net
 adblock.doh.mullvad.net
@@ -48,7 +56,6 @@ adg.khon.dev
 adg.rueiliu.space
 adg.tshost.no
 adguard-dns.com
-adguard-ironhide.ultima-thule.ru
 adguard-kartoffel.zernico.de
 adguard.abd.ong
 adguard.alu.dog
@@ -103,6 +110,7 @@ adguardhome.atakorah.com
 adl.adfilter.net
 ads.hunga1k47.com
 adult-filter-dns.cleanbrowsing.org
+adult-filter-dot.dnswarden.com
 ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
 ae-fuj-w-p-3.nashkan.net
@@ -115,6 +123,7 @@ africadns1.liquidtelecom.net
 africadns2.liquidtelecom.net
 ag.apollohct.com
 ag.ff0x.ca
+ag.hostme.co.il
 ag.marschi.de
 agh-yz.russel053.com
 agh.dshubham.xyz
@@ -192,8 +201,10 @@ ca.doh.cloudveil.org
 ca01.dns4me.net
 ca02.dns4me.net
 callies-online.site
+canadianshield.cira.ca
 canary.mask.apple-dns.net
 catchen121299.top
+catdns.org
 cdn.0ms.dev
 cfdjb.org
 chandr1000.net
@@ -210,6 +221,7 @@ cloud.samutz.com
 cloud.tezoi.com
 cloudflare-dns.com
 cloudflare-gateway.com
+cloudflareresolve.com
 cloudns.bosco.ovh
 cluster-0.gac.edu
 cluster-1.gac.edu
@@ -263,8 +275,10 @@ dns-doh.dnsforfamily.com
 dns-dot.dnsforfamily.com
 dns-family.adguard.com
 dns-fr-psv1.cloudsides.com
+dns-gcp.aaflalo.me
 dns-malwaresec.nordthreatprotection.com
 dns-nosec.quad9.net
+dns-nyc.aaflalo.me
 dns-ovh.panszelescik.pl
 dns-privacy.puregeni.us
 dns-tls.bitwiseshift.net
@@ -275,6 +289,7 @@ dns.0x55.net
 dns.13evl.com
 dns.23-4.cn
 dns.233py.com
+dns.233py.com.cdn.cloudflare.net
 dns.240527.xyz
 dns.354688.xyz
 dns.3wv.de
@@ -287,6 +302,7 @@ dns.888654.xyz
 dns.9999.sg
 dns.a47.me
 dns.aa.net.uk
+dns.aaflalo.me
 dns.abdullahabas.de
 dns.adguard-dns.com
 dns.adguard.com
@@ -294,6 +310,7 @@ dns.adrianlam.com
 dns.aeiou.pp.ua
 dns.aerro.in
 dns.albony.xyz
+dns.alekberg.net
 dns.alidns.com
 dns.alloxr.info
 dns.almir1904.eu
@@ -323,12 +340,12 @@ dns.baishiyuan.cn
 dns.beardic.cn
 dns.bebasid.com
 dns.belnet.be
-dns.benpro.fr
 dns.bermeitinger.eu
 dns.beta.gandi.net
 dns.bitdefender.net
 dns.bitservices.io
 dns.blaumer.dev
+dns.blaze-sk.ru
 dns.blokada.org
 dns.bmwhocking.com
 dns.bobstrecansky.com
@@ -400,6 +417,7 @@ dns.digitalsize.net
 dns.dns-53.com
 dns.dns-53.uk
 dns.dns-53.us
+dns.dns-over-https.com
 dns.dnshome.de
 dns.dnsoverhttps.net
 dns.dnswarden.com
@@ -430,7 +448,6 @@ dns.fancyorg.at
 dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
-dns.fgbk.net
 dns.filipccz.eu
 dns.fizz.studio
 dns.flatuslifir.is
@@ -463,6 +480,7 @@ dns.haka.se
 dns.hakim.one
 dns.hanahira.dev
 dns.hanmey.de
+dns.hannielzhang.com
 dns.hellozhao.com
 dns.henek.ovh
 dns.hinet.net
@@ -479,7 +497,6 @@ dns.huyhoangit.net
 dns.hypercute.eu
 dns.iamanuragh.in
 dns.iamninja.ru
-dns.ian.rocks
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
@@ -564,6 +581,7 @@ dns.molinero.dev
 dns.momou.ch
 dns.moonssif.com
 dns.moulticast.net
+dns.mrkaran.dev
 dns.msxnet.ru
 dns.mtoo.vip
 dns.mullvad.net
@@ -587,6 +605,7 @@ dns.nguyendn.com
 dns.nhtsky.com
 dns.nick-slowinski.de
 dns.ningkelle.id
+dns.nixnet.xyz
 dns.njal.la
 dns.nodoa.me
 dns.norvig.dk
@@ -644,7 +663,6 @@ dns.retakecs.com
 dns.rin.sh
 dns.roedel.cloud
 dns.ronc.ru
-dns.rootlab.top
 dns.rotunneling.net
 dns.rslvr.eu
 dns.rubyfish.cn
@@ -708,6 +726,7 @@ dns.tipsy.coffee
 dns.tls-data.de
 dns.tracker.ink
 dns.trust404.win
+dns.tryk.app
 dns.tuna.tsinghua.edu.cn
 dns.twnic.tw
 dns.txq.life
@@ -770,6 +789,7 @@ dns10.quad9.net
 dns11.quad9.net
 dns12.quad9.net
 dns13.quad9.net
+dns2.alekberg.net
 dns2.cbio.top
 dns2.digitale-gesellschaft.ch
 dns2.dns-ga.de
@@ -789,6 +809,8 @@ dns8.org
 dns9.quad9.net
 dnsblock.grisumedia.de
 dnscache.e-utp.net
+dnscache0.ns71.net
+dnses.alekberg.net
 dnsforfamily.com
 dnsforge.de
 dnslow.me
@@ -813,8 +835,11 @@ doh-01.spectrum.com
 doh-02.spectrum.com
 doh-2.seby.io
 doh-ca.naftalie.net
+doh-ch.blahdns.com
 doh-de.blahdns.com
+doh-fi.blahdns.com
 doh-ipv6.crypto.sx
+doh-jp.blahdns.com
 doh-primary-pool.detoxifypornblocker.com
 doh-primary-pool.goodbyegambling.com
 doh-sg.blahdns.com
@@ -836,6 +861,7 @@ doh.asia.dnswarden.com
 doh.au.ahadns.net
 doh.azoris.ovh
 doh.beauty
+doh.blahdns.com
 doh.blockerdns.com
 doh.boje8.me
 doh.bortzmeyer.fr
@@ -920,6 +946,7 @@ doh.phdns2.lonet.org
 doh.phdns3.lonet.org
 doh.phdns4.lonet.org
 doh.phdns5.lonet.org
+doh.pi-dns.com
 doh.pl.ahadns.net
 doh.port53.dk
 doh.powerdns.org
@@ -940,6 +967,7 @@ doh.sunoaki.net
 doh.syshero.org
 doh.technochat.in
 doh.thio.me
+doh.this.web.id
 doh.tiar.app
 doh.tiarap.org
 doh.totoro.pub
@@ -948,6 +976,7 @@ doh.us.dnswarden.com
 doh.valscosmos.com
 doh.viatech.com.tw
 doh.webnmail.de
+doh.westeu.pi-dns.com
 doh.westus.pi-dns.com
 doh.wewitro.net
 doh.xcom.pro
@@ -965,7 +994,10 @@ doh2.gslb2.xfinity.com
 dohdot.coxlab.net
 dohtrial.att.net
 dooh.cloudflare-dns.com
+dot-ch.blahdns.com
 dot-de.blahdns.com
+dot-fi.blahdns.com
+dot-jp.blahdns.com
 dot-sg.blahdns.com
 dot.360.cn
 dot.au.ahadns.net
@@ -1005,6 +1037,8 @@ dus01.dnscry.pt
 ea-dns.rubyfish.cn
 easyhandshake.com
 echoe1yidzu4ioo5.myfritz.net
+ecs-doh.dnswarden.com
+edge.nextdns.io
 edgy-dns.com
 edns.233py.com
 ee-tll.doh.sb
@@ -1125,6 +1159,7 @@ india.privacy-dns.pw
 ines.zfn.uni-bremen.de
 inpssh.online
 internetsehat.bebasid.com
+iot-dns.com
 iow-dns.bitdefender.net
 ipoac.nl
 ist01.dnscry.pt
@@ -1135,7 +1170,6 @@ jit.ddns.net
 jkdns.me
 jkt01.dnscry.pt
 jnb01.dnscry.pt
-johneldenring.lol
 jp-dns1.bancuh.com
 jp-kix.doh.sb
 jp-nrt.doh.sb
@@ -1311,7 +1345,6 @@ ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
 osefcorp.duckdns.org
-outdoorchair.us
 p0.freedns.controld.com
 p1.freedns.controld.com
 p2.freedns.controld.com
@@ -1506,6 +1539,7 @@ uk-lon.doh.sb
 uk.teradns.org
 uk01.dns4me.net
 unasw.eu
+uncensored-dot.dnswarden.com
 uncensored.any.dns.nixnet.xyz
 uncensored.freedns.controld.com
 uncensored.lux1.dns.nixnet.xyz
