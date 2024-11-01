@@ -108,7 +108,6 @@ adguard1.jsanagustin.net
 adguard1.leadmon.net
 adguardhome.atakorah.com
 adl.adfilter.net
-ads.hunga1k47.com
 adult-filter-dns.cleanbrowsing.org
 adult-filter-dot.dnswarden.com
 ae-fuj-w-p-1.nashkan.net
@@ -150,6 +149,7 @@ anycast.dns.nextdns.io
 anycast.uncensoreddns.org
 apac-mask.wrr.mask.apple-dns.net
 api.cloudflareclient.com
+apple-relay.mask.apple-dns.net
 aqua.is.my.waifu.cz
 arashi.eu.org
 arashi.net.eu.org
@@ -172,7 +172,6 @@ b-ii.com
 b.family.ns.dnslify.com
 b.ns.dnslify.com
 b.safe.ns.dnslify.com
-bahopir188.dnshome.de
 base.dns.mullvad.net
 basic.bravedns.com
 basic.rethinkdns.com
@@ -331,7 +330,6 @@ dns.arkbotech.com
 dns.artikel10.org
 dns.ashleyjackson.net
 dns.asterimoon.com
-dns.auapi.fun
 dns.azsopro.net
 dns.b33.space
 dns.b612.me
@@ -689,7 +687,6 @@ dns.silen.org
 dns.silentlybren.com
 dns.simplylinux.ch
 dns.sindominio.net
-dns.siry.de
 dns.sitdns.com
 dns.skrep.eu
 dns.skrep.in
@@ -712,6 +709,7 @@ dns.swin.pro
 dns.switch.ch
 dns.syaifullah.com
 dns.szpadel.ovh
+dns.t-ipnet.de
 dns.t53.de
 dns.technologycage.com
 dns.technostriker.com
@@ -781,7 +779,6 @@ dns1.nordvpn.com
 dns1.pietjacobs.be
 dns1.ryan-palmer.com
 dns1.saferbfc.org
-dns1.server.my.id
 dns1.sg.newpangea.de
 dns1.techeasy.org
 dns1.us.newpangea.de
@@ -960,7 +957,6 @@ doh.safesurfer.io
 doh.sandbox.opendns.com
 doh.sb
 doh.seby.io
-doh.serverhost.no
 doh.sidnlabs.nl
 doh.suche.org
 doh.sunoaki.net
@@ -1217,7 +1213,6 @@ lion.dns.qwer.pw
 llk01.dnscry.pt
 loadlow.me
 local.sufly.top
-lon-dns.bitdefender.net
 lon01.dnscry.pt
 lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
