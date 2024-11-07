@@ -165,7 +165,6 @@ au-syd.doh.sb
 au.rslvr.eu
 au01.dns4me.net
 au02.dns4me.net
-ausyd2.mask-t.apple-dns.net
 ausyd2.mask.apple-dns.net
 awan.ftp.sh
 b-ii.com
@@ -253,10 +252,7 @@ de-fsn-w-p-1.nashkan.net
 de.dns.privex.io
 de.teradns.org
 de01.dns4me.net
-deber3.mask-t.apple-dns.net
 deber3.mask.apple-dns.net
-dedus1.mask-t.apple-dns.net
-dedus1.mask.apple-dns.net
 deep-henchman-excuse.cfd
 deic-lgb.anycast.censurfridns.dk
 deic-lgb.anycast.uncensoreddns.org
@@ -287,7 +283,6 @@ dns.0rz.ing
 dns.0x55.net
 dns.13evl.com
 dns.23-4.cn
-dns.233py.com
 dns.233py.com.cdn.cloudflare.net
 dns.240527.xyz
 dns.354688.xyz
@@ -330,6 +325,7 @@ dns.arkbotech.com
 dns.artikel10.org
 dns.ashleyjackson.net
 dns.asterimoon.com
+dns.auapi.fun
 dns.azsopro.net
 dns.b33.space
 dns.b612.me
@@ -487,7 +483,6 @@ dns.hoody.com
 dns.horcrux.vip
 dns.hostux.net
 dns.hotta.page
-dns.huas.me
 dns.hugo0.moe
 dns.hujiayucc.cn
 dns.huseynov.work
@@ -661,8 +656,8 @@ dns.retakecs.com
 dns.rin.sh
 dns.roedel.cloud
 dns.ronc.ru
+dns.rootlab.top
 dns.rotunneling.net
-dns.rslvr.eu
 dns.rubyfish.cn
 dns.sarak.as
 dns.sarakas.net
@@ -840,7 +835,6 @@ doh-jp.blahdns.com
 doh-primary-pool.detoxifypornblocker.com
 doh-primary-pool.goodbyegambling.com
 doh-sg.blahdns.com
-doh.233py.com
 doh.30x.me
 doh.360.cn
 doh.42l.fr
@@ -1036,7 +1030,6 @@ echoe1yidzu4ioo5.myfritz.net
 ecs-doh.dnswarden.com
 edge.nextdns.io
 edgy-dns.com
-edns.233py.com
 ee-tll.doh.sb
 eliatofani.ovh
 emby.rasp.tv
@@ -1093,7 +1086,6 @@ gb-cov-w-p-1.nashkan.net
 gb-lon-w-f-1.nashkan.net
 gb-lon-w-p-1.nashkan.net
 gb-lon-w-p-2.nashkan.net
-gbslo5.mask-t.apple-dns.net
 gbslo5.mask.apple-dns.net
 gclouddns.com
 geg01.dnscry.pt
@@ -1111,7 +1103,6 @@ gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
-ha.o51r15.com
 han01.dnscry.pt
 hanniel.tech
 hard.dnsforge.de
@@ -1125,7 +1116,6 @@ hk2.ooroot.com
 hkg01.dnscry.pt
 hkg02.dnscry.pt
 hkname.freecdn.one
-hktko1.mask-t.apple-dns.net
 hole.elbschloss.xyz
 home-server.store
 home.enjoymylife.net
@@ -1138,14 +1128,11 @@ httpdns-push.heytapmobile.com
 httpdns-sc.aliyuncs.com
 httpdns.meituan.com
 hungary.privacy-dns.pw
-i.233py.com
 iana.tenta.io
 ibksturm.synology.me
 ibuki.cgnat.net
 id.terra.my.id
 ie01.dns4me.net
-iedub2.mask-t.apple-dns.net
-iedub2.mask.apple-dns.net
 ihctw.synology.me
 iij.jp
 ikarosalpha.xyz
@@ -1170,7 +1157,6 @@ jp-dns1.bancuh.com
 jp-kix.doh.sb
 jp-nrt.doh.sb
 jp-tyo-w-p-1.nashkan.net
-jp.68360612.xyz
 jp.rslvr.eu
 jp.tiar.app
 jp.tiarap.org
@@ -1178,7 +1164,6 @@ jp01.dns4me.net
 jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
-jptyo12.mask-t.apple-dns.net
 jptyo12.mask.apple-dns.net
 jurre-home.duckdns.org
 justhost.bedro.cloud
@@ -1194,7 +1179,6 @@ korzhov.dev
 kr-sel.doh.sb
 kr1.ooroot.com
 kr2.ooroot.com
-kracon.anycast.censurfridns.dk
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
 krtekvpn.duckdns.org
@@ -1262,7 +1246,6 @@ naganohara-yoimiya.momokko.moe
 nana-is.so-gorgeo.us.kg
 nat64.tuxis.nl
 naw01.dnscry.pt
-ndns.233py.com
 nenam.eu
 net01.youcef.io
 netcup.mismat.ch
@@ -1275,7 +1258,6 @@ nl-dro-w-f-1.nashkan.net
 nl-dro-w-p-1.nashkan.net
 nl.dns.privex.io
 nl.rslvr.eu
-nlhfd1.mask-t.apple-dns.net
 nlhfd1.mask.apple-dns.net
 noads.imbuffering.com
 north-america-mask.wrr.mask.apple-dns.net
@@ -1363,7 +1345,6 @@ pihole1.hoerli.net
 pihole2.hoerli.net
 pihole3.hoerli.net
 pihole4.hoerli.net
-please.dontsteal.my.id
 pluton.plan9-dns.com
 pm1239-bd.xyz
 pm7051-br.xyz
@@ -1440,7 +1421,6 @@ safe.dot.dns.yandex.net
 safeservedns.com
 sandbox.opendns.com
 sbdns.co.in
-sdns.233py.com
 sdns22.gkonuralp.com
 sea01.dnscry.pt
 secondary.dns.seia.io
@@ -1456,7 +1436,6 @@ securenet.mhsystems.net
 security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com
 security.rabbitdns.org
-sesto4.mask-t.apple-dns.net
 sesto4.mask.apple-dns.net
 sg-dns1.bancuh.com
 sg-sin.doh.sb
@@ -1468,7 +1447,6 @@ sg01.dns4me.net
 sg1.dnswarden.com
 sg2.ooroot.com
 sgn01.dnscry.pt
-sgsin8.mask-t.apple-dns.net
 shalenkov.dev
 shield.afixer.app
 shield1.eranext.net
@@ -1523,7 +1501,6 @@ tuandns.duckdns.org
 tungdnsne.duckdns.org
 tuskythehusky.tech
 tw2.ooroot.com
-twntc1.mask-t.apple-dns.net
 twntc1.mask.apple-dns.net
 tx.teradns.org
 tyo01.dnscry.pt
@@ -1565,19 +1542,11 @@ us01.dns4me.net
 us02.dns4me.net
 us1.blissdns.net
 us1.dns.lavate.ch
-usatl5.mask-t.apple-dns.net
 usatl5.mask.apple-dns.net
-usbos2.mask-t.apple-dns.net
-uschi7.mask-t.apple-dns.net
 uschi7.mask.apple-dns.net
-usdal2.mask-t.apple-dns.net
-usden6.mask-t.apple-dns.net
 use-application-dns.net
-uslax2.mask-t.apple-dns.net
-usmia1.mask-t.apple-dns.net
 usmsc2.mask.apple-dns.net
 usqas5.mask.apple-dns.net
-usuyk1.mask-t.apple-dns.net
 usuyk1.mask.apple-dns.net
 uw-dns.rubyfish.cn
 v.dnscrypt.uk
@@ -1595,9 +1564,7 @@ vtcuong.site
 wantaquddin.com
 waw01.dnscry.pt
 waw02.dnscry.pt
-wdns.233py.com
 wikimedia-dns.org
-wrr.mask.apple-dns.net
 www.c-dns.com
 www.chungocoai.name.vn
 www.dltuykfgp.top
