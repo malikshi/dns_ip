@@ -149,6 +149,11 @@ anycast.dns.nextdns.io
 anycast.uncensoreddns.org
 apac-mask.wrr.mask.apple-dns.net
 api.cloudflareclient.com
+apple-relay.akamaized.net
+apple-relay.apple.com
+apple-relay.cloudfare.com
+apple-relay.cloudflare.com
+apple-relay.fastly-edge.com
 apple-relay.mask.apple-dns.net
 aqua.is.my.waifu.cz
 arashi.eu.org
@@ -177,7 +182,6 @@ basic.rethinkdns.com
 bazooki-infra.dev
 bestwon203.com
 bg.rslvr.eu
-bigora2.vuhai.de
 biying.flymlc.com
 bl.eq.md
 blackhole.myon.lu
@@ -207,7 +211,6 @@ cdn.0ms.dev
 cfdjb.org
 chandr1000.net
 chaos-system.de
-chr.kepegawaiandju.id
 chrome.cloudflare-dns.com
 chromium.dns.nextdns.io
 clean.dnsforge.de
@@ -260,7 +263,6 @@ deic-ore.anycast.censurfridns.dk
 deic-ore.anycast.uncensoreddns.org
 den01.dnscry.pt
 dfw02.dnscry.pt
-diy.itsa.top
 dltuykfgp.top
 dns-1.wil.cloud
 dns-2.wil.cloud
@@ -325,7 +327,6 @@ dns.arkbotech.com
 dns.artikel10.org
 dns.ashleyjackson.net
 dns.asterimoon.com
-dns.auapi.fun
 dns.azsopro.net
 dns.b33.space
 dns.b612.me
@@ -350,7 +351,6 @@ dns.bravoc.one
 dns.brembeck.cloud
 dns.burgas.pro
 dns.busold.ws
-dns.bw.i81.ru
 dns.cabbage.zone
 dns.cahlen.com
 dns.carson-family.com
@@ -1385,7 +1385,6 @@ res-acst3.absolight.net
 resolv1.trash.net
 resolv2.trash.net
 resolv3.trash.net
-resolve2.r9x.cc
 resolver-eu.haringstad.com
 resolver.r0cket.net
 resolver.rferee.dev
@@ -1431,7 +1430,6 @@ secure-dns.dns-ga.de
 secure-dns.pleumkungz.com
 secure.anudeep.me
 secure.avastdns.com
-secure.onedns.cc
 securenet.mhsystems.net
 security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com
