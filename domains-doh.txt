@@ -306,6 +306,7 @@ dns.9999.sg
 dns.a47.me
 dns.aa.net.uk
 dns.aaflalo.me
+dns.aaytorr.com
 dns.abdullahabas.de
 dns.adguard-dns.com
 dns.adguard.com
@@ -335,7 +336,6 @@ dns.artikel10.org
 dns.ashleyjackson.net
 dns.asterimoon.com
 dns.asysec.com
-dns.auapi.fun
 dns.azsopro.net
 dns.b33.space
 dns.b612.me
@@ -566,6 +566,7 @@ dns.linkr.ninja
 dns.lista.my.id
 dns.listo.click
 dns.lobbygod.com
+dns.lsho.top
 dns.luma-medien.com
 dns.lvolland.fr
 dns.maitrekuc.fr
@@ -585,6 +586,7 @@ dns.michelo.cl
 dns.mihanentalpo.me
 dns.mikeliu.org
 dns.mikrotikrumahan.my.id
+dns.milkpie.one
 dns.mnet-online.de
 dns.mo0on15.com
 dns.molinero.dev
@@ -822,7 +824,6 @@ dns3.dns-ga.de
 dns4me.net
 dns64.cloudflare-dns.com
 dns64.dns.google
-dns8.org
 dns9.quad9.net
 dnsblock.grisumedia.de
 dnscache.e-utp.net
@@ -1284,7 +1285,6 @@ michelo.line.pm
 mickedi.isgood.host
 mikezhang.xyz
 mil01.dnscry.pt
-miniapp.global
 minilla.store
 mita-is.so-gorgeo.us.kg
 mnrv.trade
