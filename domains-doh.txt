@@ -24,6 +24,7 @@
 8888.google
 a.family.ns.dnslify.com
 a.ns.dnslify.com
+a.passcloud.xyz
 a.safe.ns.dnslify.com
 a.zpn.me
 abe01.dnscry.pt
@@ -446,6 +447,7 @@ dns.expert
 dns.extrawdw.net
 dns.ezyss.id
 dns.f4a.fun
+dns.f97.xyz
 dns.faked.org
 dns.falkenthal.org
 dns.fancyorg.at
@@ -680,7 +682,6 @@ dns.ronc.ru
 dns.rootlab.top
 dns.rotunneling.net
 dns.rubyfish.cn
-dns.salonia.it
 dns.sarak.as
 dns.sarakas.net
 dns.sarilouis.com
@@ -733,7 +734,6 @@ dns.t53.de
 dns.technologycage.com
 dns.technostriker.com
 dns.telekom.de
-dns.tesem.dog
 dns.thebuckners.org
 dns.thegoodsource.net
 dns.theres.one
@@ -774,7 +774,6 @@ dns.weixin.qq.com.cn
 dns.xlion.tw
 dns.xuming.studio
 dns.xusqui.com
-dns.yague.me
 dns.yameenassotally.com
 dns.yandex.ru
 dns.yatima.tv
@@ -784,14 +783,11 @@ dns.zfsystem.tech
 dns.zzuhacker.cn
 dns0.eu
 dns01.flm9.net
-dns1.au.newpangea.de
-dns1.cl.newpangea.de
 dns1.conne.net
 dns1.digitale-gesellschaft.ch
 dns1.dns-ga.de
 dns1.dnscrypt.ca
 dns1.in-berlin.de
-dns1.in.newpangea.de
 dns1.irumatech.com
 dns1.klcd.eu
 dns1.nextdns.io
@@ -801,9 +797,7 @@ dns1.pietjacobs.be
 dns1.ryan-palmer.com
 dns1.saferbfc.org
 dns1.serdcebolit.ru
-dns1.sg.newpangea.de
 dns1.techeasy.org
-dns1.us.newpangea.de
 dns10.quad9.net
 dns11.quad9.net
 dns12.quad9.net
@@ -1163,6 +1157,7 @@ httpdns-push.heytapmobile.com
 httpdns-sc.aliyuncs.com
 httpdns.meituan.com
 hungary.privacy-dns.pw
+i.passcloud.xyz
 iana.tenta.io
 ibksturm.synology.me
 ibuki.cgnat.net
@@ -1281,7 +1276,6 @@ meganerd.nl
 megumin.is.my.waifu.cz
 mendozasdelivery.com
 mia01.dnscry.pt
-michelo.line.pm
 mickedi.isgood.host
 mikezhang.xyz
 mil01.dnscry.pt
@@ -1467,6 +1461,7 @@ resolver-eu.haringstad.com
 resolver.r0cket.net
 resolver.rferee.dev
 resolver.sunet.se
+resolver.unstoppable.io
 resolver1-fs.opendns.com
 resolver1.absolight.net
 resolver1.ipv6-sandbox.opendns.com
@@ -1642,7 +1637,6 @@ vno01.dnscry.pt
 vorlif.org
 voyage-s01.cloudku.technology
 vpn.technicule.info
-vps.robotboard.de
 vpsus3.pzhg.me
 vtcuong.site
 wantaquddin.com
