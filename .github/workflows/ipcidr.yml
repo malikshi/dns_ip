@@ -35,6 +35,9 @@ jobs:
           timezoneMacos: "Asia/Jakarta"
           timezoneWindows: "Indonesia Standard Time"
 
+      - name: Install dnsutils
+        run: apt -y update && apt install -y dnsutils
+
       - name: getDomainDoH
         run: |
           bash getDomainDOH.sh
