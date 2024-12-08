@@ -119,7 +119,6 @@ ae-fuj-w-p-3.nashkan.net
 aerodrorne.vip
 affcdn.net
 affsoft.cc
-africa-mask.wrr.mask.apple-dns.net
 africa.avastdns.com
 africadns1.liquidtelecom.net
 africadns2.liquidtelecom.net
@@ -150,14 +149,7 @@ antivirus.bebasid.com
 anycast.censurfridns.dk
 anycast.dns.nextdns.io
 anycast.uncensoreddns.org
-apac-mask.wrr.mask.apple-dns.net
 api.cloudflareclient.com
-apple-relay.akamaized.net
-apple-relay.apple.com
-apple-relay.cloudfare.com
-apple-relay.cloudflare.com
-apple-relay.fastly-edge.com
-apple-relay.mask.apple-dns.net
 aqua.is.my.waifu.cz
 arashi.eu.org
 arashi.net.eu.org
@@ -173,7 +165,6 @@ au-syd.doh.sb
 au.rslvr.eu
 au01.dns4me.net
 au02.dns4me.net
-ausyd2.mask.apple-dns.net
 awan.ftp.sh
 b-ii.com
 b.family.ns.dnslify.com
@@ -210,7 +201,6 @@ ca01.dns4me.net
 ca02.dns4me.net
 callies-online.site
 canadianshield.cira.ca
-canary.mask.apple-dns.net
 catchen121299.top
 catdns.org
 cdn.0ms.dev
@@ -261,7 +251,6 @@ de-fsn-w-p-1.nashkan.net
 de.dns.privex.io
 de.teradns.org
 de01.dns4me.net
-deber3.mask.apple-dns.net
 deep-henchman-excuse.cfd
 deic-lgb.anycast.censurfridns.dk
 deic-lgb.anycast.uncensoreddns.org
@@ -327,7 +316,6 @@ dns.api.rackspacecloud.com
 dns.api.sandbox.globuscs.info
 dns.api.staging.globuscs.info
 dns.api.test.globuscs.info
-dns.applewebkit.dev
 dns.aquilenet.fr
 dns.ares-taiwan.com
 dns.arkbotech.com
@@ -896,8 +884,6 @@ doh.defaultroutes.de
 doh.denypradana.com
 doh.disconnect.app
 doh.dns-ga.de
-doh.dns.apple.com
-doh.dns.apple.com.v.aaplimg.com
 doh.dns.sb
 doh.dns1.lonet.org
 doh.dns4all.eu
@@ -1056,7 +1042,6 @@ edgy-dns.com
 ee-tll.doh.sb
 eliatofani.ovh
 emby.rasp.tv
-emea-mask.wrr.mask.apple-dns.net
 esel.stusta.mhn.de
 eth.link
 eu.tri-dns.net
@@ -1112,7 +1097,6 @@ gb-cov-w-p-1.nashkan.net
 gb-lon-w-f-1.nashkan.net
 gb-lon-w-p-1.nashkan.net
 gb-lon-w-p-2.nashkan.net
-gbslo5.mask.apple-dns.net
 gclouddns.com
 geg01.dnscry.pt
 geshido.vpn.geshido.ru
@@ -1194,7 +1178,6 @@ jp01.dns4me.net
 jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
-jptyo12.mask.apple-dns.net
 jurre-home.duckdns.org
 justhost.bedro.cloud
 kaiwu.xyz
@@ -1258,13 +1241,6 @@ mailer.amlegion.org
 mailkyb.co
 mainframe.dewed.de
 maqgie.xyz
-mask-api.fe2.apple-dns.net
-mask-api.icloud.com
-mask-boot.icloud.com
-mask-canary.icloud.com
-mask-h2.icloud.com
-mask.apple-dns.net
-mask.icloud.com
 masters-of-cloud.de
 max.rethinkdns.com
 maxfong.cc
@@ -1310,10 +1286,8 @@ nl-dro-w-f-1.nashkan.net
 nl-dro-w-p-1.nashkan.net
 nl.dns.privex.io
 nl.rslvr.eu
-nlhfd1.mask.apple-dns.net
 noads.imbuffering.com
 nora-is.so-gorgeo.us.kg
-north-america-mask.wrr.mask.apple-dns.net
 nova-is.so-gorgeo.us.kg
 ns.00dani.me
 ns.data.haus
@@ -1355,7 +1329,6 @@ nz01.dns4me.net
 o.rsaikat.com
 o1.lt
 obscuro.top
-oceania-mask.wrr.mask.apple-dns.net
 odoh.cloudflare-dns.com
 odoh.crypto.sx
 odvr.nic.cz
@@ -1505,7 +1478,6 @@ securenet.mhsystems.net
 security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com
 security.rabbitdns.org
-sesto4.mask.apple-dns.net
 sg-dns1.bancuh.com
 sg-sin.doh.sb
 sg-w-f-1.nashkan.net
@@ -1530,7 +1502,6 @@ sky.rethinkdns.com
 skydragoness.com
 slc01.dnscry.pt
 sof01.dnscry.pt
-south-america-mask.wrr.mask.apple-dns.net
 spacedns.org
 squidmall.vip
 sriedmueadguard.casa
@@ -1576,7 +1547,6 @@ tujenasnaszato.xyz
 tungdnsne.duckdns.org
 tuskythehusky.tech
 tw2.ooroot.com
-twntc1.mask.apple-dns.net
 tx.teradns.org
 tyo01.dnscry.pt
 tyo02.dnscry.pt
@@ -1617,12 +1587,7 @@ us01.dns4me.net
 us02.dns4me.net
 us1.blissdns.net
 us1.dns.lavate.ch
-usatl5.mask.apple-dns.net
-uschi7.mask.apple-dns.net
 use-application-dns.net
-usmsc2.mask.apple-dns.net
-usqas5.mask.apple-dns.net
-usuyk1.mask.apple-dns.net
 uw-dns.rubyfish.cn
 v.dnscrypt.uk
 v.qdev.cc
