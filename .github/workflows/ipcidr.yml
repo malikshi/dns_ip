@@ -36,7 +36,7 @@ jobs:
           timezoneWindows: "Indonesia Standard Time"
 
       - name: Install dnsutils
-        run: apt -y update && apt install -y dnsutils
+        run: sudo apt -y update && sudo apt install -y dnsutils
 
       - name: getDomainDoH
         run: |
