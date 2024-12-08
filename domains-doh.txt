@@ -70,7 +70,6 @@ adguard.bonsirven.eu
 adguard.cloudmini.net
 adguard.dantynes.cyou
 adguard.dekonix.ru
-adguard.depieri.net
 adguard.easez.net
 adguard.ef67daisuki.club
 adguard.ender.fr
@@ -216,7 +215,6 @@ catchen121299.top
 catdns.org
 cdn.0ms.dev
 cfdjb.org
-chandr1000.net
 chaos-system.de
 chrome.cloudflare-dns.com
 chromium.dns.nextdns.io
@@ -719,6 +717,7 @@ dns.stevenz.net
 dns.stirringphoto.com
 dns.stormycloud.org
 dns.strassmair.org
+dns.stvsk.ml
 dns.suhaila.dev
 dns.superstefan.win
 dns.surobe.com
@@ -780,6 +779,7 @@ dns.yatima.tv
 dns.yuu-g.net
 dns.zemows.industries
 dns.zfsystem.tech
+dns.zui.lol
 dns.zzuhacker.cn
 dns0.eu
 dns01.flm9.net
@@ -920,7 +920,6 @@ doh.funil.de
 doh.funtopia.tv
 doh.futa.app
 doh.futa.gg
-doh.hajekj.net
 doh.hottis.de
 doh.ibr.cs.tu-bs.de
 doh.immerda.ch
@@ -1123,7 +1122,6 @@ glacius.top
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 goose.buckyfan.net
-greatideasforlife.lol
 green2.jnraptor.net
 gru01.dnscry.pt
 guard.sntrk.ru
