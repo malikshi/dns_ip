@@ -1,5 +1,6 @@
 import json
 import requests
+import subprocess
 
 # DNS server configuration
 dns_servers = [
@@ -40,8 +41,6 @@ def resolve_domain(domain):
                             if isinstance(answer, dict) and 'type' in answer and 'data' in answer:
                                 if (record_type == "A" and answer["type"] == 1) or (record_type == "AAAA" and answer["type"] == 28):
                                     results[record_type].add(f"{answer['data']} #{domain}")  # Add to set
-                            else:
-                                print(f"Unexpected answer format for {domain} from {server['name']}: {answer}")
                     else:
                         print(f"No answers found for {domain} with {server['name']}: {data}")
 
@@ -52,6 +51,25 @@ def resolve_domain(domain):
                 print(f"Error resolving {domain} with {server['name']}: {e}")
             except Exception as e:
                 print(f"Error processing domain {domain}: {e}")
+
+    # If no answers found, try using the dig command as a fallback
+    if not results['A'] or not results['AAAA']:
+        print(f"Trying dig command for {domain} as a fallback")
+        for record_type in ["A", "AAAA"]:
+            try:
+                # Construct the dig command
+                cmd = ["dig", "+short", record_type, domain]
+                result = subprocess.run(cmd, capture_output=True, text=True, check=True)
+                output = result.stdout.strip().splitlines()
+
+                for line in output:
+                    if record_type == "A":
+                        results['A'].add(f"{line} #{domain}")
+                    elif record_type == "AAAA":
+                        results['AAAA'].add(f"{line} #{domain}")
+
+            except subprocess.CalledProcessError as e:
+                print(f"Error executing dig for {domain}: {e}")
 
     return results
 
