@@ -1,6 +1,5 @@
 import json
 import requests
-from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # DNS server configuration
 dns_servers = [
@@ -60,18 +59,11 @@ def resolve_domain(domain):
 with open('domains-doh.txt', 'r') as f:
     domains = f.read().splitlines()
 
-# Use ThreadPoolExecutor to resolve domains concurrently
-with ThreadPoolExecutor(max_workers=5) as executor:
-    future_to_domain = {executor.submit(resolve_domain, domain): domain for domain in domains}
-
-    with open('ipv4-doh.txt', 'w') as ipv4_file, open('ipv6-doh.txt', 'w') as ipv6_file:
-        for future in as_completed(future_to_domain):
-            domain = future_to_domain[future]
-            try:
-                results = future.result()
-                if results['A']:
-                    ipv4_file.writelines("\n".join(results['A']) + "\n")
-                if results['AAAA']:
-                    ipv6_file.writelines("\n".join(results['AAAA']) + "\n")
-            except Exception as e:
-                print(f"Error processing domain {domain}: {e}")
+# Resolve domains sequentially
+with open('ipv4-doh.txt', 'w') as ipv4_file, open('ipv6-doh.txt', 'w') as ipv6_file:
+    for domain in domains:
+        results = resolve_domain(domain)
+        if results['A']:
+            ipv4_file.writelines("\n".join(results['A']) + "\n")
+        if results['AAAA']:
+            ipv6_file.writelines("\n".join(results['AAAA']) + "\n")
