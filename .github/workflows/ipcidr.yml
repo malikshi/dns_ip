@@ -69,10 +69,10 @@ jobs:
           cat ipv6.tmp ipv6-doh.tmp | sort -u > ipv6.txt
           cat ipv4.txt ipv6.txt > ip-dns.txt
 
-      # Remove IPs CDN Cloudflare
-      - name: Filter No CDN
-        run: |
-          python3 filter.py
+      # # Remove IPs CDN Cloudflare
+      # - name: Filter No CDN
+      #   run: |
+      #     python3 filter.py
 
       # Commit changed files to your repo
       - name: Git Auto Commit
