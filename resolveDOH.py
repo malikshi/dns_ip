@@ -1,6 +1,7 @@
 import json
 import requests
 import subprocess
+import ipaddress
 
 # DNS server configuration
 dns_servers = [
@@ -40,7 +41,13 @@ def resolve_domain(domain):
                             # Ensure the answer is a dict and has the expected fields
                             if isinstance(answer, dict) and 'type' in answer and 'data' in answer:
                                 if (record_type == "A" and answer["type"] == 1) or (record_type == "AAAA" and answer["type"] == 28):
-                                    results[record_type].add(f"{answer['data']} #{domain}")  # Add to set
+                                    # Validate IP address before adding
+                                    ip = answer['data']
+                                    if validate_ip(ip, record_type):
+                                        results[record_type].add(f"{ip} #{domain}")  # Add to set
+                                    else:
+                                        print(f"Invalid IP {ip} for {record_type} from {server['name']}")
+
                     else:
                         print(f"No answers found for {domain} with {server['name']}: {data}")
 
@@ -63,15 +70,27 @@ def resolve_domain(domain):
                 output = result.stdout.strip().splitlines()
 
                 for line in output:
-                    if record_type == "A":
-                        results['A'].add(f"{line} #{domain}")
-                    elif record_type == "AAAA":
-                        results['AAAA'].add(f"{line} #{domain}")
+                    if validate_ip(line, record_type):
+                        results[record_type].add(f"{line} #{domain}")
+                    else:
+                        print(f"Invalid IP {line} for {record_type} from dig command.")
 
             except subprocess.CalledProcessError as e:
                 print(f"Error executing dig for {domain}: {e}")
 
     return results
+
+def validate_ip(ip, record_type):
+    """ Validate if the IP is a valid IPv4 or IPv6 address. """
+    try:
+        if record_type == "A":
+            ipaddress.ip_address(ip)  # This will raise an error if it's not a valid IP
+            return True
+        elif record_type == "AAAA":
+            ipaddress.ip_address(ip)  # This will raise an error if it's not a valid IP
+            return True
+    except ValueError:
+        return False
 
 # Read domains from file
 with open('domains-doh.txt', 'r') as f:
