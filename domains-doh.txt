@@ -70,11 +70,13 @@ adguard.bonsirven.eu
 adguard.cloudmini.net
 adguard.dantynes.cyou
 adguard.dekonix.ru
+adguard.depieri.net
 adguard.easez.net
 adguard.ef67daisuki.club
 adguard.ender.fr
 adguard.frutuozo.com.br
 adguard.gambini.org
+adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.hartley.cloud
 adguard.ihatemy.live
@@ -166,7 +168,6 @@ au.rslvr.eu
 au01.dns4me.net
 au02.dns4me.net
 awan.ftp.sh
-b-ii.com
 b.family.ns.dnslify.com
 b.ns.dnslify.com
 b.safe.ns.dnslify.com
@@ -276,7 +277,6 @@ dns-privacy.puregeni.us
 dns-tls.bitwiseshift.net
 dns-unfiltered.adguard.com
 dns.0ooo.icu
-dns.0rz.ing
 dns.0x55.net
 dns.13evl.com
 dns.23-4.cn
@@ -287,6 +287,7 @@ dns.3wv.de
 dns.4-the.win
 dns.52306.org
 dns.688447.xyz
+dns.7sec.com.br
 dns.7vpn.com
 dns.886886886.xyz
 dns.888654.xyz
@@ -294,7 +295,6 @@ dns.9999.sg
 dns.a47.me
 dns.aa.net.uk
 dns.aaflalo.me
-dns.aaytorr.com
 dns.abdullahabas.de
 dns.adguard-dns.com
 dns.adguard.com
@@ -323,6 +323,7 @@ dns.artikel10.org
 dns.ashleyjackson.net
 dns.asterimoon.com
 dns.asysec.com
+dns.auapi.fun
 dns.azsopro.net
 dns.b33.space
 dns.b612.me
@@ -343,7 +344,6 @@ dns.bobstrecansky.com
 dns.bofh.in
 dns.braene.com
 dns.brahma.world
-dns.bravoc.one
 dns.brembeck.cloud
 dns.burgas.pro
 dns.busold.ws
@@ -484,7 +484,6 @@ dns.horcrux.vip
 dns.hostux.net
 dns.hotta.page
 dns.hshoe.cn
-dns.hugo0.moe
 dns.hujiayucc.cn
 dns.huseynov.work
 dns.huyhoangit.net
@@ -536,14 +535,12 @@ dns.koala.us.to
 dns.korzhyk.pp.ua
 dns.kosan.moe
 dns.kukal.cz
-dns.kumoumi.net
 dns.kusoneko.moe
 dns.kuuhaku.moe
 dns.kxy.ink
 dns.l337.site
 dns.lars-lehmann.net
 dns.lashes-brow.ru
-dns.learningman.top
 dns.lepilleur.com
 dns.lermer.nl
 dns.levonet.sk
@@ -574,7 +571,6 @@ dns.michelo.cl
 dns.mihanentalpo.me
 dns.mikeliu.org
 dns.mikrotikrumahan.my.id
-dns.milkpie.one
 dns.mnet-online.de
 dns.mo0on15.com
 dns.molinero.dev
@@ -619,7 +615,6 @@ dns.numerus.com
 dns.odinpl.com
 dns.ofdoom.net
 dns.oliviertv.co.za
-dns.olpploiopkuyhiopsfrt.info
 dns.opendns.com
 dns.oryxlabs.com
 dns.oszx.co
@@ -637,7 +632,6 @@ dns.petqa.ru
 dns.phillipjberry.net
 dns.pierzchlewicz.pl
 dns.pizzari.me
-dns.pnh.my.id
 dns.porteii.com
 dns.pragmasec.nl
 dns.princex.net
@@ -721,6 +715,7 @@ dns.t53.de
 dns.technologycage.com
 dns.technostriker.com
 dns.telekom.de
+dns.tesem.dog
 dns.thebuckners.org
 dns.thegoodsource.net
 dns.theres.one
@@ -980,7 +975,6 @@ doh.wewitro.net
 doh.xcom.pro
 doh.xfinity.com
 doh.xyz
-doh.zephyrus.id
 doh.zknt.org
 doh003.280blocker.net
 doh1.alidns.com
@@ -1109,7 +1103,6 @@ goose.buckyfan.net
 green2.jnraptor.net
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1143,22 +1136,20 @@ i.passcloud.xyz
 iana.tenta.io
 ibksturm.synology.me
 ibuki.cgnat.net
-id.terra.my.id
 ie01.dns4me.net
 ihctw.synology.me
 iij.jp
 ikarosalpha.xyz
 imperio.top
 in-blr.doh.sb
-india.privacy-dns.pw
 ines.zfn.uni-bremen.de
 inpssh.online
 internetsehat.bebasid.com
-iot-dns.com
 iow-dns.bitdefender.net
 ipoac.nl
 isb01.dnscry.pt
 ist01.dnscry.pt
+iterator.lazada.com
 ivnkn.xyz
 jabber-germany.de
 jackyes.ovh
@@ -1206,7 +1197,6 @@ lax02.dnscry.pt
 lelux.fi
 lesuo.top
 lewsha.lol
-lim01.dnscry.pt
 lim02.dnscry.pt
 lindung.pp.ua
 lion.dns.qwer.pw
@@ -1320,7 +1310,6 @@ ns4.opennameserver.org
 nsc.torgues.net
 nsec.arnor.org
 nue01.dnscry.pt
-nue2.moderateinfra.net
 nvi-dns.bitdefender.net
 ny.teradns.org
 ny1.nixnet.xyz
@@ -1464,7 +1453,6 @@ safe.dot.dns.yandex.net
 safeservedns.com
 sandbox.opendns.com
 sbdns.co.in
-sdns22.gkonuralp.com
 sea01.dnscry.pt
 secondary.dns.seia.io
 secondary.dns.yandex.ru
@@ -1511,9 +1499,7 @@ stratus.bugz.fr
 sukidayo.eu.org
 sundalandia.pp.ua
 sunnygyl.com
-sweden.privacy-dns.pw
 switch.ch
-switzerland.privacy-dns.pw
 syd.adfilter.net
 syd01.dnscry.pt
 syd02.dnscry.pt
@@ -1566,7 +1552,6 @@ uncensoreddns.org
 unfiltered.adguard-dns.com
 unicast.censurfridns.dk
 unicast.uncensoreddns.org
-united-arab-emirates.privacy-dns.pw
 urology.wiki
 us-chi-w-f-1.nashkan.net
 us-chi-w-p-1.nashkan.net
@@ -1599,7 +1584,6 @@ vm.mytm.cc
 vno01.dnscry.pt
 vorlif.org
 voyage-s01.cloudku.technology
-vpn.technicule.info
 vpsus3.pzhg.me
 vtcuong.site
 wantaquddin.com
