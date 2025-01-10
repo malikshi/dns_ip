@@ -79,7 +79,6 @@ adguard.gambini.org
 adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.hartley.cloud
-adguard.ihatemy.live
 adguard.jfchenier.ca
 adguard.johanliebert.top
 adguard.kiboko.it
@@ -323,7 +322,6 @@ dns.artikel10.org
 dns.ashleyjackson.net
 dns.asterimoon.com
 dns.asysec.com
-dns.auapi.fun
 dns.azsopro.net
 dns.b33.space
 dns.b612.me
