@@ -19,7 +19,8 @@ with open(ip_dns_file, "r") as file:
 filtered_ips = []
 for ip in ip_dns_list:
     is_cloudflare_ip = False
-    for network in cloudflare_ipv4_networks + cloudflare_ipv6_networks + exclude_ips_networks:
+    # for network in cloudflare_ipv4_networks + cloudflare_ipv6_networks + exclude_ips_networks:
+    for network in exclude_ips_networks:
         if ipaddress.ip_address(ip) in ipaddress.ip_network(network):
             is_cloudflare_ip = True
             break
