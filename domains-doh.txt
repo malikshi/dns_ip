@@ -13,6 +13,7 @@
 2.dnscrypt-cert.dns.seby.io
 2.dnscrypt-cert.ffmuc.net
 2.dnscrypt-cert.opendns.com
+2.dnscrypt-cert.pumplex.com
 2.dnscrypt-cert.quad9.net
 2.dnscrypt-cert.shield-2.dnsbycomodo.com
 233py.com
@@ -637,6 +638,7 @@ dns.propheci.xyz
 dns.psociety.de
 dns.pub
 dns.pumpkinvrar.com
+dns.pumplex.com
 dns.qrtz.club
 dns.quad9.net
 dns.quiet.rocks
@@ -1426,6 +1428,7 @@ resolver1.ipv6-sandbox.opendns.com
 resolver1.opendns.com
 resolver2-fs.opendns.com
 resolver2.absolight.net
+resolver2.dyndnsinternetguide.com
 resolver2.ipv6-sandbox.opendns.com
 resolver2.opendns.com
 resolver3.absolight.net
