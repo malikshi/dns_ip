@@ -1,5 +1,4 @@
 003153.xyz
-052419.xyz
 0ms.dev
 1.dns.noridev.moe
 123000123.xyz
@@ -27,7 +26,6 @@ a.family.ns.dnslify.com
 a.ns.dnslify.com
 a.passcloud.xyz
 a.safe.ns.dnslify.com
-a.zpn.me
 abe01.dnscry.pt
 abel.waringer-atg.de
 abn01.dnscry.pt
@@ -137,6 +135,7 @@ agh.printk.info
 agh.workfordemo.co.in
 agh.xinfeng16m.top
 ahadns.net
+ahoj.email
 alidns.51top.info
 alidns.cb1999.top
 alidns.com
@@ -322,6 +321,7 @@ dns.artikel10.org
 dns.ashleyjackson.net
 dns.asterimoon.com
 dns.asysec.com
+dns.auapi.fun
 dns.azsopro.net
 dns.b33.space
 dns.b612.me
@@ -1069,7 +1069,6 @@ fjr01.dnscry.pt
 fly.io
 fnt01.dnscry.pt
 fr-dns1.bancuh.com
-fr-gra-w-f-1.nashkan.net
 fr-gra-w-p-1.nashkan.net
 fr1.dnswarden.com
 fra-dns.bitdefender.net
@@ -1102,7 +1101,6 @@ goose.buckyfan.net
 green2.jnraptor.net
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1252,7 +1250,6 @@ mru01.dnscry.pt
 msr177.com
 muc01.dnscry.pt
 muli.stusta.mhn.de
-multi.dns.marbledfennec.net
 muxyuji.ru
 myatris.sbs
 myrra-is.so-gorgeo.us.kg
