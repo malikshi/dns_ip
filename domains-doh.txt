@@ -165,7 +165,6 @@ au-syd.doh.sb
 au.rslvr.eu
 au01.dns4me.net
 au02.dns4me.net
-awan.ftp.sh
 b.family.ns.dnslify.com
 b.ns.dnslify.com
 b.safe.ns.dnslify.com
@@ -426,7 +425,6 @@ dns.esnube.es
 dns.eu-frankfurt-1.oraclecloud.com
 dns.expert
 dns.extrawdw.net
-dns.ezyss.id
 dns.f4a.fun
 dns.f97.xyz
 dns.faked.org
@@ -907,7 +905,6 @@ doh.infracell.net
 doh.it.ahadns.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
-doh.kekew.info
 doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im
@@ -1153,6 +1150,7 @@ jit.ddns.net
 jkdns.me
 jkt01.dnscry.pt
 jnb01.dnscry.pt
+johneldenring.lol
 jp-dns1.bancuh.com
 jp-kix.doh.sb
 jp-nrt.doh.sb
@@ -1281,7 +1279,6 @@ ns.nwps.fi
 ns.ral9005.org
 ns.trcnet.fi
 ns0.fdn.fr
-ns1.dotls.org
 ns1.fdn.fr
 ns1.flodns.net
 ns1.opennameserver.org
@@ -1568,7 +1565,6 @@ us1.dns.lavate.ch
 use-application-dns.net
 uw-dns.rubyfish.cn
 v.dnscrypt.uk
-v.qdev.cc
 v2.xx3210766.live
 vd.i81.ru
 vie01.dnscry.pt
@@ -1584,7 +1580,6 @@ wikimedia-dns.org
 www.c-dns.com
 www.chungocoai.name.vn
 www.dltuykfgp.top
-www.dnsadguard.co.uk
 www.inpssh.online
 www.jabber-germany.de
 www.masters-of-cloud.de
