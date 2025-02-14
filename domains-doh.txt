@@ -126,6 +126,7 @@ ag.apollohct.com
 ag.ff0x.ca
 ag.hostme.co.il
 ag.marschi.de
+ag.ssrahul96.xyz
 agh-yz.russel053.com
 agh.dshubham.xyz
 agh.fltn.us
@@ -629,7 +630,6 @@ dns.pizzari.me
 dns.porteii.com
 dns.pragmasec.nl
 dns.princex.net
-dns.privado.ovh
 dns.propheci.xyz
 dns.psociety.de
 dns.pub
@@ -905,6 +905,7 @@ doh.infracell.net
 doh.it.ahadns.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
+doh.kekew.info
 doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im
@@ -1120,6 +1121,7 @@ home27.duckdns.org
 hostdare.qtxd.net
 hrk01.dnscry.pt
 hshh.org
+http-dns.imoim.net
 httpdns-push.heytapmobile.com
 httpdns-sc.aliyuncs.com
 httpdns.meituan.com
@@ -1407,6 +1409,7 @@ resolv.flokinet.net
 resolv1.trash.net
 resolv2.trash.net
 resolv3.trash.net
+resolve2.r9x.cc
 resolver-eu.haringstad.com
 resolver.r0cket.net
 resolver.rferee.dev
@@ -1573,6 +1576,7 @@ vno01.dnscry.pt
 vorlif.org
 voyage-s01.cloudku.technology
 vpsus3.pzhg.me
+vtcuong.site
 wantaquddin.com
 waw01.dnscry.pt
 waw02.dnscry.pt
