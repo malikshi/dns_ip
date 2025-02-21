@@ -50,7 +50,6 @@ adblock.mydns.network
 adblock.ny1.dns.nixnet.xyz
 adblockersite.com
 addns1.m-it.ro
-adfiltro.fun
 adfree.usableprivacy.net
 adfreedns.top
 adg.geili.me
@@ -80,6 +79,7 @@ adguard.haneulo.com
 adguard.hartley.cloud
 adguard.jfchenier.ca
 adguard.johanliebert.top
+adguard.kasbot.net
 adguard.kiboko.it
 adguard.konikoni428.com
 adguard.kss.ovh
@@ -156,6 +156,7 @@ arashi.eu.org
 arashi.net.eu.org
 area51.mywire.org
 armorrush.eu.org
+asia.tri-dns.net
 at-wie-w-p-1.nashkan.net
 at.pzhg.me
 ath01.dnscry.pt
@@ -283,12 +284,16 @@ dns.240527.xyz
 dns.354688.xyz
 dns.3wv.de
 dns.4-the.win
+dns.444723.xyz
 dns.52306.org
 dns.688447.xyz
+dns.775467.xyz
 dns.7sec.com.br
 dns.7vpn.com
+dns.853852.xyz
 dns.886886886.xyz
 dns.888654.xyz
+dns.8887744.xyz
 dns.9999.sg
 dns.a47.me
 dns.aa.net.uk
@@ -320,6 +325,7 @@ dns.artikel10.org
 dns.ashleyjackson.net
 dns.asterimoon.com
 dns.asysec.com
+dns.auapi.fun
 dns.azsopro.net
 dns.b33.space
 dns.b612.me
@@ -340,8 +346,10 @@ dns.bofh.in
 dns.braene.com
 dns.brahma.world
 dns.brembeck.cloud
+dns.brono.cloud
 dns.burgas.pro
 dns.busold.ws
+dns.butterfly87.sbs
 dns.cabbage.zone
 dns.cahlen.com
 dns.carson-family.com
@@ -358,6 +366,7 @@ dns.christerwaren.fi
 dns.christian.moe
 dns.chriswservers.com
 dns.chromeina.top
+dns.chunghwamc.com
 dns.circl.lu
 dns.clanless.ovh
 dns.clanto.cloud
@@ -391,6 +400,7 @@ dns.dallinbryce.com
 dns.datenquark.de
 dns.david888.com
 dns.daw.dev
+dns.de.futuredns.eu.org
 dns.deadsec.net
 dns.decky.eu
 dns.decloudus.com
@@ -409,6 +419,7 @@ dns.dnsoverhttps.net
 dns.dnswarden.com
 dns.dooks.uk
 dns.dotnet.win
+dns.dremaxx.de
 dns.dyn1.de
 dns.east.comss.one
 dns.eddi.net
@@ -595,6 +606,7 @@ dns.nextdns.io
 dns.nguyendn.com
 dns.nhtsky.com
 dns.nick-slowinski.de
+dns.nightlymoon.us.kg
 dns.ningkelle.id
 dns.nixnet.xyz
 dns.njal.la
@@ -619,6 +631,7 @@ dns.ovpn.bond
 dns.paesa.es
 dns.panszelescik.pl
 dns.pari.network
+dns.paulo.nom.za
 dns.pccoach.nl
 dns.peb-schmidt.de
 dns.pernika.net
@@ -715,6 +728,7 @@ dns.thebuckners.org
 dns.thegoodsource.net
 dns.theres.one
 dns.therifleman.name
+dns.thiz.top
 dns.tierradeayala.com
 dns.tipsy.coffee
 dns.tls-data.de
@@ -731,6 +745,7 @@ dns.unx.io
 dns.uplenk.com
 dns.us-ashburn-1.oraclecloud.com
 dns.us-phoenix-1.oraclecloud.com
+dns.us.futuredns.eu.org
 dns.vaioswolke.xyz
 dns.vault81.de
 dns.velyn.my.id
@@ -738,6 +753,7 @@ dns.vinnyp.xyz
 dns.vinokurov.tk
 dns.vishalk.com
 dns.vmath.my.id
+dns.vod11.xyz
 dns.vojtat.cz
 dns.w3ctag.org
 dns.wahr.top
@@ -757,7 +773,6 @@ dns.yatima.tv
 dns.yuu-g.net
 dns.zemows.industries
 dns.zfsystem.tech
-dns.zui.lol
 dns.zzuhacker.cn
 dns0.eu
 dns01.flm9.net
@@ -833,11 +848,13 @@ doh-jp.blahdns.com
 doh-own-recursion.nicolas-dorriere.fr
 doh-primary-pool.detoxifypornblocker.com
 doh-primary-pool.goodbyegambling.com
+doh-pure.onedns.net
 doh-random-upstream.nicolas-dorriere.fr
 doh-sg.blahdns.com
 doh.30x.me
 doh.360.cn
 doh.42l.fr
+doh.774445.xyz
 doh.aaaab3n.moe
 doh.abraservice.xyz
 doh.alidns.com
@@ -851,6 +868,7 @@ doh.asagiri.moe
 doh.asia.dnswarden.com
 doh.au.ahadns.net
 doh.azoris.ovh
+doh.battle.christmas
 doh.beauty
 doh.blahdns.com
 doh.blockerdns.com
@@ -950,6 +968,7 @@ doh.sandbox.opendns.com
 doh.sb
 doh.seby.io
 doh.sidnlabs.nl
+doh.sublime9.xyz
 doh.suche.org
 doh.sunoaki.net
 doh.syshero.org
@@ -1016,6 +1035,7 @@ dot1.applied-privacy.net
 dot1.appliedprivacy.net
 dotdns.cryptroute.com
 doth.huque.com
+droyd.top
 drs.rustsword.com
 dtw01.dnscry.pt
 dub01.dnscry.pt
@@ -1171,6 +1191,7 @@ kavkaz.monster
 keithchung.hopto.org
 kids.5ososea.com
 kids.dns0.eu
+kids.ns.nwps.fi
 kilabit.info
 kiri.nonexiste.net
 kiv01.dnscry.pt
@@ -1192,6 +1213,7 @@ lax02.dnscry.pt
 lelux.fi
 lesuo.top
 lewsha.lol
+lifeisa.live
 lim02.dnscry.pt
 lindung.pp.ua
 lion.dns.qwer.pw
@@ -1224,11 +1246,11 @@ mail.data.haus
 mailer.amlegion.org
 mailkyb.co
 mainframe.dewed.de
+man01.dnscry.pt
 maqgie.xyz
 masters-of-cloud.de
 max.rethinkdns.com
 maxfong.cc
-mc-sft.cn
 mecca-is.so-gorgeo.us.kg
 meganerd.nl
 megumin.is.my.waifu.cz
@@ -1240,6 +1262,7 @@ mil01.dnscry.pt
 minilla.store
 mita-is.so-gorgeo.us.kg
 mnrv.trade
+moamao.shop
 morbitzer.de
 mozilla.cloudflare-dns.com
 mru01.dnscry.pt
@@ -1301,6 +1324,7 @@ ns3.wuyouss.com
 ns4.opennameserver.org
 nsc.torgues.net
 nsec.arnor.org
+ntwrkh.pro
 nue01.dnscry.pt
 nvi-dns.bitdefender.net
 ny.teradns.org
@@ -1309,7 +1333,6 @@ nyc01.dnscry.pt
 nz01.dns4me.net
 o.rsaikat.com
 o1.lt
-obscuro.top
 odoh.cloudflare-dns.com
 odoh.crypto.sx
 odvr.nic.cz
@@ -1335,6 +1358,7 @@ p1.freedns.controld.com
 p2.freedns.controld.com
 p3.freedns.controld.com
 par01.dnscry.pt
+paradise-human.shop
 paranoia.mydns.network
 pashagame456.com
 pates.services.sfr.fr.casepp.sfr.fr
@@ -1342,6 +1366,7 @@ paulo.nom.za
 pdns.faelix.net
 pdns.itxe.net
 pdx01.dnscry.pt
+pepetio.xyz
 per.adfilter.net
 performance.gosami.xyz
 phl01.dnscry.pt
@@ -1385,6 +1410,7 @@ public-dns-a.dns.sb
 public-dns-b.dns.sb
 public.alidns.com
 public.dns.iij.jp
+public.ns.nwps.fi
 public2.alidns.com
 public254.alidns.com
 public99.alidns.com
@@ -1402,6 +1428,8 @@ rayneau.fr
 rdd01.dnscry.pt
 rdns.faelix.net
 rdu01.dnscry.pt
+regiopolis.cloud
+renardbleu.dev
 res-acst1.absolight.net
 res-acst2.absolight.net
 res-acst3.absolight.net
@@ -1435,6 +1463,7 @@ ric.openbld.net
 ricko.is
 ro-buc-w-f-1.nashkan.net
 ro-buc-w-p-1.nashkan.net
+rockwell.website
 romania.privacy-dns.pw
 rpz-public-resolver1.rrdns.pch.net
 ru-mow.doh.sb
@@ -1482,7 +1511,9 @@ sjc01.dnscry.pt
 sky.rethinkdns.com
 skydragoness.com
 slc01.dnscry.pt
+sm2.doh.pub
 sof01.dnscry.pt
+solaxy.live
 spacedns.org
 squidmall.vip
 sriedmueadguard.casa
@@ -1602,6 +1633,7 @@ xray.krnl.eu
 yarp.lefolgoc.net
 ychen.cf
 ychen.gq
+yhz01.dnscry.pt
 your-dns.run
 yovbak.com
 yul01.dnscry.pt
@@ -1609,6 +1641,7 @@ yunyun.is.my.waifu.cz
 yussy-is.so-gorgeo.us.kg
 yuvelirtut.website
 yvr01.dnscry.pt
+yyc01.dnscry.pt
 yyz01.dnscry.pt
 zakaria.website
 zal01.dnscry.pt
@@ -1617,4 +1650,3 @@ zdn.ro
 zero.dns0.eu
 zougloub.eu
 zrh1-ns01.monzoon.net
-zxcvb.pp.ua
