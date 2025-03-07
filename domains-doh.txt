@@ -55,7 +55,6 @@ adg.geili.me
 adg.jnorton.us
 adg.khon.dev
 adg.rueiliu.space
-adg.tshost.no
 adguard-dns.com
 adguard-kartoffel.zernico.de
 adguard.abd.ong
@@ -226,7 +225,6 @@ common.dot.dns.yandex.net
 commons.host
 comss.one
 comss.ru
-console.carestyle.org
 cph01.dnscry.pt
 crypto.sx
 cube.neubsi.at
@@ -352,7 +350,6 @@ dns.butterfly87.sbs
 dns.cabbage.zone
 dns.cahlen.com
 dns.carson-family.com
-dns.carter.me
 dns.caspervk.net
 dns.cctld.kg
 dns.ceai.com.tw
@@ -463,7 +460,6 @@ dns.gi.co.id
 dns.ginovs.nl
 dns.girino.org
 dns.glf.wtf
-dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -506,6 +502,7 @@ dns.indybanipal.com
 dns.inforlogia.com
 dns.interhub.cc
 dns.internal.hosmatic.com
+dns.invisv.com
 dns.is0mino.com
 dns.ishan.pw
 dns.islandnet.com
@@ -1112,7 +1109,6 @@ goose.buckyfan.net
 green2.jnraptor.net
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1157,7 +1153,6 @@ ines.zfn.uni-bremen.de
 inpssh.online
 internetsehat.bebasid.com
 iow-dns.bitdefender.net
-ipoac.nl
 isb01.dnscry.pt
 ist01.dnscry.pt
 iterator.lazada.com
@@ -1393,7 +1388,6 @@ polisitogel.luxe
 polisitogel.show
 polisitogel.webcam
 pooblet.co.za
-pope.cnblw.me
 princez.uk
 privacy.plumedns.com
 privacydns.go6lab.si
@@ -1436,6 +1430,7 @@ resolv2.trash.net
 resolv3.trash.net
 resolve2.r9x.cc
 resolver-eu.haringstad.com
+resolver.dnsprivacy.org.uk
 resolver.r0cket.net
 resolver.rferee.dev
 resolver.sunet.se
@@ -1644,3 +1639,4 @@ zdn.ro
 zero.dns0.eu
 zougloub.eu
 zrh1-ns01.monzoon.net
+zxcvb.pp.ua
