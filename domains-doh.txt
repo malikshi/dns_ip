@@ -80,7 +80,6 @@ adguard.johanliebert.top
 adguard.kasbot.net
 adguard.kiboko.it
 adguard.konikoni428.com
-adguard.kss.ovh
 adguard.leadseason.eu
 adguard.lege.despagne.net
 adguard.londonwebnerd.cloud
@@ -264,6 +263,7 @@ dns-doh.dnsforfamily.com
 dns-dot.dnsforfamily.com
 dns-family.adguard.com
 dns-fr-psv1.cloudsides.com
+dns-free.link
 dns-gcp.aaflalo.me
 dns-malwaresec.nordthreatprotection.com
 dns-nosec.quad9.net
@@ -275,7 +275,6 @@ dns-unfiltered.adguard.com
 dns.0ooo.icu
 dns.0x55.net
 dns.13evl.com
-dns.23-4.cn
 dns.233py.com.cdn.cloudflare.net
 dns.240527.xyz
 dns.354688.xyz
@@ -506,6 +505,7 @@ dns.ishan.pw
 dns.islandnet.com
 dns.janl.eu
 dns.jhangy.us
+dns.jichi.io
 dns.jinwoo.dev
 dns.jiyi.eu
 dns.joaofidelix.com.br
@@ -554,7 +554,6 @@ dns.lsho.top
 dns.luma-medien.com
 dns.maitrekuc.fr
 dns.mandre.dev
-dns.maolaohei.xyz
 dns.marasov.id
 dns.marbledfennec.net
 dns.mateo.ovh
@@ -569,6 +568,7 @@ dns.michelo.cl
 dns.mihanentalpo.me
 dns.mikeliu.org
 dns.mikrotikrumahan.my.id
+dns.milkpie.one
 dns.mnet-online.de
 dns.mo0on15.com
 dns.molinero.dev
@@ -743,7 +743,6 @@ dns.vinokurov.tk
 dns.vishalk.com
 dns.vmath.my.id
 dns.vod11.xyz
-dns.vojtat.cz
 dns.w3ctag.org
 dns.wahr.top
 dns.wang.art
@@ -808,7 +807,6 @@ dnses.alekberg.net
 dnsforfamily.com
 dnsforge.de
 dnslow.me
-dnsnl-noads.alekberg.net
 dnsnl.alekberg.net
 dnsotls.lab.nic.cl
 dnsovertls.sinodun.com
@@ -816,7 +814,6 @@ dnsovertls1.sinodun.com
 dnsovertls2.sinodun.com
 dnsovertls3.sinodun.com
 dnspub.restena.lu
-dnsse-noads.alekberg.net
 dnsse.alekberg.net
 dnstls.mobik.com
 dnsvps.familiamv.net
@@ -861,7 +858,6 @@ doh.battle.christmas
 doh.beauty
 doh.blahdns.com
 doh.blockerdns.com
-doh.boje8.me
 doh.bortzmeyer.fr
 doh.bt.com
 doh.buzz
@@ -871,7 +867,6 @@ doh.centraleu.pi-dns.com
 doh.chi.ahadns.net
 doh.cippapp.com
 doh.cleanbrowsing.org
-doh.cnetwork.cloud
 doh.cornes.me
 doh.cox.net
 doh.crypto.sx
@@ -1402,6 +1397,7 @@ qlf-doh.inria.fr
 qqmcfw.tech
 qual.cuprum.ru
 query.hdns.io
+quic.lol
 r1bnc.com
 rayneau.fr
 rdd01.dnscry.pt
