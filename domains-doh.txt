@@ -55,6 +55,7 @@ adg.geili.me
 adg.jnorton.us
 adg.khon.dev
 adg.rueiliu.space
+adg.yybyy.wiki
 adguard-dns.com
 adguard-kartoffel.zernico.de
 adguard.abd.ong
@@ -77,6 +78,7 @@ adguard.haneulo.com
 adguard.hartley.cloud
 adguard.jfchenier.ca
 adguard.johanliebert.top
+adguard.kantinyoyok.xyz
 adguard.kasbot.net
 adguard.kiboko.it
 adguard.konikoni428.com
@@ -108,6 +110,7 @@ adguard1.jsanagustin.net
 adguard1.leadmon.net
 adguardhome.atakorah.com
 adl.adfilter.net
+ads.hunga1k47.com
 adult-filter-dns.cleanbrowsing.org
 adult-filter-dot.dnswarden.com
 ae-fuj-w-p-1.nashkan.net
@@ -120,10 +123,10 @@ africa.avastdns.com
 africadns1.liquidtelecom.net
 africadns2.liquidtelecom.net
 ag.apollohct.com
+ag.brianlee.fun
 ag.ff0x.ca
 ag.hostme.co.il
 ag.marschi.de
-ag.ssrahul96.xyz
 agh-yz.russel053.com
 agh.dshubham.xyz
 agh.fltn.us
@@ -200,7 +203,6 @@ callies-online.site
 canadianshield.cira.ca
 catchen121299.top
 catdns.org
-cdn.0ms.dev
 cfdjb.org
 chaos-system.de
 chrome.cloudflare-dns.com
@@ -300,7 +302,6 @@ dns.adguard.com
 dns.adrianlam.com
 dns.aeiou.pp.ua
 dns.albony.xyz
-dns.alekberg.net
 dns.alidns.com
 dns.alloxr.info
 dns.almir1904.eu
@@ -557,6 +558,7 @@ dns.mandre.dev
 dns.marasov.id
 dns.marbledfennec.net
 dns.mateo.ovh
+dns.mathewakhil.online
 dns.maybe.icu
 dns.mayx.eu.org
 dns.mbrjun.cn
@@ -718,7 +720,6 @@ dns.thebuckners.org
 dns.thegoodsource.net
 dns.therifleman.name
 dns.thiz.top
-dns.tierradeayala.com
 dns.tipsy.coffee
 dns.tls-data.de
 dns.tracker.ink
@@ -752,6 +753,7 @@ dns.warpnine.de
 dns.watch
 dns.wechat.com
 dns.weixin.qq.com.cn
+dns.wibenson.cloud
 dns.xlion.tw
 dns.xuming.studio
 dns.xusqui.com
@@ -783,7 +785,6 @@ dns10.quad9.net
 dns11.quad9.net
 dns12.quad9.net
 dns13.quad9.net
-dns2.alekberg.net
 dns2.cbio.top
 dns2.digitale-gesellschaft.ch
 dns2.dns-ga.de
@@ -803,7 +804,6 @@ dns9.quad9.net
 dnsblock.grisumedia.de
 dnscache.e-utp.net
 dnscache0.ns71.net
-dnses.alekberg.net
 dnsforfamily.com
 dnsforge.de
 dnslow.me
@@ -1040,6 +1040,7 @@ eu1.dns.lavate.ch
 evn01.dnscry.pt
 example.doh.blockerdns.com
 extended.dns.mullvad.net
+externalmobiel.lekdijk.online
 eyg01.dnscry.pt
 family-filter-dns.cleanbrowsing.org
 family.5ososea.com
@@ -1099,6 +1100,7 @@ goose.buckyfan.net
 green2.jnraptor.net
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1451,6 +1453,7 @@ safe.dot.dns.yandex.net
 safeservedns.com
 sandbox.opendns.com
 sbdns.co.in
+sdns22.gkonuralp.com
 sea01.dnscry.pt
 secondary.dns.seia.io
 secondary.dns.yandex.ru
@@ -1578,6 +1581,7 @@ virga.pp.ua
 vno01.dnscry.pt
 vorlif.org
 voyage-s01.cloudku.technology
+vpn.technicule.info
 vpsus3.pzhg.me
 wantaquddin.com
 waw01.dnscry.pt
@@ -1596,7 +1600,6 @@ www.pukanuragan.ru
 www.unasw.eu
 www.zburger.top
 wyx.cloud
-xbcpb668.com
 xenergy.cc
 xholgm.top
 xn--durhre-yxa.de
