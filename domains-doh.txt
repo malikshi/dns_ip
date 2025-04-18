@@ -101,7 +101,6 @@ adguard.senthil.us
 adguard.shoupperuser.com
 adguard.shutgaming.net
 adguard.shuting.idv.tw
-adguard.sparshbajaj.me
 adguard.sscw.win
 adguard.twotigers.xyz
 adguard.wirimij.nl
@@ -235,7 +234,6 @@ cvt01.dnscry.pt
 cynntex.fun
 d.adguard-dns.com
 d.apemlegit.my.id
-d.bod.lol
 d.niaox.com
 d.toairs.com
 d2.shabi.icu
@@ -278,6 +276,7 @@ dns-unfiltered.adguard.com
 dns.0ooo.icu
 dns.0x55.net
 dns.13evl.com
+dns.23-4.cn
 dns.233py.com.cdn.cloudflare.net
 dns.240527.xyz
 dns.354688.xyz
@@ -343,7 +342,6 @@ dns.bofh.in
 dns.braene.com
 dns.brahma.world
 dns.brembeck.cloud
-dns.brono.cloud
 dns.burgas.pro
 dns.busold.ws
 dns.butterfly87.sbs
@@ -439,6 +437,7 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -492,6 +491,7 @@ dns.imchristian.de
 dns.immanuelschaffer.de
 dns.inclusioproject.com
 dns.indust.me
+dns.indybanipal.com
 dns.inforlogia.com
 dns.interhub.cc
 dns.internal.hosmatic.com
@@ -546,7 +546,6 @@ dns.linkr.ninja
 dns.lista.my.id
 dns.listo.click
 dns.lobbygod.com
-dns.lsho.top
 dns.luma-medien.com
 dns.maitrekuc.fr
 dns.mandre.dev
@@ -758,6 +757,7 @@ dns.yatima.tv
 dns.yuu-g.net
 dns.zemows.industries
 dns.zfsystem.tech
+dns.zui.lol
 dns.zzuhacker.cn
 dns0.eu
 dns01.flm9.net
@@ -843,6 +843,7 @@ doh.apad.pro
 doh.applied-privacy.net
 doh.appliedprivacy.net
 doh.archuser.org
+doh.armadillodns.net
 doh.asagiri.moe
 doh.asia.dnswarden.com
 doh.au.ahadns.net
@@ -1103,6 +1104,7 @@ hard.dnsforge.de
 hel01.dnscry.pt
 helios.plan9-dns.com
 hfgx.shop
+himedns.com
 hitian.me
 hk-hkg.doh.sb
 hk.rslvr.eu
@@ -1123,6 +1125,7 @@ httpdns-push.heytapmobile.com
 httpdns-sc.aliyuncs.com
 httpdns.meituan.com
 hungary.privacy-dns.pw
+hydra.plan9-ns1.com
 i.passcloud.xyz
 iana.tenta.io
 ibksturm.synology.me
@@ -1227,7 +1230,6 @@ maqgie.xyz
 masters-of-cloud.de
 max.rethinkdns.com
 maxfong.cc
-mc-sft.cn
 meganerd.nl
 megumin.is.my.waifu.cz
 mendozasdelivery.com
@@ -1416,6 +1418,7 @@ resolver1.ipv6-sandbox.opendns.com
 resolver1.opendns.com
 resolver2-fs.opendns.com
 resolver2.absolight.net
+resolver2.dyndnsinternetguide.com
 resolver2.ipv6-sandbox.opendns.com
 resolver2.opendns.com
 resolver3.absolight.net
@@ -1463,6 +1466,7 @@ sg-w-f-1.nashkan.net
 sg-w-p-1.nashkan.net
 sg.rslvr.eu
 sg.teradns.org
+sg.yepdns.com
 sg01.dns4me.net
 sg1.dnswarden.com
 sg2.ooroot.com
