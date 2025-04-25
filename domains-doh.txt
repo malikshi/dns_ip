@@ -276,7 +276,6 @@ dns-unfiltered.adguard.com
 dns.0ooo.icu
 dns.0x55.net
 dns.13evl.com
-dns.23-4.cn
 dns.233py.com.cdn.cloudflare.net
 dns.240527.xyz
 dns.354688.xyz
@@ -321,6 +320,7 @@ dns.arkbotech.com
 dns.artikel10.org
 dns.ashleyjackson.net
 dns.asterimoon.com
+dns.asysec.com
 dns.auapi.fun
 dns.azsopro.net
 dns.b33.space
@@ -418,10 +418,9 @@ dns.dynx.pro
 dns.east.comss.one
 dns.eddi.net
 dns.edgeburnmedia.com
-dns.editechstudio.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
-dns.ellichua.com
 dns.engineer.web.id
 dns.enzonix.com
 dns.esnube.es
@@ -533,7 +532,6 @@ dns.kusoneko.moe
 dns.kuuhaku.moe
 dns.kxy.ink
 dns.l337.site
-dns.labnekotest.site
 dns.lars-lehmann.net
 dns.lashes-brow.ru
 dns.lepilleur.com
@@ -1103,7 +1101,6 @@ hanniel.tech
 hard.dnsforge.de
 hel01.dnscry.pt
 helios.plan9-dns.com
-hfgx.shop
 himedns.com
 hitian.me
 hk-hkg.doh.sb
@@ -1118,7 +1115,6 @@ home.enjoymylife.net
 home.wriedts.de
 home27.duckdns.org
 hostdare.qtxd.net
-hrk01.dnscry.pt
 hshh.org
 http-dns.imoim.net
 httpdns-push.heytapmobile.com
@@ -1230,6 +1226,7 @@ maqgie.xyz
 masters-of-cloud.de
 max.rethinkdns.com
 maxfong.cc
+mc-sft.cn
 meganerd.nl
 megumin.is.my.waifu.cz
 mendozasdelivery.com
@@ -1451,7 +1448,6 @@ secondary.dns.seia.io
 secondary.dns.yandex.ru
 secondary.family.dns.yandex.ru
 secondary.safe.dns.yandex.ru
-secure-dns.dns-ga.de
 secure-dns.pleumkungz.com
 secure.anudeep.me
 secure.avastdns.com
@@ -1593,7 +1589,6 @@ www.unasw.eu
 wyx.cloud
 xenergy.cc
 xholgm.top
-xmr.land
 xn--durhre-yxa.de
 xray.krnl.eu
 yarp.lefolgoc.net
