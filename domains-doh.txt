@@ -321,7 +321,6 @@ dns.artikel10.org
 dns.ashleyjackson.net
 dns.asterimoon.com
 dns.asysec.com
-dns.auapi.fun
 dns.azsopro.net
 dns.b33.space
 dns.b612.me
@@ -418,6 +417,7 @@ dns.dynx.pro
 dns.east.comss.one
 dns.eddi.net
 dns.edgeburnmedia.com
+dns.editechstudio.com
 dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
@@ -695,6 +695,7 @@ dns.strassmair.org
 dns.stvsk.ml
 dns.suhaila.dev
 dns.superstefan.win
+dns.surfshark.com
 dns.surobe.com
 dns.sv-zauner.at
 dns.svoi.dev
@@ -1023,7 +1024,6 @@ ecs-doh.dnswarden.com
 edge.nextdns.io
 edgy-dns.com
 ee-tll.doh.sb
-eliatofani.ovh
 emby.rasp.tv
 esel.stusta.mhn.de
 eth.link
@@ -1091,7 +1091,6 @@ goose.buckyfan.net
 green2.jnraptor.net
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
