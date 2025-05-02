@@ -116,7 +116,6 @@ ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
 ae-fuj-w-p-3.nashkan.net
 aerodrorne.vip
-affcdn.net
 affsoft.cc
 africa.avastdns.com
 africadns1.liquidtelecom.net
@@ -374,6 +373,7 @@ dns.comff.net
 dns.comss.one
 dns.connect.fail
 dns.controld.com
+dns.cooluc.com
 dns.cryptomize.com
 dns.crystalyx.net
 dns.csa-rz.de
@@ -619,7 +619,6 @@ dns.pari.network
 dns.paulo.nom.za
 dns.pccoach.nl
 dns.peb-schmidt.de
-dns.pernika.net
 dns.pesaventofilippo.com
 dns.petqa.ru
 dns.phillipjberry.net
@@ -1091,6 +1090,7 @@ goose.buckyfan.net
 green2.jnraptor.net
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1233,7 +1233,6 @@ mia01.dnscry.pt
 mickedi.isgood.host
 mikezhang.xyz
 mil01.dnscry.pt
-moamao.shop
 morbitzer.de
 mozilla.cloudflare-dns.com
 mru01.dnscry.pt
@@ -1414,7 +1413,6 @@ resolver1.ipv6-sandbox.opendns.com
 resolver1.opendns.com
 resolver2-fs.opendns.com
 resolver2.absolight.net
-resolver2.dyndnsinternetguide.com
 resolver2.ipv6-sandbox.opendns.com
 resolver2.opendns.com
 resolver3.absolight.net
