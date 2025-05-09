@@ -54,7 +54,6 @@ adfreedns.top
 adg.geili.me
 adg.jnorton.us
 adg.khon.dev
-adg.rueiliu.space
 adg.yybyy.wiki
 adguard-dns.com
 adguard-kartoffel.zernico.de
@@ -140,7 +139,6 @@ alidns.cb1999.top
 alidns.com
 alidns2.cb1999.top
 all.dns.mullvad.net
-alleesph.online
 ams01.dnscry.pt
 ams02.dnscry.pt
 ant.dns.qwer.pw
@@ -254,7 +252,6 @@ deic-ore.anycast.censurfridns.dk
 deic-ore.anycast.uncensoreddns.org
 den01.dnscry.pt
 dfw02.dnscry.pt
-dltuykfgp.top
 dns-1.wil.cloud
 dns-2.wil.cloud
 dns-cybersec.nordthreatprotection.com
@@ -320,6 +317,7 @@ dns.artikel10.org
 dns.ashleyjackson.net
 dns.asterimoon.com
 dns.asysec.com
+dns.auapi.fun
 dns.azsopro.net
 dns.b33.space
 dns.b612.me
@@ -761,7 +759,6 @@ dns0.eu
 dns01.flm9.net
 dns1.conne.net
 dns1.digitale-gesellschaft.ch
-dns1.dns-ga.de
 dns1.dnscrypt.ca
 dns1.in-berlin.de
 dns1.irumatech.com
@@ -780,7 +777,6 @@ dns12.quad9.net
 dns13.quad9.net
 dns2.cbio.top
 dns2.digitale-gesellschaft.ch
-dns2.dns-ga.de
 dns2.guidocioni.it
 dns2.in-berlin.de
 dns2.klcd.eu
@@ -789,7 +785,6 @@ dns2.nextdns.io
 dns2.nordvpn.com
 dns2.prima-solusindo.com
 dns2.saferbfc.org
-dns3.dns-ga.de
 dns4me.net
 dns64.cloudflare-dns.com
 dns64.dns.google
@@ -866,7 +861,6 @@ doh.datahata.by
 doh.defaultroutes.de
 doh.denypradana.com
 doh.disconnect.app
-doh.dns-ga.de
 doh.dns.sb
 doh.dns1.lonet.org
 doh.dns4all.eu
@@ -1090,13 +1084,11 @@ goose.buckyfan.net
 green2.jnraptor.net
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
 haf01.dnscry.pt
 han01.dnscry.pt
-hanniel.tech
 hard.dnsforge.de
 hel01.dnscry.pt
 helios.plan9-dns.com
@@ -1357,7 +1349,6 @@ polisitogel.hair
 polisitogel.limo
 polisitogel.living
 polisitogel.luxe
-polisitogel.show
 polisitogel.webcam
 pooblet.co.za
 princez.uk
@@ -1575,7 +1566,6 @@ waw02.dnscry.pt
 wikimedia-dns.org
 www.c-dns.com
 www.chungocoai.name.vn
-www.dltuykfgp.top
 www.inpssh.online
 www.jabber-germany.de
 www.masters-of-cloud.de
