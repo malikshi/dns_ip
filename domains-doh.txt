@@ -390,7 +390,6 @@ dns.dallinbryce.com
 dns.datenquark.de
 dns.david888.com
 dns.daw.dev
-dns.de.futuredns.eu.org
 dns.deadsec.net
 dns.decky.eu
 dns.decloudus.com
@@ -416,7 +415,6 @@ dns.east.comss.one
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -573,7 +571,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -610,7 +607,6 @@ dns.oryxlabs.com
 dns.oszx.co
 dns.ours.luxe
 dns.ourvau.lt
-dns.ovpn.bond
 dns.paesa.es
 dns.panszelescik.pl
 dns.pari.network
@@ -724,7 +720,6 @@ dns.unerror.network
 dns.unx.io
 dns.us-ashburn-1.oraclecloud.com
 dns.us-phoenix-1.oraclecloud.com
-dns.us.futuredns.eu.org
 dns.vaioswolke.xyz
 dns.vault81.de
 dns.velyn.my.id
@@ -1566,6 +1561,7 @@ waw02.dnscry.pt
 wikimedia-dns.org
 www.c-dns.com
 www.chungocoai.name.vn
+www.dnsadguard.co.uk
 www.inpssh.online
 www.jabber-germany.de
 www.masters-of-cloud.de
