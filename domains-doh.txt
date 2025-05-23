@@ -272,6 +272,7 @@ dns-unfiltered.adguard.com
 dns.0ooo.icu
 dns.0x55.net
 dns.13evl.com
+dns.23-4.cn
 dns.233py.com.cdn.cloudflare.net
 dns.240527.xyz
 dns.354688.xyz
@@ -415,6 +416,7 @@ dns.east.comss.one
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -571,6 +573,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -630,7 +633,6 @@ dns.qrtz.club
 dns.quad9.net
 dns.quiet.rocks
 dns.rabbitdns.org
-dns.rafn.is
 dns.rayanbab.com
 dns.rbn.gr
 dns.reckoningslug.name
@@ -748,7 +750,6 @@ dns.yatima.tv
 dns.yuu-g.net
 dns.zemows.industries
 dns.zfsystem.tech
-dns.zui.lol
 dns.zzuhacker.cn
 dns0.eu
 dns01.flm9.net
@@ -981,7 +982,6 @@ dot.in.ahadns.net
 dot.it.ahadns.net
 dot.la.ahadns.net
 dot.libredns.gr
-dot.libredns.gr.com
 dot.nl.ahadns.net
 dot.no.ahadns.net
 dot.northeu.pi-dns.com
@@ -1134,6 +1134,7 @@ jit.ddns.net
 jkdns.me
 jkt01.dnscry.pt
 jnb01.dnscry.pt
+johneldenring.lol
 jp-dns1.bancuh.com
 jp-kix.doh.sb
 jp-nrt.doh.sb
@@ -1368,7 +1369,6 @@ punono.duckdns.org
 puredns.org
 qdns02.nymterm.com
 qlf-doh.inria.fr
-qqmcfw.tech
 qual.cuprum.ru
 query.hdns.io
 quic.lol
