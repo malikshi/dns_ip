@@ -278,16 +278,13 @@ dns.240527.xyz
 dns.354688.xyz
 dns.3wv.de
 dns.4-the.win
-dns.444723.xyz
 dns.52306.org
 dns.688447.xyz
-dns.775467.xyz
 dns.7sec.com.br
 dns.7vpn.com
 dns.853852.xyz
 dns.886886886.xyz
 dns.888654.xyz
-dns.8887744.xyz
 dns.9999.sg
 dns.a47.me
 dns.aa.net.uk
@@ -416,6 +413,7 @@ dns.east.comss.one
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -433,7 +431,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -544,6 +541,7 @@ dns.lobbygod.com
 dns.luma-medien.com
 dns.maitrekuc.fr
 dns.mandre.dev
+dns.maolaohei.xyz
 dns.marasov.id
 dns.marbledfennec.net
 dns.mateo.ovh
@@ -572,6 +570,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -820,7 +819,6 @@ doh-sg.blahdns.com
 doh.30x.me
 doh.360.cn
 doh.42l.fr
-doh.774445.xyz
 doh.aaaab3n.moe
 doh.abraservice.xyz
 doh.alidns.com
@@ -835,7 +833,6 @@ doh.asagiri.moe
 doh.asia.dnswarden.com
 doh.au.ahadns.net
 doh.azoris.ovh
-doh.battle.christmas
 doh.beauty
 doh.blahdns.com
 doh.blockerdns.com
@@ -1009,6 +1006,7 @@ ecs-doh.dnswarden.com
 edge.nextdns.io
 edgy-dns.com
 ee-tll.doh.sb
+eliatofani.ovh
 emby.rasp.tv
 esel.stusta.mhn.de
 eth.link
@@ -1092,7 +1090,6 @@ hk.rslvr.eu
 hk2.ooroot.com
 hkg01.dnscry.pt
 hkg02.dnscry.pt
-hkname.freecdn.one
 hole.elbschloss.xyz
 home-server.store
 home.enjoymylife.net
