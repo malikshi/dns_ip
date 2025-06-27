@@ -157,7 +157,6 @@ at-wie-w-p-1.nashkan.net
 at.pzhg.me
 ath01.dnscry.pt
 atl01.dnscry.pt
-atris.cyou
 au-syd-w-f-1.nashkan.net
 au-syd.doh.sb
 au.rslvr.eu
@@ -233,6 +232,7 @@ cvt01.dnscry.pt
 cynntex.fun
 d.adguard-dns.com
 d.apemlegit.my.id
+d.bod.lol
 d.niaox.com
 d.toairs.com
 d2.shabi.icu
@@ -433,6 +433,7 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -605,7 +606,6 @@ dns.oliviertv.co.za
 dns.olpploiopkuyhiopsfrt.info
 dns.opendns.com
 dns.oryxlabs.com
-dns.oszx.co
 dns.ours.luxe
 dns.ourvau.lt
 dns.paesa.es
@@ -884,7 +884,6 @@ doh.hottis.de
 doh.ibr.cs.tu-bs.de
 doh.immerda.ch
 doh.in.ahadns.net
-doh.infotek.net.id
 doh.infracell.net
 doh.it.ahadns.net
 doh.iucc.ac.il
@@ -1400,7 +1399,6 @@ resolver.sunet.se
 resolver.unstoppable.io
 resolver1-fs.opendns.com
 resolver1.absolight.net
-resolver1.dyndnsinternetguide.com
 resolver1.ipv6-sandbox.opendns.com
 resolver1.opendns.com
 resolver2-fs.opendns.com
