@@ -207,7 +207,6 @@ chrome.cloudflare-dns.com
 chromium.dns.nextdns.io
 clean.dnsforge.de
 cleanbrowsing.org
-clearweb.woodbridge.club
 clientdns3.softcom.net
 cloud.198.games
 cloud.samutz.com
@@ -456,7 +455,6 @@ dns.google
 dns.google.com
 dns.grqu.de
 dns.guard.io
-dns.guardmydns.com
 dns.gutwe.in
 dns.ha-dvin.pp.ua
 dns.hahnjo.de
@@ -514,7 +512,6 @@ dns.karl.one
 dns.kastner-online.de
 dns.kawa.tf
 dns.kebree.fr
-dns.keke125.com
 dns.kerekes.xyz
 dns.kernel-error.de
 dns.kescher.at
@@ -748,7 +745,6 @@ dns.yandex.ru
 dns.yatima.tv
 dns.yuu-g.net
 dns.zemows.industries
-dns.zfsystem.tech
 dns.zzuhacker.cn
 dns0.eu
 dns01.flm9.net
@@ -1260,6 +1256,7 @@ ns.nwps.fi
 ns.ral9005.org
 ns.trcnet.fi
 ns0.fdn.fr
+ns1.dotls.org
 ns1.fdn.fr
 ns1.flodns.net
 ns1.opennameserver.org
@@ -1349,6 +1346,7 @@ polisitogel.hair
 polisitogel.limo
 polisitogel.living
 polisitogel.luxe
+polisitogel.show
 polisitogel.webcam
 pooblet.co.za
 princez.uk
