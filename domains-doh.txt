@@ -15,7 +15,6 @@
 2.dnscrypt-cert.quad9.net
 2.dnscrypt-cert.shield-2.dnsbycomodo.com
 233py.com
-351242444.xyz
 3dcosas.xyz
 3dns.eu
 3jjxxl.tech
@@ -414,7 +413,6 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edgy.network
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -1495,7 +1493,6 @@ tj.jamesxue.xyz
 tky-dns.bitdefender.net
 tll01.dnscry.pt
 tlv01.dnscry.pt
-tlz.asia
 tor.cloudflare-dns.com
 tor.vasi.li
 tpa01.dnscry.pt
