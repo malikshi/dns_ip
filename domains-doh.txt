@@ -48,11 +48,13 @@ adblock.mydns.network
 adblock.ny1.dns.nixnet.xyz
 adblockersite.com
 addns1.m-it.ro
+adfiltro.fun
 adfree.usableprivacy.net
 adfreedns.top
 adg.geili.me
 adg.jnorton.us
 adg.khon.dev
+adg.rueiliu.space
 adg.yybyy.wiki
 adguard-dns.com
 adguard-kartoffel.zernico.de
@@ -69,7 +71,6 @@ adguard.depieri.net
 adguard.easez.net
 adguard.ef67daisuki.club
 adguard.ender.fr
-adguard.frutuozo.com.br
 adguard.gambini.org
 adguard.gbrossi.com.br
 adguard.haneulo.com
@@ -86,7 +87,6 @@ adguard.londonwebnerd.cloud
 adguard.maison.gifino.fr
 adguard.marto.si
 adguard.meddy94.de
-adguard.neon0404.space
 adguard.oms-ctr.ru
 adguard.onlyfriends.info
 adguard.pangerl.it
@@ -114,6 +114,7 @@ ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
 ae-fuj-w-p-3.nashkan.net
 aerodrorne.vip
+affcdn.net
 affsoft.cc
 africa.avastdns.com
 africadns1.liquidtelecom.net
@@ -138,6 +139,7 @@ alidns.cb1999.top
 alidns.com
 alidns2.cb1999.top
 all.dns.mullvad.net
+alleesph.online
 ams01.dnscry.pt
 ams02.dnscry.pt
 ant.dns.qwer.pw
@@ -313,7 +315,6 @@ dns.artikel10.org
 dns.ashleyjackson.net
 dns.asterimoon.com
 dns.asysec.com
-dns.auapi.fun
 dns.azsopro.net
 dns.b33.space
 dns.b612.me
@@ -334,6 +335,7 @@ dns.bofh.in
 dns.braene.com
 dns.brahma.world
 dns.brembeck.cloud
+dns.brono.cloud
 dns.burgas.pro
 dns.busold.ws
 dns.butterfly87.sbs
@@ -430,7 +432,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -441,6 +442,7 @@ dns.freyja.pw
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
 dns.furrydns.de
+dns.futuredns.me
 dns.gamban.com
 dns.gayanalysing.co.uk
 dns.gi.co.id
@@ -469,6 +471,7 @@ dns.hoody.com
 dns.horcrux.vip
 dns.hostux.net
 dns.hotta.page
+dns.huas.me
 dns.hujiayucc.cn
 dns.huseynov.work
 dns.huyhoangit.net
@@ -524,6 +527,7 @@ dns.kusoneko.moe
 dns.kuuhaku.moe
 dns.kxy.ink
 dns.l337.site
+dns.labnekotest.site
 dns.lars-lehmann.net
 dns.lashes-brow.ru
 dns.lepilleur.com
@@ -531,6 +535,7 @@ dns.lermer.nl
 dns.levonet.sk
 dns.lgprk.com
 dns.liberador.net
+dns.lightmaster.pw
 dns.lihj.me
 dns.linkr.ninja
 dns.lista.my.id
@@ -575,7 +580,6 @@ dns.narl.app
 dns.nas-server.ru
 dns.neeb.it
 dns.neilzone.co.uk
-dns.neowutran.ovh
 dns.netraptor.com.au
 dns.netvpn.net
 dns.neubsi.at
@@ -743,6 +747,7 @@ dns.yandex.ru
 dns.yatima.tv
 dns.yuu-g.net
 dns.zemows.industries
+dns.zui.lol
 dns.zzuhacker.cn
 dns0.eu
 dns01.flm9.net
@@ -845,6 +850,7 @@ doh.centraleu.pi-dns.com
 doh.chi.ahadns.net
 doh.cippapp.com
 doh.cleanbrowsing.org
+doh.cnetwork.cloud
 doh.cornes.me
 doh.cox.net
 doh.crypto.sx
@@ -995,6 +1001,7 @@ dotdns.cryptroute.com
 doth.huque.com
 draco.plan9-ns2.com
 droyd.top
+drs.rustsword.com
 dtw01.dnscry.pt
 dub01.dnscry.pt
 dukun.de
@@ -1395,6 +1402,7 @@ resolver.sunet.se
 resolver.unstoppable.io
 resolver1-fs.opendns.com
 resolver1.absolight.net
+resolver1.dyndnsinternetguide.com
 resolver1.ipv6-sandbox.opendns.com
 resolver1.opendns.com
 resolver2-fs.opendns.com
