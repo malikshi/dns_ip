@@ -63,7 +63,6 @@ adguard.alu.dog
 adguard.avdkishore.dev
 adguard.bonis.de
 adguard.bonsirven.eu
-adguard.cloudmini.net
 adguard.dantynes.cyou
 adguard.dekonix.ru
 adguard.depieri.net
@@ -138,6 +137,7 @@ alidns.com
 alidns2.cb1999.top
 all.dns.mullvad.net
 alleesph.online
+alpha.dnsbunker.org
 ams01.dnscry.pt
 ams02.dnscry.pt
 ant.dns.qwer.pw
@@ -186,6 +186,7 @@ bog01.dnscry.pt
 bom01.dnscry.pt
 br.servers.legat.ml
 bravedns.com
+bravo.dnsbunker.org
 bru01.dnscry.pt
 bts01.dnscry.pt
 c-dns.com
@@ -364,6 +365,7 @@ dns.cloudtrust.solutions
 dns.cmrg.net
 dns.coderoria.com
 dns.colorfreedom.org
+dns.comeonjames.club
 dns.comff.net
 dns.comss.one
 dns.connect.fail
@@ -403,7 +405,6 @@ dns.dns-over-https.com
 dns.dnshome.de
 dns.dnsoverhttps.net
 dns.dnswarden.com
-dns.dooks.uk
 dns.dotnet.win
 dns.dremaxx.de
 dns.dyn1.de
@@ -586,7 +587,6 @@ dns.nguyendn.com
 dns.nhtsky.com
 dns.nick-slowinski.de
 dns.ningkelle.id
-dns.nixnet.xyz
 dns.njal.la
 dns.nodoa.me
 dns.notjakob.com
@@ -784,6 +784,7 @@ dns64.cloudflare-dns.com
 dns64.dns.google
 dns9.quad9.net
 dnsblock.grisumedia.de
+dnsbunker.org
 dnscache.e-utp.net
 dnscache0.ns71.net
 dnsforfamily.com
@@ -1064,7 +1065,6 @@ fuchur.pentament.de
 fwgw.orangepipc.mywire.org
 galileo.math.unipd.it
 gateway.fomichev.cloud
-gb-cov-w-f-1.nashkan.net
 gb-cov-w-p-1.nashkan.net
 gb-lon-w-f-1.nashkan.net
 gb-lon-w-p-1.nashkan.net
@@ -1081,7 +1081,6 @@ goose.buckyfan.net
 green2.jnraptor.net
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1239,6 +1238,7 @@ naganohara-yoimiya.momokko.moe
 najiakeji.top
 nat64.tuxis.nl
 naw01.dnscry.pt
+net01.youcef.io
 netcup.mismat.ch
 newd.rezyro.com
 nicsezcheckfbi.gov
@@ -1296,6 +1296,7 @@ okado.online
 omr01.dnscry.pt
 one.one.one.one
 open.dns0.eu
+openbld.net
 opencdn.jomodns.com
 opennic.i2pd.xyz
 opennic.tenta.io
@@ -1400,7 +1401,6 @@ resolver.sunet.se
 resolver.unstoppable.io
 resolver1-fs.opendns.com
 resolver1.absolight.net
-resolver1.dyndnsinternetguide.com
 resolver1.ipv6-sandbox.opendns.com
 resolver1.opendns.com
 resolver2-fs.opendns.com
@@ -1483,7 +1483,6 @@ sundalandia.pp.ua
 sunnygyl.com
 switch.ch
 syd.adfilter.net
-syd01.dnscry.pt
 syd02.dnscry.pt
 takhtakh.domyah.net
 tbs01.dnscry.pt
@@ -1595,6 +1594,7 @@ your-dns.run
 yovbak.com
 yul01.dnscry.pt
 yunyun.is.my.waifu.cz
+yuvelirtut.website
 yvr01.dnscry.pt
 yyc01.dnscry.pt
 yyz01.dnscry.pt
