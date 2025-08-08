@@ -27,6 +27,7 @@ a.safe.ns.dnslify.com
 abe01.dnscry.pt
 abel.waringer-atg.de
 abn01.dnscry.pt
+ad.anym0re.ru
 ad.huyct.net
 ad.justincounts.com
 ad.tzockt.beer
@@ -35,16 +36,12 @@ adb-home.xaoimoon.fr
 adb.aadityakushwaha.com
 adb.timnichollsphotography.com
 adblock-dot.dnswarden.com
-adblock.any.dns.nixnet.xyz
 adblock.dns.mullvad.net
 adblock.doh.mullvad.net
 adblock.indianets.net
 adblock.krctech.dev
 adblock.leenit.kr
-adblock.lux1.dns.nixnet.xyz
-adblock.lv1.dns.nixnet.xyz
 adblock.mydns.network
-adblock.ny1.dns.nixnet.xyz
 adblockersite.com
 addns1.m-it.ro
 adfiltro.fun
@@ -59,6 +56,7 @@ adguard-dns.com
 adguard-kartoffel.zernico.de
 adguard.aa4.co.uk
 adguard.abd.ong
+adguard.ajinga.net
 adguard.alu.dog
 adguard.avdkishore.dev
 adguard.bonis.de
@@ -111,7 +109,6 @@ adult-filter-dot.dnswarden.com
 ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
 ae-fuj-w-p-3.nashkan.net
-aerodrorne.vip
 affcdn.net
 africa.avastdns.com
 africadns1.liquidtelecom.net
@@ -289,6 +286,7 @@ dns.9999.sg
 dns.a47.me
 dns.aa.net.uk
 dns.aaflalo.me
+dns.aaytorr.com
 dns.abdullahabas.de
 dns.adguard-dns.com
 dns.adguard.com
@@ -314,6 +312,7 @@ dns.artikel10.org
 dns.ashleyjackson.net
 dns.asterimoon.com
 dns.asysec.com
+dns.auapi.fun
 dns.azsopro.net
 dns.b33.space
 dns.b612.me
@@ -610,6 +609,7 @@ dns.pari.network
 dns.paulo.nom.za
 dns.pccoach.nl
 dns.peb-schmidt.de
+dns.pernika.net
 dns.pesaventofilippo.com
 dns.petqa.ru
 dns.phillipjberry.net
@@ -619,6 +619,7 @@ dns.pnh.my.id
 dns.porteii.com
 dns.pragmasec.nl
 dns.princex.net
+dns.privado.ovh
 dns.propheci.xyz
 dns.psociety.de
 dns.pub
@@ -744,6 +745,7 @@ dns.yandex.ru
 dns.yatima.tv
 dns.yuu-g.net
 dns.zemows.industries
+dns.zfsystem.tech
 dns.zui.lol
 dns.zzuhacker.cn
 dns0.eu
@@ -875,6 +877,7 @@ doh.es.ahadns.net
 doh.eu.dnswarden.com
 doh.familyshield.opendns.com
 doh.ffmuc.net
+doh.flashstart.com
 doh.funil.de
 doh.funtopia.tv
 doh.futa.app
@@ -937,6 +940,7 @@ doh.suche.org
 doh.sunoaki.net
 doh.syshero.org
 doh.technochat.in
+doh.thio.me
 doh.this.web.id
 doh.tiar.app
 doh.tiarap.org
@@ -1081,6 +1085,7 @@ goose.buckyfan.net
 green2.jnraptor.net
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1189,9 +1194,7 @@ lon01.dnscry.pt
 lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
 lukscasino-929-tr.xyz
-lux1.nixnet.xyz
 luxembourg.privacy-dns.pw
-lv1.nixnet.xyz
 mabuktogel.builders
 mabuktogel.business
 mabuktogel.cards
@@ -1284,7 +1287,6 @@ ntwrkh.pro
 nue01.dnscry.pt
 nvi-dns.bitdefender.net
 ny.teradns.org
-ny1.nixnet.xyz
 nyc01.dnscry.pt
 nz01.dns4me.net
 o.rsaikat.com
@@ -1393,6 +1395,7 @@ resolv.flokinet.net
 resolv1.trash.net
 resolv2.trash.net
 resolv3.trash.net
+resolve2.r9x.cc
 resolver-eu.haringstad.com
 resolver.dnsprivacy.org.uk
 resolver.r0cket.net
@@ -1522,11 +1525,7 @@ uk-lon.doh.sb
 uk01.dns4me.net
 unasw.eu
 uncensored-dot.dnswarden.com
-uncensored.any.dns.nixnet.xyz
 uncensored.freedns.controld.com
-uncensored.lux1.dns.nixnet.xyz
-uncensored.lv1.dns.nixnet.xyz
-uncensored.ny1.dns.nixnet.xyz
 uncensoreddns.org
 unfiltered.adguard-dns.com
 unfiltered.joindns4.eu
