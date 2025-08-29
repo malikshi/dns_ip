@@ -72,7 +72,6 @@ adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.hartley.cloud
 adguard.jfchenier.ca
-adguard.johanliebert.top
 adguard.kantinyoyok.xyz
 adguard.kasbot.net
 adguard.kiboko.it
@@ -153,6 +152,7 @@ at-wie-w-p-1.nashkan.net
 at.pzhg.me
 ath01.dnscry.pt
 atl01.dnscry.pt
+atris.cyou
 au-syd-w-f-1.nashkan.net
 au-syd.doh.sb
 au.rslvr.eu
@@ -201,6 +201,7 @@ child-noads.joindns4.eu
 child.joindns4.eu
 chrome.cloudflare-dns.com
 chromium.dns.nextdns.io
+chuncheon.dnsovertor.cc
 clean.dnsforge.de
 cleanbrowsing.org
 clientdns3.softcom.net
@@ -211,6 +212,7 @@ cloudbenders.fun
 cloudflare-dns.com
 cloudflare-gateway.com
 cloudflareresolve.com
+cloudflares.ddns.net
 cloudns.bosco.ovh
 cluster-0.gac.edu
 cluster-1.gac.edu
@@ -290,6 +292,7 @@ dns.abdullahabas.de
 dns.adguard-dns.com
 dns.adguard.com
 dns.adrianlam.com
+dns.akbxr.com
 dns.albony.xyz
 dns.alidns.com
 dns.alloxr.info
@@ -408,6 +411,7 @@ dns.dyn1.de
 dns.dynx.pro
 dns.east.comss.one
 dns.eddi.net
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -425,6 +429,7 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.floriantinney.de
 dns.flwagners.com
@@ -445,6 +450,7 @@ dns.gnb09.id
 dns.goldplate.org
 dns.google
 dns.google.com
+dns.green-ping.lol
 dns.grqu.de
 dns.guard.io
 dns.guardmydns.com
@@ -562,6 +568,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -676,7 +683,6 @@ dns.suhaila.dev
 dns.superstefan.win
 dns.surfshark.com
 dns.surfsharkdns.com
-dns.surobe.com
 dns.sv-zauner.at
 dns.svoi.dev
 dns.switch.ch
@@ -811,6 +817,7 @@ doh-primary-pool.goodbyegambling.com
 doh-pure.onedns.net
 doh-random-upstream.nicolas-dorriere.fr
 doh-sg.blahdns.com
+doh.18bit.cn
 doh.30x.me
 doh.360.cn
 doh.42l.fr
@@ -928,6 +935,7 @@ doh.sublime9.xyz
 doh.suche.org
 doh.sunoaki.net
 doh.syshero.org
+doh.sz-dns.com
 doh.technochat.in
 doh.thio.me
 doh.this.web.id
@@ -1020,7 +1028,6 @@ family.5ososea.com
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
-family.dns.doubleangels.com
 family.dns.mullvad.net
 family.dns.ningkelle.id
 family.dns.yandex.ru
@@ -1095,7 +1102,6 @@ hole.elbschloss.xyz
 home-server.store
 home.enjoymylife.net
 home.wriedts.de
-home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 http-dns.imoim.net
@@ -1124,6 +1130,7 @@ iterator.lazada.com
 ivnkn.xyz
 jabber-germany.de
 jackyes.ovh
+japan.dnsovertor.cc
 jcdns.fun
 jhb01.dnscry.pt
 jit.ddns.net
@@ -1357,7 +1364,6 @@ public2.alidns.com
 public254.alidns.com
 public99.alidns.com
 publicdnsserver.com
-punono.duckdns.org
 puredns.org
 qdns02.nymterm.com
 qlf-doh.inria.fr
@@ -1434,6 +1440,7 @@ securenet.mhsystems.net
 security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com
 security.rabbitdns.org
+seoul.dnsovertor.cc
 sg-dns1.bancuh.com
 sg-sin.doh.sb
 sg-w-f-1.nashkan.net
@@ -1445,7 +1452,6 @@ sg01.dns4me.net
 sg1.dnswarden.com
 sg2.ooroot.com
 sgn01.dnscry.pt
-shalenkov.dev
 shield.afixer.app
 shield1.eranext.net
 sin02.dnscry.pt
@@ -1499,7 +1505,6 @@ ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
 tungdnsne.duckdns.org
-tuskythehusky.tech
 tw2.ooroot.com
 tyo01.dnscry.pt
 tyo02.dnscry.pt
@@ -1587,4 +1592,3 @@ zdn.ro
 zero.dns0.eu
 zougloub.eu
 zrh1-ns01.monzoon.net
-zxcvb.pp.ua
