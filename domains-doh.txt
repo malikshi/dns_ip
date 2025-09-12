@@ -50,7 +50,6 @@ adg.geili.me
 adg.jnorton.us
 adg.khon.dev
 adg.rueiliu.space
-adg.tshost.no
 adg.yybyy.wiki
 adguard-dns.com
 adguard-kartoffel.zernico.de
@@ -272,6 +271,7 @@ dns-unfiltered.adguard.com
 dns.0ooo.icu
 dns.0x55.net
 dns.13evl.com
+dns.233py.com
 dns.233py.com.cdn.cloudflare.net
 dns.240527.xyz
 dns.354688.xyz
@@ -370,6 +370,7 @@ dns.comeonjames.club
 dns.comff.net
 dns.comss.one
 dns.connect.fail
+dns.containerpi.com
 dns.controld.com
 dns.cooluc.com
 dns.cryptomize.com
@@ -431,7 +432,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -572,7 +572,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -721,7 +720,6 @@ dns.vault81.de
 dns.velyn.my.id
 dns.vinnyp.xyz
 dns.vinokurov.tk
-dns.vishalk.com
 dns.vmath.my.id
 dns.vod11.xyz
 dns.w3ctag.org
@@ -789,6 +787,7 @@ dnsblock.grisumedia.de
 dnsbunker.org
 dnscache.e-utp.net
 dnscache0.ns71.net
+dnsenc.com
 dnsforfamily.com
 dnsforge.de
 dnsguard.pub
@@ -823,6 +822,7 @@ doh-pure.onedns.net
 doh-random-upstream.nicolas-dorriere.fr
 doh-sg.blahdns.com
 doh.18bit.cn
+doh.233py.com
 doh.30x.me
 doh.360.cn
 doh.42l.fr
@@ -1020,6 +1020,7 @@ easyhandshake.com
 echoe1yidzu4ioo5.myfritz.net
 ecs-doh.dnswarden.com
 edge.nextdns.io
+edns.233py.com
 ee-tll.doh.sb
 eliatofani.ovh
 emby.rasp.tv
@@ -1090,6 +1091,7 @@ goose.buckyfan.net
 green2.jnraptor.net
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1151,6 +1153,7 @@ httpdnsvip.meituan.com
 httpsdns.baidu.com
 hungary.privacy-dns.pw
 hydra.plan9-ns1.com
+i.233py.com
 i.passcloud.xyz
 iana.tenta.io
 ibksturm.synology.me
@@ -1277,6 +1280,7 @@ naganohara-yoimiya.momokko.moe
 najiakeji.top
 nat64.tuxis.nl
 naw01.dnscry.pt
+ndns.233py.com
 netcup.mismat.ch
 newd.rezyro.com
 nicsezcheckfbi.gov
@@ -1427,7 +1431,6 @@ resolv.flokinet.net
 resolv1.trash.net
 resolv2.trash.net
 resolv3.trash.net
-resolve2.r9x.cc
 resolver-eu.haringstad.com
 resolver.dnsprivacy.org.uk
 resolver.r0cket.net
@@ -1468,6 +1471,7 @@ safe.dot.dns.yandex.net
 safeservedns.com
 sandbox.opendns.com
 sbdns.co.in
+sdns.233py.com
 sdns22.gkonuralp.com
 sea01.dnscry.pt
 secondary.dns.seia.io
@@ -1599,6 +1603,7 @@ vtcuong.site
 wantaquddin.com
 waw01.dnscry.pt
 waw02.dnscry.pt
+wdns.233py.com
 wikimedia-dns.org
 www.c-dns.com
 www.chungocoai.name.vn
@@ -1613,6 +1618,7 @@ www.unasw.eu
 wyx.cloud
 xenergy.cc
 xholgm.top
+xmr.land
 xn--durhre-yxa.de
 xorbiadns.com
 xray.krnl.eu
