@@ -40,11 +40,13 @@ cloudflare_ipv4_url = "https://www.cloudflare.com/ips-v4"
 cloudflare_ipv6_url = "https://www.cloudflare.com/ips-v6"
 vercel_url = "https://raw.githubusercontent.com/malikshi/dns_ip/main/vercel.txt"
 exclude_ips_url = "https://raw.githubusercontent.com/malikshi/dns_ip/main/exclude.txt"
+fastly_url = "https://raw.githubusercontent.com/malikshi/geoip/refs/heads/release/text/fastly.txt"
 
 all_exclusion_networks = (
     fetch_and_parse_networks(cloudflare_ipv4_url) +
     fetch_and_parse_networks(cloudflare_ipv6_url) +
     fetch_and_parse_networks(vercel_url) +
+    fetch_and_parse_networks(fastly_url) +
     fetch_and_parse_networks(exclude_ips_url)
 )
 
