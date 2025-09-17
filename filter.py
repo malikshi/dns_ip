@@ -1,42 +1,96 @@
 import ipaddress
 import requests
+import sys
 
-# Step 1: Fetch Cloudflare IPv4 and IPv6 networks
+def fetch_and_parse_networks(url):
+    """
+    Fetches a list of networks from a URL, filters out comments and empty lines,
+    and returns a list of valid ipaddress network objects.
+    """
+    try:
+        response = requests.get(url)
+        # Raise an exception for bad status codes (like 404 or 500)
+        response.raise_for_status()
+    except requests.exceptions.RequestException as e:
+        print(f"Error fetching {url}: {e}", file=sys.stderr)
+        return []
+
+    networks = []
+    for line in response.text.splitlines():
+        # Remove leading/trailing whitespace
+        line = line.strip()
+
+        # Filter out empty lines and comments
+        if not line or line.startswith('#'):
+            continue
+
+        # Ensure the line is a valid network, skipping invalid lines
+        try:
+            networks.append(ipaddress.ip_network(line))
+        except ValueError:
+            print(f"Warning: Skipping invalid network entry '{line}' in {url}", file=sys.stderr)
+            continue
+    return networks
+
+# --- Main Script ---
+
+# Step 1: Fetch and parse network lists from URLs
+print("Fetching and parsing exclusion lists...")
 cloudflare_ipv4_url = "https://www.cloudflare.com/ips-v4"
 cloudflare_ipv6_url = "https://www.cloudflare.com/ips-v6"
 vercel_url = "https://raw.githubusercontent.com/malikshi/dns_ip/main/vercel.txt"
 exclude_ips_url = "https://raw.githubusercontent.com/malikshi/dns_ip/main/exclude.txt"
-cloudflare_ipv4_networks = requests.get(cloudflare_ipv4_url).text.splitlines()
-cloudflare_ipv6_networks = requests.get(cloudflare_ipv6_url).text.splitlines()
-vercel_network = requests.get(vercel_url).text.splitlines()
-exclude_ips_networks = requests.get(exclude_ips_url).text.splitlines()
 
-# Step 2: Read IP addresses from the given URL
-#ip_dns_url = "https://raw.githubusercontent.com/malikshi/dns_ip/main/ip-dns.txt"
+all_exclusion_networks = (
+    fetch_and_parse_networks(cloudflare_ipv4_url) +
+    fetch_and_parse_networks(cloudflare_ipv6_url) +
+    fetch_and_parse_networks(vercel_url) +
+    fetch_and_parse_networks(exclude_ips_url)
+)
+
+# Step 2: Read IP addresses from the local file
 ip_dns_file = "ip-dns.txt"
-with open(ip_dns_file, "r") as file:
-    ip_dns_list = file.read().splitlines()
+try:
+    with open(ip_dns_file, "r") as file:
+        ip_dns_list = file.read().splitlines()
+except FileNotFoundError:
+    print(f"Error: Input file '{ip_dns_file}' not found. Please ensure it exists.", file=sys.stderr)
+    sys.exit(1)
 
-# Step 3-4: Remove Cloudflare IP addresses from the list
+# Step 3-4: Filter the IP list by checking against the exclusion networks
+print("Filtering IP addresses...")
 filtered_ips = []
-for ip in ip_dns_list:
-    is_cloudflare_ip = False
-    for network in cloudflare_ipv4_networks + cloudflare_ipv6_networks + exclude_ips_networks + vercel_network:
-    # for network in exclude_ips_networks:
-        if ipaddress.ip_address(ip) in ipaddress.ip_network(network):
-            is_cloudflare_ip = True
-            break
-    if not is_cloudflare_ip:
-        filtered_ips.append(ip)
+for ip_str in ip_dns_list:
+    ip_str = ip_str.strip()
+    # Skip empty lines in the source IP file as well
+    if not ip_str:
+        continue
 
-# Step 5: Save the modified list without Cloudflare IP addresses to a file
-with open("ip-dns-nocdn-prefix.txt", "w") as file:
+    try:
+        ip_addr = ipaddress.ip_address(ip_str)
+    except ValueError:
+        print(f"Warning: Skipping invalid IP address '{ip_str}' in {ip_dns_file}", file=sys.stderr)
+        continue
+
+    is_excluded = any(ip_addr in network for network in all_exclusion_networks)
+
+    if not is_excluded:
+        filtered_ips.append(ip_str)
+
+# Step 5: Save the filtered list to the output files
+output_with_prefix = "ip-dns-nocdn-prefix.txt"
+output_without_prefix = "ip-dns-nocdn.txt"
+
+print(f"Writing results to {output_with_prefix} and {output_without_prefix}...")
+
+with open(output_with_prefix, "w") as file:
     for ip in filtered_ips:
-        ip_with_prefix = ip + ("/32" if ipaddress.ip_address(ip).version == 4 else "/128")
-        file.write(ip_with_prefix + "\n")
+        ip_addr = ipaddress.ip_address(ip)
+        prefix = "/32" if ip_addr.version == 4 else "/128"
+        file.write(f"{ip}{prefix}\n")
 
-with open("ip-dns-nocdn.txt", "w") as file:
+with open(output_without_prefix, "w") as file:
     for ip in filtered_ips:
-        file.write(ip + "\n")
+        file.write(f"{ip}\n")
 
-print("Filtered IP addresses without IPs Cloudflare.")
+print(f"Filtering complete. {len(filtered_ips)} IPs have been saved.")
