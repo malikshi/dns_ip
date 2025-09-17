@@ -55,9 +55,9 @@ adguard-dns.com
 adguard-kartoffel.zernico.de
 adguard.aa4.co.uk
 adguard.abd.ong
-adguard.ajinga.net
 adguard.alu.dog
 adguard.avdkishore.dev
+adguard.bitteeinbyte.de
 adguard.bonis.de
 adguard.bonsirven.eu
 adguard.dantynes.cyou
@@ -75,7 +75,6 @@ adguard.kantinyoyok.xyz
 adguard.kasbot.net
 adguard.kiboko.it
 adguard.konikoni428.com
-adguard.leadseason.eu
 adguard.lege.despagne.net
 adguard.londonwebnerd.cloud
 adguard.maison.gifino.fr
@@ -132,7 +131,6 @@ alidns.com
 alidns2.cb1999.top
 all.dns.mullvad.net
 alleesph.online
-alpha.dnsbunker.org
 ams01.dnscry.pt
 ams02.dnscry.pt
 ant.dns.qwer.pw
@@ -182,7 +180,6 @@ bog01.dnscry.pt
 bom01.dnscry.pt
 br.servers.legat.ml
 bravedns.com
-bravo.dnsbunker.org
 bru01.dnscry.pt
 bts01.dnscry.pt
 c-dns.com
@@ -244,7 +241,6 @@ de-fsn-w-p-1.nashkan.net
 de.dns.privex.io
 de.teradns.org
 de01.dns4me.net
-deep-henchman-excuse.cfd
 deic-lgb.anycast.censurfridns.dk
 deic-lgb.anycast.uncensoreddns.org
 deic-ore.anycast.censurfridns.dk
@@ -567,11 +563,11 @@ dns.molinero.dev
 dns.momou.ch
 dns.moonssif.com
 dns.mrkaran.dev
-dns.msxnet.ru
 dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -1118,6 +1114,9 @@ hshh.org
 http-dns.imoim.net
 httpdns-api.aliyuncs.com
 httpdns-browser.platform.dbankcloud.cn
+httpdns-platform-dbankcloud-com-dra.wec.dbankedge.cn
+httpdns-platform-dbankcloud-com-drcn.wec.dbankedge.cn
+httpdns-platform-dbankcloud-com-dre.wec.dbankedge.cn
 httpdns-push.heytapmobile.com
 httpdns-sc.aliyuncs.com
 httpdns-sdk.n.netease.com
@@ -1263,7 +1262,6 @@ meganerd.nl
 megumin.is.my.waifu.cz
 mia01.dnscry.pt
 mickedi.isgood.host
-mikezhang.xyz
 mil01.dnscry.pt
 morbitzer.de
 mozilla.cloudflare-dns.com
@@ -1604,6 +1602,7 @@ wantaquddin.com
 waw01.dnscry.pt
 waw02.dnscry.pt
 wdns.233py.com
+wec-httpdns-platform-dbankcloud-com-drcn.region.dbankedge.cn
 wikimedia-dns.org
 www.c-dns.com
 www.chungocoai.name.vn
