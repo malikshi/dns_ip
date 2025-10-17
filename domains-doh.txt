@@ -1,7 +1,6 @@
 001.smallnode.net
 003153.xyz
 0815cloud.de
-0ms.dev
 1.0rz.space
 1.11i.eu
 1.dns.noridev.moe
@@ -99,6 +98,7 @@ adblock.krctech.dev
 adblock.leenit.kr
 adblock.mydns.network
 adblock.renedis.nl
+adblocker.institutobancario.edu.mx
 adblockersite.com
 addns.jpr.space
 addns.jujuland.net
@@ -195,6 +195,7 @@ adguard.dessoi.cloud
 adguard.dientutronghuong.com
 adguard.discounthost.co.uk
 adguard.domorome.wf
+adguard.doranpierst.com.tr
 adguard.drahonn.pro
 adguard.dsns.cloud
 adguard.easez.net
@@ -221,7 +222,6 @@ adguard.glbd.fr
 adguard.gonzcid.com
 adguard.grantbruneau.com
 adguard.green1052.com
-adguard.guyot.group
 adguard.h22designs.com
 adguard.h4nt3r.com
 adguard.haneulo.com
@@ -416,6 +416,7 @@ ag.ff0x.ca
 ag.hostme.co.il
 ag.iyn.one
 ag.marschi.de
+ag.sageton.pl
 ag.snrka.ru
 ag.ssrahul96.xyz
 ag.stepnew.ru
@@ -538,8 +539,8 @@ atelier.alica.idv.tw
 ath01.dnscry.pt
 atl01.dnscry.pt
 atlantic.dyn1.de
-atris.cyou
 atsilva.link
+atsssgo.xyz
 au-syd-w-f-1.nashkan.net
 au-syd-w-p-1.nashkan.net
 au-syd.doh.sb
@@ -655,7 +656,6 @@ cattery2.noddos.top
 cc2.v8er.net
 ccadguard.dynu.net
 ccyykk.top
-cdn.0ms.dev
 cdn.refined.pro
 cdns.lagzerotm.com
 cdzopi.duckdns.org
@@ -769,7 +769,9 @@ ddd.loukky.com
 ddns.martinmore.online
 dds.wpme.pl
 de-adguard.dr3ff1c13nt.com
+de-d2.foxyfy.net
 de-dus.doh.sb
+de-f1.foxyfy.net
 de-fra-w-f-1.nashkan.net
 de-fra-w-f-2.nashkan.net
 de-fra-w-f-3.nashkan.net
@@ -948,6 +950,7 @@ dns.belnet.be
 dns.bermeitinger.eu
 dns.beta.gandi.net
 dns.bgeneto.com
+dns.bibica.net
 dns.bibitos.cc
 dns.bitdefender.net
 dns.bitservices.io
@@ -970,7 +973,6 @@ dns.burgas.pro
 dns.busold.ws
 dns.butterfly87.sbs
 dns.c0ntroller.de
-dns.cabbage.zone
 dns.cahlen.com
 dns.caliph.dev
 dns.carson-family.com
@@ -1028,13 +1030,11 @@ dns.csaonline.de
 dns.csswg.org
 dns.curser.dev
 dns.cwlys.com
-dns.cybertonic.tech
 dns.cynthialabs.net
 dns.d365.in
 dns.d4d.moe
 dns.d8e.ru
 dns.d94.xyz
-dns.d96.info
 dns.daarrk.tech
 dns.daemon.za.net
 dns.dallinbryce.com
@@ -1067,6 +1067,7 @@ dns.dns-53.com
 dns.dns-53.uk
 dns.dns-53.us
 dns.dns-over-https.com
+dns.dnsguard.pub
 dns.dnshome.de
 dns.dnsoverhttps.net
 dns.dnswarden.com
@@ -1102,7 +1103,6 @@ dns.epcot.fr
 dns.epic.st
 dns.erkin.top
 dns.esegece.com
-dns.esinc.xyz
 dns.esnube.es
 dns.eu-frankfurt-1.oraclecloud.com
 dns.everdns.tech
@@ -1128,12 +1128,12 @@ dns.fifux.be
 dns.filipccz.eu
 dns.fizz.studio
 dns.flatuslifir.is
-dns.flightspace.net
 dns.floriantinney.de
 dns.flux24.net
 dns.flwagners.com
 dns.flyer.vn
 dns.flymc.cc
+dns.foxyfy.net
 dns.freddys.my.id
 dns.freemyemail.com
 dns.freopc.fr
@@ -1209,13 +1209,10 @@ dns.huizhechi.com
 dns.hujiayucc.cn
 dns.huseynov.work
 dns.huth.nu
-dns.huyhoangit.net
 dns.huyizhou.com
-dns.huynd.click
 dns.hva.li
 dns.hwtwco.uk
 dns.hyas.com
-dns.hypercute.eu
 dns.iamanuragh.in
 dns.iamninja.ru
 dns.iblockads.net
@@ -1299,6 +1296,7 @@ dns.kjmserwis.pl
 dns.kloiber.co.at
 dns.knyfie.com
 dns.koala.us.to
+dns.kobo.dev
 dns.komo4ek.ru
 dns.korzhyk.pp.ua
 dns.kosan.moe
@@ -1486,6 +1484,7 @@ dns.paxavemedia.com
 dns.pccoach.nl
 dns.peb-schmidt.de
 dns.periactes.com
+dns.pernika.net
 dns.pesaventofilippo.com
 dns.petqa.ru
 dns.pgnhatrang.com
@@ -1754,6 +1753,7 @@ dns.youni.win
 dns.yu.dev
 dns.yuu-g.net
 dns.yuyz.net
+dns.yuzia.cc
 dns.yyaan.com
 dns.yyaan.top
 dns.zachbosh.com
@@ -1805,6 +1805,7 @@ dns1.sarak.as
 dns1.sarakas.net
 dns1.schooldns.nl
 dns1.serdcebolit.ru
+dns1.slowb.ro
 dns1.tardishost.ru
 dns1.techeasy.org
 dns1.thylacine.co.nz
@@ -1848,6 +1849,7 @@ dns2.saferbfc.org
 dns2.sarak.as
 dns2.sarakas.net
 dns2.sillav.dev
+dns2.slowb.ro
 dns2.srv-home.fr
 dns2.svip.one
 dns2.thylacine.co.nz
@@ -1859,6 +1861,7 @@ dns3.hu10us22.win
 dns3.wistarip.com
 dns35.allone.dpdns.org
 dns4.bortus.io
+dns4eu.online
 dns4me.net
 dns64.cloudflare-dns.com
 dns64.dns.google
@@ -1904,7 +1907,6 @@ dnsvs.ddns.net
 dnswebvsn.com
 dnsyg.3300000.xyz
 dnx.niko-sem.com
-do-39574-tr.xyz
 do.dnscrypt.uk
 do.shimul.me
 docker-hub.ir
@@ -2018,12 +2020,14 @@ doh.hugang8.cn
 doh.ibr.cs.tu-bs.de
 doh.immerda.ch
 doh.in.ahadns.net
+doh.infotechlibrary.com
 doh.infracell.net
 doh.iqiyi.com
 doh.it.ahadns.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
 doh.kekew.info
+doh.kekew.racing
 doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im
@@ -2041,7 +2045,6 @@ doh.maskab.com
 doh.max.net.id
 doh.mcasviper.de
 doh.meetz.pw
-doh.micronets.in
 doh.mmmalia.com
 doh.mochou.site
 doh.mullvad.net
@@ -2122,6 +2125,7 @@ doh2.b-cdn.net
 doh2.blahdns.com
 doh2.gslb2.xfinity.com
 doh3.almir1904.eu
+doh3.kekew.info
 dohdot.coxlab.net
 dohipv6.crypto.sx
 dohsg.blahdns.com
@@ -2227,6 +2231,7 @@ emmmmm.me
 enclosr.co
 eoin.dns.walshnet.co.uk
 epic3.mooo.com
+es-ma.foxyfy.net
 esel.stusta.mhn.de
 essentiallyjay.com
 eth.link
@@ -2257,6 +2262,7 @@ family.adguard-dns.com
 family.adguarddns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
+family.dns.doubleangels.com
 family.dns.mullvad.net
 family.dns.ningkelle.id
 family.dns.teknoholistik.com
@@ -2283,7 +2289,6 @@ fi-hel-w-f-2.nashkan.net
 fi-hel-w-p-1.nashkan.net
 fi.r5acq.com
 fidelius.top
-filipinoray.com
 filter.badbotdev.xyz
 filter.das.sch.id
 filter.myaddr.io
@@ -2385,6 +2390,7 @@ guanmengkai.com
 guard-1.vilbav.id.lv
 guard-jkt-225.glosindo.net.id
 guard.19kom.de
+guard.keiper.net
 guard.lumusimc.co.uk
 guard.magic-pics.tk
 guard.miracloud.fr
@@ -2438,7 +2444,6 @@ hk.end.pub
 hk.imtsui.com
 hk.janebooom.com
 hk.jason666.top
-hk.jiusi.one
 hk.reaticle.com
 hk.rslvr.eu
 hk.yoosoo.cc
@@ -2480,7 +2485,6 @@ home.wriedts.de
 homec92.dns.army
 homedns.gumeniuk.com
 homeguard.sleziona.org
-homejerem.duckdns.org
 homelab.terabit.net.id
 homita.id.vn
 horus-team.com
@@ -2619,6 +2623,7 @@ joshberg.org
 jp-dns1.bancuh.com
 jp-kix.doh.sb
 jp-nrt.doh.sb
+jp-to.foxyfy.net
 jp-tyo-w-p-1.nashkan.net
 jp.559299366.xyz
 jp.95576.app
@@ -2728,7 +2733,6 @@ lena.vpn.i81.ru
 lena.vps.mtsdns.ru
 leoadguard.duckdns.org
 leochen-dns.ddns.net
-lesuo.top
 lewsha.lol
 lfbn-gre-1-319-7.w90-112.abo.wanadoo.fr
 lifeisa.live
@@ -2764,7 +2768,9 @@ luba.az.i81.ru
 luba.hr.i81.ru
 luba.vd.i81.ru
 luba.vpn.i81.ru
+lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
+lukscasino-929-tr.xyz
 lux.sn0w.nl
 lux01.dnscry.pt
 luxembourg.privacy-dns.pw
@@ -2800,6 +2806,7 @@ mailer.amlegion.org
 mailkyb.co
 maincloud.ir
 mainframe.dewed.de
+makatla.tech
 malanser.ru
 man01.dnscry.pt
 management.alexpollard.net
@@ -2833,7 +2840,6 @@ mikatos.de
 mikewaddick.com
 mikrobill.dns-cloud.net
 mil01.dnscry.pt
-miniapp.global
 minilla.store
 miskoss.fun
 mk.skynetinternet.com.br
@@ -2843,7 +2849,6 @@ moidns.hopto.org
 moise-et-maurice-gardent-la-maison.schneiderus.org
 moph.go.th
 morbitzer.de
-morgenegg.duckdns.org
 moto.adg.siudzinski.net
 mow01.dnscry.pt
 mozilla.cloudflare-dns.com
@@ -2864,7 +2869,6 @@ musicbot.drahonn.pro
 muxyuji.ru
 mx1.laoxiao789.com
 myadg.ru
-myatris.sbs
 mydevpn.eu
 mydns.ddns.me
 mypihole.hopto.org
@@ -2901,7 +2905,6 @@ nd.lgprk.com
 ndns.233py.com
 nebula.tru.io
 nelsonleung.org
-nephos.rocksolidtech.link
 net.tt6.net
 net01.youcef.io
 netcup.mismat.ch
@@ -2916,7 +2919,6 @@ nickcan.xyz
 nicknarayong.ddns.net
 nicktruehome.ddns.net
 nicsezcheckfbi.gov
-nikamurs.duckdns.org
 nilfheim.asguardian.de
 nimeserver.kirjakast.eu
 ningyan.top
@@ -3252,6 +3254,7 @@ ricko.is
 rini.id.vn
 rix01.dnscry.pt
 rjaldorau.com
+ro-bu.foxyfy.net
 ro-buc-w-f-1.nashkan.net
 ro-buc-w-p-1.nashkan.net
 roadesdyn.go.ro
@@ -3324,6 +3327,7 @@ secure-dns.gridlax.com
 secure-dns.pleumkungz.com
 secure.anudeep.me
 secure.avastdns.com
+secure.hafnova.com
 securedns.vendorvista.xyz
 securenet.mhsystems.net
 securifi.jagalabs.net
@@ -3392,6 +3396,7 @@ skynetinternet.com.br
 slc01.dnscry.pt
 sm2.doh.pub
 sm5q237c0.g666gle.me
+smartcamp.su
 smartphone-niels.pcbrdh8v6m.digitallink.be
 smartphone-saskia.pcbrdh8v6m.digitallink.be
 smirnovfamily.ru
@@ -3569,10 +3574,12 @@ us-jac-w-f-1.nashkan.net
 us-jac-w-p-1.nashkan.net
 us-kan-w-f-1.nashkan.net
 us-kan-w-p-1.nashkan.net
+us-ny.foxyfy.net
 us-nyc-w-f-1.nashkan.net
 us-nyc-w-p-1.nashkan.net
 us-saj-w-f-1.nashkan.net
 us-saj-w-p-1.nashkan.net
+us-sj.foxyfy.net
 us.aab.im
 us.doh.cloudveil.org
 us.lfac.net.br
@@ -3607,8 +3614,6 @@ v4.z6.test.privatenode.ru
 v6.test.privatenode.ru
 v6.z4.test.privatenode.ru
 v6.z6.test.privatenode.ru
-v7.frame-one.cc
-v8.frame-one.cc
 v971850.macloud.host
 vadim.online
 vasiliysoldatkin.ru
@@ -3734,6 +3739,7 @@ win10virtual.vd.i81.ru
 win10virtual.vpn.i81.ru
 wiqi.app
 wiqi.top
+wired-guardian.duckdns.org
 wireguard.osmenoga.com
 wisehomeguard.duckdns.org
 wlan.0815cloud.de
