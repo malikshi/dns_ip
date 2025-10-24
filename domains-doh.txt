@@ -55,7 +55,6 @@ a.ns.dnslify.com
 a.passcloud.xyz
 a.safe.ns.dnslify.com
 a5135324.csie.io
-ab.teleportbot.org
 abe01.dnscry.pt
 abel.waringer-atg.de
 ablock.fuckit.ovh
@@ -132,6 +131,7 @@ adg.proprietarypenguin.com
 adg.rokh.biz
 adg.rueiliu.space
 adg.spacework.com.mx
+adg.tshost.no
 adg.yybyy.wiki
 adg5yvi.ngatngay.net
 adghome.charleschan.net
@@ -1020,7 +1020,6 @@ dns.complianceauditores.com.br
 dns.comss.one
 dns.connect.fail
 dns.consoro.eu
-dns.containerpi.com
 dns.controld.com
 dns.cooluc.com
 dns.cryptomize.com
@@ -1415,7 +1414,6 @@ dns.nas-server.ru
 dns.native.cat
 dns.ndo.dev
 dns.neeb.it
-dns.nefret.net
 dns.neilzone.co.uk
 dns.nekofish.cc
 dns.nerdytechgeeks.co.za
@@ -1444,7 +1442,6 @@ dns.notjakob.com
 dns.novali.date
 dns.novg.net
 dns.npe.bz
-dns.npsolution.it
 dns.ntcrz.ru
 dns.ntr.lol
 dns.nubecita.biz
@@ -1513,6 +1510,7 @@ dns.pumpkinvrar.com
 dns.qiyipic.iqiyi.com
 dns.qkc.fr
 dns.qpt.one
+dns.qq.com
 dns.qrtz.club
 dns.quad9.net
 dns.quanhd.net
@@ -1970,7 +1968,6 @@ doh.bugdns.com
 doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
-doh.centraleu.pi-dns.com
 doh.chi.ahadns.net
 doh.cippapp.com
 doh.cleanbrowsing.org
@@ -1997,9 +1994,6 @@ doh.dnswarden.com
 doh.domreg.lt
 doh.dscloud.me
 doh.e7.work
-doh.eastas.pi-dns.com
-doh.eastau.pi-dns.com
-doh.eastus.pi-dns.com
 doh.eddi.net
 doh.eieidns.com
 doh.ersei.net
@@ -2053,7 +2047,6 @@ doh.nic.lv
 doh.niyawe.de
 doh.nl.ahadns.net
 doh.no.ahadns.net
-doh.northeu.pi-dns.com
 doh.ntu.ssooss.win
 doh.nukys.ca
 doh.ny.ahadns.net
@@ -2066,7 +2059,6 @@ doh.phdns2.lonet.org
 doh.phdns3.lonet.org
 doh.phdns4.lonet.org
 doh.phdns5.lonet.org
-doh.pi-dns.com
 doh.pl.ahadns.net
 doh.plaawan.uk
 doh.plop.cc
@@ -2107,8 +2099,6 @@ doh.us.moe.tips
 doh.valscosmos.com
 doh.viatech.com.tw
 doh.webnmail.de
-doh.westeu.pi-dns.com
-doh.westus.pi-dns.com
 doh.wewitro.net
 doh.xcom.pro
 doh.xfinity.com
@@ -2150,12 +2140,8 @@ dot-sg.blahdns.com
 dot.360.cn
 dot.anir0y.in
 dot.au.ahadns.net
-dot.centraleu.pi-dns.com
 dot.chi.ahadns.net
 dot.cox.net
-dot.eastas.pi-dns.com
-dot.eastau.pi-dns.com
-dot.eastus.pi-dns.com
 dot.es.ahadns.net
 dot.ffmuc.net
 dot.gordmo.com
@@ -2166,7 +2152,6 @@ dot.libredns.gr
 dot.modsh.top
 dot.nl.ahadns.net
 dot.no.ahadns.net
-dot.northeu.pi-dns.com
 dot.ny.ahadns.net
 dot.occ.top
 dot.pl.ahadns.net
@@ -2177,7 +2162,6 @@ dot.seby.io
 dot.ssh-storage.ru
 dot.tiar.app
 dot.tooli.ca
-dot.westus.pi-dns.com
 dot.xfinity.com
 dot1.applied-privacy.net
 dot1.appliedprivacy.net
@@ -2340,6 +2324,7 @@ gammesfeld.eu
 gate.blackboxdynamics.io
 gateway.fomichev.cloud
 gauss.pp.ua
+gb-cov-w-f-1.nashkan.net
 gb-cov-w-f-2.nashkan.net
 gb-cov-w-p-1.nashkan.net
 gb-lon-w-f-1.nashkan.net
@@ -2402,7 +2387,6 @@ guard.yps.tw
 guest.nop.mobi
 guidetoworld.link
 guigu.dns.army
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gw1.dns.haynetwork.id
 gyd01.dnscry.pt
@@ -2457,6 +2441,7 @@ hkg01.dnscry.pt
 hkg02.dnscry.pt
 hkg03.dnscry.pt
 hkg2.edge.access.zznet.fun
+hkname.freecdn.one
 hknat.ooguy.com
 hkns.gzelvis.com
 hkt.kozow.com
@@ -2482,6 +2467,7 @@ home.snow-sugar.net
 home.vps.mtsdns.ru
 home.weisbrod.me
 home.wriedts.de
+home27.duckdns.org
 homec92.dns.army
 homedns.gumeniuk.com
 homeguard.sleziona.org
@@ -2530,8 +2516,11 @@ httpdns.push.heytapmobi.com
 httpdns.push.oppomobile.com
 httpdns.volcengineapi.com
 httpdns.yunxindns.com
+httpdns.zhihu.com
 httpdns.zybang.com
 httpdns1.cc.cdnhwc5.com
+httpdnsmultiapi.meituan.com
+httpdnsmultiapivip.meituan.com
 httpdnsvip.meituan.com
 httpsdns.baidu.com
 hungary.privacy-dns.pw
@@ -2704,7 +2693,6 @@ ksedns.ru
 kstdownload.com
 kuaishou.httpdns.pro
 kudns.kescher.at
-kvps01.xvps.jp
 kwas24izynek74.ddns.net
 kz-pav-w-p-1.nashkan.net
 la-doh.stuptech.com
@@ -2828,6 +2816,7 @@ meet.nop.mobi
 meganerd.nl
 megumin.is.my.waifu.cz
 mel01.dnscry.pt
+mendozasdelivery.com
 meowless.club
 mfimail.eu
 mia01.dnscry.pt
@@ -2838,6 +2827,7 @@ midns.clicinternet.com
 mijoregner.de
 mikatos.de
 mikewaddick.com
+mikezhang.xyz
 mikrobill.dns-cloud.net
 mil01.dnscry.pt
 minilla.store
@@ -2943,7 +2933,6 @@ node9.servernode.store
 nop.mobi
 note.dehb.ru
 notebait.ddnsfree.com
-nqh-dns.duckdns.org
 nrt.core.access.zznet.fun
 nrusimha.crabdance.com
 ns.00dani.me
@@ -3001,7 +2990,6 @@ ns4.opennameserver.org
 nsc.torgues.net
 nsec.arnor.org
 nsnacho.sytes.net
-nsown.com
 ntwrkh.pro
 nue01.dnscry.pt
 nvi-dns.bitdefender.net
@@ -3054,7 +3042,6 @@ osefcorp.duckdns.org
 othernj.drahonn.pro
 ott01.dnscry.pt
 oury.privado.ovh
-outdoorchair.site
 outie.8ws.net
 outiejr.8ws.net
 ovhcloud.mehmetarikan.tech
@@ -3069,10 +3056,13 @@ panser.web.id
 par01.dnscry.pt
 paradise-human.shop
 paranoia.mydns.network
+pashagame456.com
 paskam.xyz
 passwordsafe.0815cloud.de
 pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
+paydns.wechatpay.cn
+paydns.weixin.qq.com
 pcbrdh8v6m.digitallink.be
 pccoach.ddns.net
 pcgo.fun
@@ -3107,7 +3097,6 @@ pihole1.hoerli.net
 pihole2.hoerli.net
 pihole3.hoerli.net
 pihole4.hoerli.net
-pingbi.xyz
 pioko.net
 pips.kpsn.org
 pl-waw-w-p-2.nashkan.net
@@ -3239,6 +3228,7 @@ resolver2.ipv6-sandbox.opendns.com
 resolver2.opendns.com
 resolver3.absolight.net
 resolver4.dns.openinternet.io
+resolvers-cn.httpdns.aliyuncs.com
 resov.wehao.net
 rethinkdns.com
 revelio.top
@@ -3300,7 +3290,6 @@ safe.dot.dns.yandex.net
 safeservedns.com
 salvadoserver.duckdns.org
 sams.adg.siudzinski.net
-samsdns1943.net
 samsung.dns.joey01245.nl
 sandbox.opendns.com
 sanns.aniuo.com
@@ -3311,6 +3300,7 @@ saya.rnrkurir.com
 sbdns.co.in
 schimtar.com
 scottdylewski.com
+sdkconfig.tlivedns.com
 sdns.233py.com
 sdns.zakaria.website
 sdns22.gkonuralp.com
@@ -3538,6 +3528,7 @@ tyo01.dnscry.pt
 tyo02.dnscry.pt
 tyo03.dnscry.pt
 typaza.com
+udns.weixin.qq.com
 ueni.dyndns.org
 uk-lon.doh.sb
 uk01.dns4me.net
@@ -3648,7 +3639,6 @@ vm3421302.firstbyte.club
 vn.dns.abpvn.com
 vno01.dnscry.pt
 void.mcfly.lol
-volik.me
 vorlif.org
 vova.az.i81.ru
 vova.hr.i81.ru
@@ -3800,7 +3790,6 @@ www.muxyuji.ru
 www.nop.mobi
 www.oowo.de
 www.pdnssrvagh.online
-www.pingbi.xyz
 www.prostoclub.ru
 www.qingmo.vip
 www.randn.ru
