@@ -76,7 +76,6 @@ ad.tzockt.beer
 ad.visbran.fr
 ad.wiqi.app
 ad1guard.duckdns.org
-ada.ns.cloudflare.com
 ada.openbld.net
 adampowell.pro
 adb-dns.sapient.cyou
@@ -1502,6 +1501,7 @@ dns.powerbs.net
 dns.pragmasec.nl
 dns.privado.ovh
 dns.privateservices.pro
+dns.propheci.xyz
 dns.proprietarypenguin.com
 dns.psociety.de
 dns.psyk.fr
@@ -2121,6 +2121,7 @@ dohipv6.crypto.sx
 dohsg.blahdns.com
 dohsg.goitoi.co
 dohtrial.att.net
+domain.name
 domburg.beruys.com
 domeq.waw.pl
 dooh.cloudflare-dns.com
@@ -2472,6 +2473,7 @@ homec92.dns.army
 homedns.gumeniuk.com
 homeguard.sleziona.org
 homelab.terabit.net.id
+homenet.telecomitalia.it
 homita.id.vn
 horus-team.com
 host.jerry-lee.uk
@@ -3162,6 +3164,7 @@ qaz.tw
 qdns02.nymterm.com
 qingmo.vip
 qlf-doh.inria.fr
+qqmcfw.tech
 qro01.dnscry.pt
 quadrogramma.vps.webdock.cloud
 qual.cuprum.ru
@@ -3821,6 +3824,7 @@ x.laoban.fun
 x.ns1net.com
 x.res.wang
 x861g.duckdns.org
+xbcpb668.com
 xenergy.cc
 xfer.au
 xiaoxinhui.cn
