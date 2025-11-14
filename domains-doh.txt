@@ -1,6 +1,7 @@
 001.smallnode.net
 003153.xyz
 0815cloud.de
+0ms.dev
 1.0rz.space
 1.11i.eu
 1.dns.noridev.moe
@@ -247,6 +248,7 @@ adguard.kujoe.com
 adguard.lamhoangtung.space
 adguard.laurenlaufman.com
 adguard.lege.despagne.net
+adguard.londonwebnerd.cloud
 adguard.macrosolutionsltd.co.uk
 adguard.maison.gifino.fr
 adguard.manmademagic.com
@@ -492,6 +494,7 @@ an81dns.ru
 ancv.sytes.net
 andrewnw.xyz
 andrey93rus.ru
+andryk111.duckdns.org
 andybunn.onthewifi.com
 angry.pp.ua
 angrysky.ru
@@ -534,6 +537,7 @@ atelier.alica.idv.tw
 ath01.dnscry.pt
 atl01.dnscry.pt
 atlantic.dyn1.de
+atris.cyou
 atsilva.link
 atsssgo.xyz
 au-syd-w-f-1.nashkan.net
@@ -650,6 +654,7 @@ cattery2.noddos.top
 cc2.v8er.net
 ccadguard.dynu.net
 ccyykk.top
+cdn.0ms.dev
 cdn.refined.pro
 cdns.lagzerotm.com
 cdzopi.duckdns.org
@@ -684,7 +689,6 @@ cloud.securifi.com.my
 cloud.smirnovfamily.ru
 cloud.tezoi.com
 cloud2.holzmannclouddns.de
-cloudbenders.fun
 cloudflare-dns.com
 cloudflare-gateway.com
 cloudflaredns.com
@@ -721,6 +725,7 @@ curser.dev
 cvt-ic-us-adns-001.clearviewtechnology.net
 cvt01.dnscry.pt
 cyliu.idv.tw
+cynntex.fun
 d.adguard-dns.com
 d.apemlegit.my.id
 d.bod.lol
@@ -777,6 +782,7 @@ de.dns.privex.io
 de.teradns.org
 de01.dns4me.net
 dedidl.com
+deep-henchman-excuse.cfd
 defendfrienddns.fyi
 defsnldns01.sc-hosting.info
 dehb.ru
@@ -1022,6 +1028,7 @@ dns.csaonline.de
 dns.csswg.org
 dns.curser.dev
 dns.cwlys.com
+dns.cybertonic.tech
 dns.cynthialabs.net
 dns.d365.in
 dns.d4d.moe
@@ -2008,6 +2015,8 @@ doh.iqiyi.com
 doh.it.ahadns.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
+doh.kekew.info
+doh.kekew.racing
 doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im
@@ -2100,6 +2109,7 @@ doh2.b-cdn.net
 doh2.blahdns.com
 doh2.gslb2.xfinity.com
 doh3.almir1904.eu
+doh3.kekew.info
 dohdot.coxlab.net
 dohipv6.crypto.sx
 dohsg.blahdns.com
@@ -2454,6 +2464,7 @@ home27.duckdns.org
 homec92.dns.army
 homedns.gumeniuk.com
 homeguard.sleziona.org
+homejerem.duckdns.org
 homelab.terabit.net.id
 homenet.telecomitalia.it
 homita.id.vn
@@ -2818,6 +2829,7 @@ moidns.hopto.org
 moise-et-maurice-gardent-la-maison.schneiderus.org
 moph.go.th
 morbitzer.de
+morgenegg.duckdns.org
 moto.adg.siudzinski.net
 mow01.dnscry.pt
 mozilla.cloudflare-dns.com
@@ -2856,7 +2868,6 @@ n8nmegapixar.online
 naganohara-yoimiya.momokko.moe
 najiakeji.top
 name.nop.mobi
-nanopi.cybergroove.net
 nas-fusion.loisy.it
 nas-scheiben34.myasustor.com
 nas.dehb.ru
@@ -2888,6 +2899,7 @@ nickcan.xyz
 nicknarayong.ddns.net
 nicktruehome.ddns.net
 nicsezcheckfbi.gov
+nikamurs.duckdns.org
 nilfheim.asguardian.de
 nimeserver.kirjakast.eu
 ningyan.top
@@ -2912,6 +2924,7 @@ node9.servernode.store
 nop.mobi
 note.dehb.ru
 notebait.ddnsfree.com
+nqh-dns.duckdns.org
 nrt.core.access.zznet.fun
 nrusimha.crabdance.com
 ns.00dani.me
@@ -3078,6 +3091,7 @@ pihole3.hoerli.net
 pihole4.hoerli.net
 pioko.net
 pips.kpsn.org
+pitchforkwaydns.duckdns.org
 pl-waw-w-p-2.nashkan.net
 plex.skin57.de
 plichaa12.ddns.net
@@ -3159,6 +3173,7 @@ randn.ru
 rasp.matthias-iwer.de
 rayneau.fr
 rb750gr3.ulfhednar.ru
+rcpc2.duckdns.org
 rdd01.dnscry.pt
 rdjdns.ajraspi.xyz
 rdns.faelix.net
@@ -3521,6 +3536,7 @@ unicast.uncensoreddns.org
 unicast2.servers.censurfridns.dk
 unifi.be2aja.my.id
 unifi.carioka.com
+unixfox.duckdns.org
 unp.im
 unraid.dedyn.io
 ur.hytec.org
@@ -3623,6 +3639,7 @@ vovale.vpn.i81.ru
 voyage-s01.cloudku.technology
 voyage-s02.cloudku.technology
 voyagerz.hopto.org
+vpich.duckdns.org
 vpn-tw.teng.sh
 vpn.1xtrm.com
 vpn.4-the.win
@@ -3790,6 +3807,7 @@ x861g.duckdns.org
 xbcpb668.com
 xenergy.cc
 xfer.au
+xholgm.top
 xiaoxinhui.cn
 xie.ke
 xins.live
