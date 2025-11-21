@@ -79,7 +79,6 @@ ad.wiqi.app
 ad1guard.duckdns.org
 ada.openbld.net
 adampowell.pro
-adb-dns.sapient.cyou
 adb-home.xaoimoon.fr
 adb-wan.xaoimoon.fr
 adb.aadityakushwaha.com
@@ -126,7 +125,6 @@ adg.khon.dev
 adg.meviusberry.hidns.co
 adg.mnml.co.in
 adg.niub.eu.org
-adg.pidns.de
 adg.proprietarypenguin.com
 adg.rokh.biz
 adg.rueiliu.space
@@ -155,6 +153,7 @@ adguard.aa4.co.uk
 adguard.abd.ong
 adguard.acrobyte.org
 adguard.adrianofrongillo.ovh
+adguard.ajinga.net
 adguard.almanasports.com
 adguard.altgr.xyz
 adguard.alu.dog
@@ -415,7 +414,6 @@ ag.ff0x.ca
 ag.hostme.co.il
 ag.iyn.one
 ag.marschi.de
-ag.sageton.pl
 ag.snrka.ru
 ag.ssrahul96.xyz
 ag.stepnew.ru
@@ -866,7 +864,6 @@ dns.4-the.win
 dns.52306.org
 dns.58jdl.com
 dns.5ososea.com
-dns.688447.xyz
 dns.6level.net
 dns.73zls.com
 dns.7sec.com.br
@@ -1019,6 +1016,7 @@ dns.complianceauditores.com.br
 dns.comss.one
 dns.connect.fail
 dns.consoro.eu
+dns.containerpi.com
 dns.controld.com
 dns.cooluc.com
 dns.cryptomize.com
@@ -1087,6 +1085,7 @@ dns.edc-pws.com
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.edgeworkssystems.ca
+dns.edgy.network
 dns.efficientdocuments.com
 dns.electrotm.org
 dns.elemental.software
@@ -1124,6 +1123,7 @@ dns.fifux.be
 dns.filipccz.eu
 dns.fizz.studio
 dns.flatuslifir.is
+dns.flightspace.net
 dns.floriantinney.de
 dns.flux24.net
 dns.flwagners.com
@@ -1177,7 +1177,6 @@ dns.hakutakucn.com
 dns.hanahira.dev
 dns.hanmey.de
 dns.hannielzhang.com
-dns.haoxuan.me
 dns.hashemlabs.co.uk
 dns.hee.ink
 dns.hellozhao.com
@@ -1215,7 +1214,6 @@ dns.iblockads.net
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
-dns.imaicool.com
 dns.imchristian.de
 dns.immanuelschaffer.de
 dns.inclusioproject.com
@@ -1265,7 +1263,6 @@ dns.jundev.org
 dns.jungle-im.ir
 dns.jupitrdns.com
 dns.justinnetworkingsolutions.com
-dns.k1vzx.com
 dns.k3nny.fr
 dns.kamilszczepanski.com
 dns.kapite.in
@@ -1450,7 +1447,6 @@ dns.oceanprint.com.br
 dns.ocedric.net
 dns.octoworld.fr
 dns.odinpl.com
-dns.odirf.de
 dns.ofdoom.net
 dns.oliverweinhold.de
 dns.oliviertv.co.za
@@ -1495,7 +1491,6 @@ dns.pointless.chat
 dns.polatarasan.com.tr
 dns.porteii.com
 dns.powerbs.net
-dns.pragmasec.nl
 dns.privado.ovh
 dns.privateservices.pro
 dns.propheci.xyz
@@ -1765,10 +1760,8 @@ dns0.tardishost.ru
 dns01.almir1904.eu
 dns01.enginyring.com
 dns01.flm9.net
-dns01.sdu.pp.ua
 dns02.almir1904.eu
 dns02.enginyring.com
-dns02.oceanprint.com.br
 dns03.almir1904.eu
 dns1-secure.wifire.it
 dns1.13evl.com
@@ -1778,7 +1771,6 @@ dns1.conne.net
 dns1.digitale-gesellschaft.ch
 dns1.dns-ga.de
 dns1.dnscrypt.ca
-dns1.gdie.top
 dns1.gms.net.id
 dns1.imkvq.com
 dns1.in-berlin.de
@@ -1800,6 +1792,7 @@ dns1.sarak.as
 dns1.sarakas.net
 dns1.schooldns.nl
 dns1.serdcebolit.ru
+dns1.server.my.id
 dns1.slowb.ro
 dns1.tardishost.ru
 dns1.techeasy.org
@@ -1870,6 +1863,7 @@ dnscache0.ns71.net
 dnscdn.bai0012.com
 dnscity.org
 dnsdoh.art
+dnsenc.com
 dnsfilter.domotik.us
 dnsforfamily.com
 dnsforge.de
@@ -1901,6 +1895,7 @@ dnsvs.ddns.net
 dnswebvsn.com
 dnsyg.3300000.xyz
 dnx.niko-sem.com
+do-39574-tr.xyz
 do.dnscrypt.uk
 do.shimul.me
 docker-hub.ir
@@ -2004,7 +1999,6 @@ doh.funtopia.tv
 doh.futa.app
 doh.futa.gg
 doh.greenwood.eu.org
-doh.hottis.de
 doh.hugang8.cn
 doh.ibr.cs.tu-bs.de
 doh.immerda.ch
@@ -2396,8 +2390,6 @@ handy-matthias.dns.internal.espresso-tasse.de
 handy-nils.dns.internal.espresso-tasse.de
 happy365.me
 hard.dnsforge.de
-hayadns.online
-hayadns.site
 hdns.ksyun.com
 hdnsadguardhome.me
 heavenorhell.ru
@@ -2405,8 +2397,8 @@ hel01.dnscry.pt
 helios.plan9-dns.com
 hello.nop.mobi
 herkes.online
-hetz.sapient.cyou
 hexxitcompany.com
+hfgx.shop
 hg8.asia
 hgrps.eu
 himedns.com
@@ -2596,7 +2588,6 @@ jkt01.dnscry.pt
 jnb01.dnscry.pt
 jnb02.dnscry.pt
 jnprd.com
-johneldenring.lol
 jonathanaugusto.freeddns.org
 joouddo.ru
 josephfamily.org
@@ -2628,7 +2619,6 @@ justhost.bedro.cloud
 jxzn.172896.xyz
 k03.dedyn.io
 k3n.pw
-k3rnel-pan1c.online
 kaandikec.com
 kaiser.int.eu.org
 kaiwu.xyz
@@ -2686,6 +2676,7 @@ kstdownload.com
 kuaishou.httpdns.pro
 kudns.kescher.at
 kwas24izynek74.ddns.net
+kx-97795-tr.xyz
 kz-pav-w-p-1.nashkan.net
 la-doh.stuptech.com
 lamdtl.giize.com
@@ -2712,6 +2703,7 @@ lena.vpn.i81.ru
 lena.vps.mtsdns.ru
 leoadguard.duckdns.org
 leochen-dns.ddns.net
+lesuo.top
 lewsha.lol
 lfbn-gre-1-319-7.w90-112.abo.wanadoo.fr
 lifeisa.live
@@ -2777,7 +2769,6 @@ mail.andrewnw.xyz
 mail.data.haus
 mail.drahonn.pro
 mail.hilton-groups.com
-mail.pragmasec.nl
 mail.vik.ro
 mail.xiaoxinhui.cn
 mailer.amlegion.org
@@ -2788,7 +2779,6 @@ makatla.tech
 malanser.ru
 man01.dnscry.pt
 management.alexpollard.net
-maqgie.xyz
 mastergad.me
 masters-of-cloud.de
 math.netlab.my.id
@@ -2850,6 +2840,7 @@ musicbot.drahonn.pro
 muxyuji.ru
 mx1.laoxiao789.com
 myadg.ru
+myatris.sbs
 mydevpn.eu
 mydns.ddns.me
 mypihole.hopto.org
@@ -2888,7 +2879,6 @@ nelsonleung.org
 net.tt6.net
 net01.youcef.io
 netcup.mismat.ch
-new.pragmasec.nl
 newd.rezyro.com
 newlibrarian.myqnapcloud.com
 next.atomix.in
@@ -3036,7 +3026,6 @@ ott01.dnscry.pt
 oury.privado.ovh
 outie.8ws.net
 outiejr.8ws.net
-ovhcloud.mehmetarikan.tech
 owa.pvmedia.ru
 p0.freedns.controld.com
 p1.freedns.controld.com
@@ -3108,7 +3097,6 @@ polisitogel.cruises
 polisitogel.diy
 polisitogel.green
 polisitogel.hair
-polisitogel.limo
 polisitogel.living
 polisitogel.luxe
 polisitogel.show
@@ -3200,7 +3188,6 @@ resolve02.srv-pro.de
 resolve2.srv-pro.de
 resolver-eu.haringstad.com
 resolver.as203038.net
-resolver.dns.eban.eu.org
 resolver.dnsprivacy.org.uk
 resolver.frank-ruan.com
 resolver.haringstad.com
@@ -3322,7 +3309,6 @@ selsby.info
 seoul.101818.xyz
 seoul.dnsovertor.cc
 sers.lirlab.su
-server.pragmasec.nl
 server01.karl.one
 server01.vboekel.nl
 servis4u.top
@@ -3468,7 +3454,6 @@ thxvv.ru
 tia01.dnscry.pt
 tienpham.id.vn
 tiger.dns.qwer.pw
-tigrons.ru
 timedns.net
 timmes.nl
 tj.jamesxue.xyz
@@ -3690,7 +3675,6 @@ wallpap.eu
 wanam.ddns.net
 wandana.franklinfamily.au
 wantaquddin.com
-waters888.com
 waw01.dnscry.pt
 waw02.dnscry.pt
 waydnes.ru
@@ -3699,7 +3683,6 @@ wdns.233py.com
 web-rated.ie
 webdav.cubecloud.win
 webmail.drahonn.pro
-webmeel.pragmasec.nl
 webteufel-it.solutions
 wec-httpdns-platform-dbankcloud-com-drcn.region.dbankedge.cn
 wg-aghome.freemyip.com
