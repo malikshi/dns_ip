@@ -395,7 +395,6 @@ adsl.viettel.vn
 aduhai.caksono.com
 adult-filter-dns.cleanbrowsing.org
 adult-filter-dot.dnswarden.com
-aduma15.duckdns.org
 ae-agh1.dns.cryptroute.net
 ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
@@ -1016,7 +1015,6 @@ dns.complianceauditores.com.br
 dns.comss.one
 dns.connect.fail
 dns.consoro.eu
-dns.containerpi.com
 dns.controld.com
 dns.cooluc.com
 dns.cryptomize.com
@@ -1415,7 +1413,6 @@ dns.netraptor.com.au
 dns.netrve.net
 dns.netvpn.net
 dns.neubsi.at
-dns.neutopia.org
 dns.nextdns.io
 dns.nguyendangduong.codes
 dns.nguyendn.com
@@ -2433,6 +2430,7 @@ hkns.gzelvis.com
 hkt.kozow.com
 hockaday.synology.me
 hole.elbschloss.xyz
+home-server.store
 home.azagra.dev
 home.basthorst.eu
 home.bruckmoser.it
@@ -2965,7 +2963,6 @@ ns2.vuivn.site
 ns2.wuyouss.com
 ns3.bit-trail.nl
 ns3.com
-ns3.link
 ns3.opennameserver.org
 ns3.wuyouss.com
 ns4.opennameserver.org
@@ -3203,7 +3200,6 @@ resolver1.ipv6-sandbox.opendns.com
 resolver1.opendns.com
 resolver2-fs.opendns.com
 resolver2.absolight.net
-resolver2.dyndnsinternetguide.com
 resolver2.hosting-cloud.net
 resolver2.ipv6-sandbox.opendns.com
 resolver2.opendns.com
@@ -3782,11 +3778,9 @@ www.wg-aghome.freemyip.com
 www.wiqi.top
 www.yujunwanwu.cn
 wyx.cloud
-x-o-x.duckdns.org
 x.laoban.fun
 x.ns1net.com
 x.res.wang
-x861g.duckdns.org
 xbcpb668.com
 xenergy.cc
 xfer.au
