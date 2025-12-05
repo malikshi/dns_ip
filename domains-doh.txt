@@ -285,7 +285,6 @@ adguard.ppfeufer.de
 adguard.pushedv.de
 adguard.quydang.name.vn
 adguard.rabmoor.cz
-adguard.randn.ru
 adguard.rdekuyper.nl
 adguard.rennes.despagne.net
 adguard.rjscho.net
@@ -312,7 +311,6 @@ adguard.stoian.top
 adguard.strafer.dk
 adguard.streamlas.fr
 adguard.superstefan.win
-adguard.sverzhe.com
 adguard.taufner.net
 adguard.tcpu.io
 adguard.techlike.in
@@ -750,7 +748,6 @@ d0.tada.ly
 d1.12342345.xyz
 d1.insec.link
 d1.vps.mtsdns.ru
-d2.shabi.icu
 d2.vps.mtsdns.ru
 d3.vps.mtsdns.ru
 d3vy.ru
@@ -791,7 +788,6 @@ de01.dns4me.net
 dedidl.com
 deep-henchman-excuse.cfd
 defendfrienddns.fyi
-defsnldns01.sc-hosting.info
 dehb.ru
 deic-lgb.anycast.censurfridns.dk
 deic-lgb.anycast.censurfridns.nu
@@ -1103,7 +1099,6 @@ dns.eliv.kr
 dns.enderblocks.net
 dns.engineer-lib.ru
 dns.engineer.web.id
-dns.enzonix.com
 dns.epcot.fr
 dns.epic.st
 dns.erkin.top
@@ -1195,7 +1190,6 @@ dns.hellozhao.com
 dns.henek.ru
 dns.herkhof.nl
 dns.hinet.net
-dns.ho.al
 dns.hoian.one
 dns.home.daniil.it
 dns.homenet.saschagaspar.net
@@ -1263,7 +1257,6 @@ dns.jimirobaer.be
 dns.jimwelanobong.com
 dns.jinwoo.dev
 dns.jiyi.eu
-dns.jluo.app
 dns.jnprd.com
 dns.joey01245.nl
 dns.johndave.me
@@ -1343,7 +1336,6 @@ dns.lithvik.com
 dns.litong.dev
 dns.lmir.info
 dns.lobbygod.com
-dns.loony-tech.de
 dns.lsho.top
 dns.luismm2311.com
 dns.lululu.dev
@@ -1579,7 +1571,6 @@ dns.sellan.fr
 dns.serdcebolit.ru
 dns.server2.tschoerner.eu
 dns.servizimv.it
-dns.sethost.de
 dns.sev.monster
 dns.sgp.hicn.site
 dns.shareworx.net
@@ -1597,7 +1588,6 @@ dns.sitdns.com
 dns.skous.dedyn.io
 dns.skrep.eu
 dns.skrep.in
-dns.skrzypiec.pl
 dns.skuy.co.id
 dns.sledge.cc
 dns.slinkyman.net
@@ -1698,7 +1688,6 @@ dns.vinokurov.tk
 dns.vip-kingstore.xyz
 dns.virtual-qr.ir
 dns.vk09.ru
-dns.vkhudyakov.ru
 dns.vladpro.ru
 dns.vlo.cc
 dns.vmath.my.id
@@ -1706,7 +1695,6 @@ dns.vmisch.tech
 dns.vod11.xyz
 dns.volsap.ovh
 dns.voronin.uk
-dns.voyager2.space
 dns.vpn.i81.ru
 dns.vps.mtsdns.ru
 dns.vps.pw
@@ -1889,10 +1877,6 @@ dnsmm.mywire.org
 dnsmurray.de
 dnsnl.alekberg.net
 dnsotls.lab.nic.cl
-dnsovertls.sinodun.com
-dnsovertls1.sinodun.com
-dnsovertls2.sinodun.com
-dnsovertls3.sinodun.com
 dnspub.restena.lu
 dnsresolver02.ddns.net
 dnssec.dns.enginyring.com
@@ -2218,7 +2202,6 @@ enclosr.co
 eoin.dns.walshnet.co.uk
 es-ma.foxyfy.net
 esel.stusta.mhn.de
-essentiallyjay.com
 eth.link
 eu.doh.sb
 eu.tri-dns.net
@@ -2423,7 +2406,6 @@ hk.100992.xyz
 hk.559299366.xyz
 hk.conana.info
 hk.end.pub
-hk.imtsui.com
 hk.janebooom.com
 hk.jason666.top
 hk.reaticle.com
@@ -2688,7 +2670,6 @@ krafty31.duckdns.org
 krdns.cola16.app
 kronos.plan9-dns.com
 krtekvpn.duckdns.org
-ksedns.ru
 kstdownload.com
 kuaishou.httpdns.pro
 kudns.kescher.at
@@ -2876,7 +2857,6 @@ n5.lsasss.com
 n50.martkotur.ru
 n8nmegapixar.online
 naganohara-yoimiya.momokko.moe
-najiakeji.top
 name.nop.mobi
 nas-fusion.loisy.it
 nas-scheiben34.myasustor.com
@@ -2911,7 +2891,6 @@ nicktruehome.ddns.net
 nicsezcheckfbi.gov
 nikamurs.duckdns.org
 nilfheim.asguardian.de
-nimeserver.kirjakast.eu
 ningyan.top
 nitter.ujwie.co
 nl-ams-w-p-1.nashkan.net
@@ -3111,15 +3090,6 @@ pm7051-br.xyz
 pm9352-bd.xyz
 pmo01.dnscry.pt
 pns2.sadraidc.com
-polisitogel.beauty
-polisitogel.builders
-polisitogel.contractors
-polisitogel.cruises
-polisitogel.diy
-polisitogel.green
-polisitogel.hair
-polisitogel.living
-polisitogel.luxe
 polisitogel.show
 polisitogel.webcam
 pooblet.co.za
@@ -3163,7 +3133,6 @@ qaz.tw
 qdns02.nymterm.com
 qingmo.vip
 qlf-doh.inria.fr
-qqmcfw.tech
 qro01.dnscry.pt
 quadrogramma.vps.webdock.cloud
 qual.cuprum.ru
@@ -3179,7 +3148,6 @@ r1bnc.eu.org
 r7ws-poco-f3.dns.xwu.us
 rafi.dynns.com
 raj.pw
-randn.ru
 rasp.matthias-iwer.de
 rayneau.fr
 rb750gr3.ulfhednar.ru
@@ -3340,7 +3308,6 @@ sg-dns1.bancuh.com
 sg-dns2.bancuh.com
 sg-sin.doh.sb
 sg-w-f-1.nashkan.net
-sg-w-f-2.nashkan.net
 sg-w-p-1.nashkan.net
 sg.101818.xyz
 sg.rslvr.eu
@@ -3401,7 +3368,6 @@ solution.w10.life
 songochain.freeddns.org
 sorephie-dns2.ddns.net
 spacedns.org
-speeddns.top
 speedtest.skynetinternet.com.br
 spotifyobs.drahonn.pro
 spyro-the-bat.fleuryk.ovh
@@ -3527,7 +3493,6 @@ udns.weixin.qq.com
 ueni.dyndns.org
 uk-lon.doh.sb
 uk01.dns4me.net
-ukns.milangas2.top
 unasw.eu
 uncensored-dot.dnswarden.com
 uncensored.freedns.controld.com
@@ -3733,7 +3698,6 @@ www.1ee.top
 www.20010114.xyz
 www.acomit.lk
 www.adguard.marto.si
-www.adguard.randn.ru
 www.agh.broaddy.com
 www.amopython.shop
 www.andrewnw.xyz
@@ -3784,7 +3748,6 @@ www.oowo.de
 www.pdnssrvagh.online
 www.prostoclub.ru
 www.qingmo.vip
-www.randn.ru
 www.reptis.online
 www.richardo.net
 www.skynetinternet.com.br
