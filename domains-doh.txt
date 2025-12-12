@@ -393,7 +393,6 @@ ads-ch.landgame.net
 ads.hunga1k47.com
 ads.therman.eu
 ads.x88.in
-adsfysdfgiuy.ydns.eu
 adsl.viettel.vn
 aduhai.caksono.com
 adult-filter-dns.cleanbrowsing.org
@@ -1022,6 +1021,7 @@ dns.complianceauditores.com.br
 dns.comss.one
 dns.connect.fail
 dns.consoro.eu
+dns.containerpi.com
 dns.controld.com
 dns.cooluc.com
 dns.cryptomize.com
@@ -1435,7 +1435,6 @@ dns.nodoa.me
 dns.nominal.network
 dns.nonomi.cc
 dns.nop.mobi
-dns.notjakob.com
 dns.novali.date
 dns.novg.net
 dns.npe.bz
@@ -1553,6 +1552,7 @@ dns.sarilouis.com
 dns.sark.dev
 dns.sb
 dns.sbstructure.ir
+dns.scapetical.com
 dns.scarx.net
 dns.scayn.com
 dns.schimtar.com
@@ -2370,6 +2370,7 @@ guard.yps.tw
 guest.nop.mobi
 guidetoworld.link
 guigu.dns.army
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gw1.dns.haynetwork.id
 gyd01.dnscry.pt
@@ -2378,6 +2379,7 @@ gztech.me
 h.gjrick.tw
 h.ra3.in
 h4g3z1-doh.web.app
+ha.o51r15.com
 haf01.dnscry.pt
 hallo.nop.mobi
 han01.dnscry.pt
@@ -2449,6 +2451,7 @@ home.vps.mtsdns.ru
 home.weisbrod.me
 home.wriedts.de
 home27.duckdns.org
+homec92.dns.army
 homedns.gumeniuk.com
 homeguard.sleziona.org
 homejerem.duckdns.org
@@ -2972,6 +2975,7 @@ ns6.ygy.ru
 nsc.torgues.net
 nsec.arnor.org
 nsnacho.sytes.net
+nsown.com
 ntwrkh.pro
 nue01.dnscry.pt
 nvi-dns.bitdefender.net
@@ -3078,6 +3082,7 @@ pihole1.hoerli.net
 pihole2.hoerli.net
 pihole3.hoerli.net
 pihole4.hoerli.net
+pingbi.xyz
 pioko.net
 pips.kpsn.org
 pitchforkwaydns.duckdns.org
@@ -3178,6 +3183,7 @@ resolve02.srv-pro.de
 resolve2.srv-pro.de
 resolver-eu.haringstad.com
 resolver.as203038.net
+resolver.dns.eban.eu.org
 resolver.dnsprivacy.org.uk
 resolver.frank-ruan.com
 resolver.haringstad.com
@@ -3458,6 +3464,7 @@ tlz.asia
 tngch.mydns.jp
 toaster.lol
 tokyo.559299366.xyz
+tokyo.92-m.com
 tor.cloudflare-dns.com
 tor.vasi.li
 tpa01.dnscry.pt
@@ -3746,6 +3753,7 @@ www.muxyuji.ru
 www.nop.mobi
 www.oowo.de
 www.pdnssrvagh.online
+www.pingbi.xyz
 www.prostoclub.ru
 www.qingmo.vip
 www.reptis.online
@@ -3769,9 +3777,11 @@ www.wg-aghome.freemyip.com
 www.wiqi.top
 www.yujunwanwu.cn
 wyx.cloud
+x-o-x.duckdns.org
 x.laoban.fun
 x.ns1net.com
 x.res.wang
+x861g.duckdns.org
 xbcpb668.com
 xenergy.cc
 xfer.au
