@@ -1379,6 +1379,7 @@ dns.mni.li
 dns.mo0on15.com
 dns.molinero.dev
 dns.momou.ch
+dns.moog.sh
 dns.mooncheng.top
 dns.moondip.net
 dns.moonssif.com
