@@ -40,6 +40,7 @@
 3.local-dns.noridev.moe
 3dcosas.xyz
 3dns.eu
+3jjxxl.tech
 3x.az.i81.ru
 45.32.17.58.vultrusercontent.com
 51576162.ru
@@ -91,10 +92,8 @@ adb-home.xaoimoon.fr
 adb-wan.xaoimoon.fr
 adb.aadityakushwaha.com
 adb.aiec.vn
-adb.amishkaz.site
 adb.intienquan.io.vn
 adb.timnichollsphotography.com
-adbl-tslagter.nl
 adblock-dot.dnswarden.com
 adblock.0815cloud.de
 adblock.dns.mullvad.net
@@ -113,7 +112,6 @@ addns.jpr.space
 addns.jujuland.net
 addns.ovalie.ovh
 addns1.m-it.ro
-aden.my
 adfight.ru
 adfiltro.fun
 adfree.usableprivacy.net
@@ -745,6 +743,7 @@ commons.host
 comss.one
 comss.ru
 connect-with.click
+console.carestyle.org
 contacts.dehb.ru
 corancy.ddnsfree.com
 cph01.dnscry.pt
@@ -782,6 +781,7 @@ d.zscale.gq
 d0.tada.ly
 d1.12342345.xyz
 d1.vps.mtsdns.ru
+d2.shabi.icu
 d2.vps.mtsdns.ru
 d3.vps.mtsdns.ru
 d3vy.ru
@@ -1164,7 +1164,6 @@ dns.exonip.de
 dns.expert
 dns.extrawdw.net
 dns.f4a.fun
-dns.f97.xyz
 dns.fadhilyori.my.id
 dns.fahr.in
 dns.faked.org
@@ -1198,6 +1197,7 @@ dns.fsociety.club
 dns.fsociety.red
 dns.fulgore.fr
 dns.fullaccesstointernet.jp.eu.org
+dns.furrydns.de
 dns.futuredns.me
 dns.fxdc.ru
 dns.gamban.com
@@ -1824,7 +1824,6 @@ dns.zky666.fun
 dns.zoogle.cn
 dns.zui.lol
 dns.zzuhacker.cn
-dns0.eu
 dns0.permafrostmiami.com
 dns0.tardishost.ru
 dns01.almir1904.eu
@@ -1866,6 +1865,7 @@ dns1.server.my.id
 dns1.slowb.ro
 dns1.tardishost.ru
 dns1.techeasy.org
+dns1.techniverse.net
 dns1.thylacine.co.nz
 dns1.timothy-dev.com
 dns1.understandingcyber.co.uk
@@ -2353,7 +2353,6 @@ flyloadguard.dynu.net
 fnt01.dnscry.pt
 focus.nop.mobi
 forzalaquila.servebeer.com
-fptdns.site
 fr-dns1.bancuh.com
 fr-dns2.bancuh.com
 fr-gra-w-p-1.nashkan.net
@@ -2696,7 +2695,6 @@ jp01.dns4me.net
 jp01.just-a-web.com
 jp1.f7b6h9.tk
 jp193.flyzhouyc.win
-jp2.101818.xyz
 jp2.ooroot.com
 jpdns.cola16.app
 jpdns.hker.me
@@ -2728,7 +2726,6 @@ kennethhuang.com
 khome.site
 khsan.com
 kids.5ososea.com
-kids.dns0.eu
 kids.mijoregner.de
 kids.ns.nwps.fi
 kids.vietdns.vn
@@ -2941,7 +2938,9 @@ n5.lsasss.com
 n50.martkotur.ru
 n8nmegapixar.online
 naganohara-yoimiya.momokko.moe
+najiakeji.top
 name.nop.mobi
+nanopi.cybergroove.net
 nas-fusion.loisy.it
 nas-scheiben34.myasustor.com
 nas.dehb.ru
@@ -3091,7 +3090,6 @@ online.zotio.ru
 oostelbos.dynu.com
 oowo.de
 open-resolver1.unima.ac.id
-open.dns0.eu
 openbld.net
 opencdn.jomodns.com
 opendns.one
@@ -3188,6 +3186,8 @@ pm7051-br.xyz
 pm9352-bd.xyz
 pmo01.dnscry.pt
 pns2.sadraidc.com
+polisitogel.beauty
+polisitogel.hair
 polisitogel.show
 polisitogel.webcam
 pooblet.co.za
@@ -3230,6 +3230,7 @@ qaz.tw
 qdns02.nymterm.com
 qingmo.vip
 qlf-doh.inria.fr
+qqmcfw.tech
 qro01.dnscry.pt
 quadrogramma.vps.webdock.cloud
 qual.cuprum.ru
@@ -3549,7 +3550,6 @@ th1.dnsfinder.ir
 thaibksri.duckdns.org
 thakkali.teej.xyz
 thanos.pleumkungz.com
-theadblocksg.duckdns.org
 thefamilypuls.com
 thenotionplus.top
 thuis.familiethomassen.nl
@@ -3898,6 +3898,7 @@ x.ns1net.com
 x.res.wang
 x210-131-219-118.static.xvps.ne.jp
 x861g.duckdns.org
+xbcpb668.com
 xenergy.cc
 xfer.au
 xholgm.top
@@ -3952,7 +3953,6 @@ zapranet.my.id
 zaziss.com
 zburger.top
 zdn.ro
-zero.dns0.eu
 zetland.rm-ni.uk
 zeusvps.cloudns.nz
 zhang.wenru.xyz
