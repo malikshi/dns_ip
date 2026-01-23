@@ -139,7 +139,6 @@ adg.rokh.biz
 adg.rueiliu.space
 adg.spacework.com.mx
 adg.tshost.no
-adg.webyfa.ir
 adg.yybyy.wiki
 adg5yvi.ngatngay.net
 adgaurd.lingmont.net
@@ -275,7 +274,6 @@ adguard.mokocup.dev
 adguard.myddns.org
 adguard.nasaud.info
 adguard.neelyha.tk
-adguard.neotix.net
 adguard.netmasc.services
 adguard.nielsenhost.dk
 adguard.niko-sem.com
@@ -315,7 +313,6 @@ adguard.shuting.idv.tw
 adguard.sixxi.de
 adguard.soloanvill.ru
 adguard.spaceindex.net
-adguard.sparshbajaj.me
 adguard.sre.ovh
 adguard.sscw.win
 adguard.stealbit.com
@@ -723,6 +720,7 @@ cloud.securifi.com.my
 cloud.smirnovfamily.ru
 cloud.tezoi.com
 cloud2.holzmannclouddns.de
+cloudbenders.fun
 cloudbob.fr
 cloudflare-dns.com
 cloudflare-gateway.com
@@ -1301,7 +1299,6 @@ dns.iteo.pw
 dns.itsec.crolla.net
 dns.itwht.com
 dns.itya.xyz
-dns.izyserv.site
 dns.jamessliu.com
 dns.japan.joshcheng.host
 dns.jcdn.site
@@ -1561,6 +1558,7 @@ dns.proprietarypenguin.com
 dns.psociety.de
 dns.pub
 dns.pumpkinvrar.com
+dns.pumplex.com
 dns.qiyipic.iqiyi.com
 dns.qkc.fr
 dns.qpt.one
@@ -1824,6 +1822,7 @@ dns.zky666.fun
 dns.zoogle.cn
 dns.zui.lol
 dns.zzuhacker.cn
+dns0.eu
 dns0.permafrostmiami.com
 dns0.tardishost.ru
 dns01.almir1904.eu
@@ -2428,6 +2427,7 @@ gr.skrsteam.info
 graf.mywire.org
 grandmaster.sytes.net
 graveofhope.ru
+greatideasforlife.lol
 green2.jnraptor.net
 green3.jnraptor.net
 green4.jnraptor.net
@@ -2795,6 +2795,7 @@ lena.vps.mtsdns.ru
 leoadguard.duckdns.org
 leochen-dns.ddns.net
 lesuo.top
+lewsha.lol
 lfbn-gre-1-319-7.w90-112.abo.wanadoo.fr
 lilibox.freeboxos.fr
 lim02.dnscry.pt
@@ -2829,7 +2830,6 @@ luba.vpn.i81.ru
 lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
 lukscasino-929-tr.xyz
-lux.sn0w.nl
 lux01.dnscry.pt
 luxembourg.privacy-dns.pw
 lvpn.2rdp.ru
@@ -3109,7 +3109,6 @@ ore-dns.bitdefender.net
 orjp4.lz0724.com
 ornext.luxury-web.kz
 orpi.privado.ovh
-ortudns.com
 oscnl.site
 osefcorp.duckdns.org
 othernj.drahonn.pro
@@ -3128,7 +3127,6 @@ panel.gogolvpn.com
 panel.joosh.ru
 panser.web.id
 par01.dnscry.pt
-paradise-human.shop
 paranoia.mydns.network
 pashagame456.com
 paskam.xyz
@@ -3174,7 +3172,6 @@ pihole2.hoerli.net
 pihole3.hoerli.net
 pihole4.hoerli.net
 pingbi.xyz
-pioko.net
 pips.kpsn.org
 pitchforkwaydns.duckdns.org
 pl-waw-w-p-2.nashkan.net
@@ -3222,7 +3219,6 @@ public254.alidns.com
 public99.alidns.com
 publicdnsserver.com
 punono.duckdns.org
-pure.lunetra.online
 puredns.org
 purpose.shamanlanding.org
 pygos.space
@@ -3275,6 +3271,7 @@ resolve.corpa.me
 resolve.fknw.de
 resolve.srv-pro.de
 resolve02.srv-pro.de
+resolve2.r9x.cc
 resolve2.srv-pro.de
 resolver-eu.haringstad.com
 resolver.as203038.net
@@ -3348,7 +3345,6 @@ rwkdwpwsyv48.mikopono.nl
 rx.techomespace.com
 s.hd440.de
 s.idsam.com
-s.rafiadinata.web.id
 s1.s2.shahramv1.site
 s1.srch.top
 s2.d3mik.ru
@@ -3489,7 +3485,6 @@ sq.trin.icu
 squidmall.vip
 sradg.eastus.cloudapp.azure.com
 sradg2.eastus.cloudapp.azure.com
-sriedmueadguard.casa
 srv5.jiripocta.cz
 ss.0001.xyz
 ss.microbaidu.com
@@ -3845,7 +3840,6 @@ www.fanscloud.net
 www.golegana.de
 www.greppie.nl
 www.hgrps.eu
-www.hsu.plus
 www.ilmxs.com
 www.immadnez7.ru
 www.incaseineeditoneday.com
