@@ -150,7 +150,6 @@ adghome.ru
 adghs.de
 adgremoteau.com
 adgrm.duckdns.org
-adguard-be-azure.westeurope.cloudapp.azure.com
 adguard-dns.com
 adguard-dns.eu.org
 adguard-home.de
@@ -238,7 +237,6 @@ adguard.h4nt3r.com
 adguard.haneulo.com
 adguard.hartley.cloud
 adguard.hoangcongchuc.com
-adguard.home-lab-network.com
 adguard.homenetmedia.stream
 adguard.hostingsignal.in
 adguard.ihatemy.live
@@ -943,7 +941,6 @@ dns.adguard-dns.com
 dns.adguard.com
 dns.adguarddns.com
 dns.adrianlam.com
-dns.agfiudsv.icu
 dns.ahmgam.com
 dns.aicreate360.com
 dns.airmaxcloud.uk
@@ -1089,7 +1086,6 @@ dns.cynthialabs.net
 dns.cysynex.cloud
 dns.d365.in
 dns.d4d.moe
-dns.d8e.ru
 dns.d94.xyz
 dns.daarrk.tech
 dns.daemon.za.net
@@ -1258,7 +1254,6 @@ dns.hinet.net
 dns.hoian.one
 dns.home.beckett.io
 dns.home.daniil.it
-dns.homenet.saschagaspar.net
 dns.hoody.com
 dns.hopkinton.online
 dns.hopsken.com
@@ -1584,7 +1579,6 @@ dns.quad9.net
 dns.quanhd.net
 dns.quickline.ch
 dns.quickso.cn
-dns.quidam.ovh
 dns.quiet.rocks
 dns.rabbitdns.org
 dns.ramansarda.com
@@ -1770,9 +1764,7 @@ dns.vladpro.ru
 dns.vlo.cc
 dns.vmath.my.id
 dns.vmisch.tech
-dns.vod11.xyz
 dns.volsap.ovh
-dns.voronin.uk
 dns.vortexstore.cloud
 dns.vpn.i81.ru
 dns.vps.mtsdns.ru
@@ -1817,10 +1809,8 @@ dns.xxxxxxxx.pp.ua
 dns.xydustc.me
 dns.xyz.ddnss.eu
 dns.y2f.xyz
-dns.yameenassotally.com
 dns.yandex.ru
 dns.yatima.tv
-dns.ygonline.de
 dns.yingroad.top
 dns.youni.win
 dns.yu.dev
@@ -1887,8 +1877,6 @@ dns10.quad9.net
 dns11.quad9.net
 dns12.quad9.net
 dns13.quad9.net
-dns140.zhhz.cc
-dns168.zhhz.cc
 dns19.854000.xyz
 dns2.afastserver.com
 dns2.anuar.me
@@ -2085,7 +2073,6 @@ doh.hugang8.cn
 doh.ibr.cs.tu-bs.de
 doh.immerda.ch
 doh.in.ahadns.net
-doh.infotechlibrary.com
 doh.infracell.net
 doh.iqiyi.com
 doh.it.ahadns.net
@@ -2152,7 +2139,6 @@ doh.sb
 doh.seby.io
 doh.sidnlabs.nl
 doh.srv00.com
-doh.sublime9.xyz
 doh.suche.org
 doh.sunoaki.net
 doh.sww.net.id
@@ -2827,7 +2813,6 @@ llk01.dnscry.pt
 loadlow.me
 loan.paymdm.xyz
 lofter.httpdns.c.163.com
-log.qrsoft.ru
 logs.danamas.net
 lomoff.spb.ru
 lon01.dnscry.pt
@@ -3385,7 +3370,6 @@ sanns.aniuo.com
 saomai.dynu.com
 sarawut.ddns.net
 sascha-rabold.de
-saya.rnrkurir.com
 sbdns.co.in
 schimtar.com
 scottdylewski.com
@@ -3437,9 +3421,7 @@ sg.yepdns.com
 sg01.dns4me.net
 sg1.dnswarden.com
 sg2.ooroot.com
-sg2.tt502.eu.org
 sgd.559299366.xyz
-sgdns.site
 sgn01.dnscry.pt
 sgs02.just-a-web.com
 sgs03.just-a-web.com
@@ -3684,7 +3666,6 @@ v1.ufamax.eu
 v1.xylto.com
 v1552270.hosted-by-vdsina.ru
 v2-1.huwenqiang.xyz
-v2.xx3210766.live
 v2202405224322270920.megasrv.de
 v2rich.eu.org
 v3.passby.eu.org
@@ -3757,7 +3738,6 @@ vpn.nnip.org
 vpn.odeccit.com
 vpn.sakhwow.ru
 vpn.satadru.dev
-vpn.self-tech.ru
 vpn.snxi.de
 vpn.ssytnik.de
 vpn.stroialliance.com
