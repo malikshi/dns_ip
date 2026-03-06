@@ -91,7 +91,6 @@ adb-home.xaoimoon.fr
 adb-wan.xaoimoon.fr
 adb.aadityakushwaha.com
 adb.aiec.vn
-adb.intienquan.io.vn
 adb.timnichollsphotography.com
 adblock-dot.dnswarden.com
 adblock.0815cloud.de
@@ -190,7 +189,6 @@ adguard.cell.co.id
 adguard.chanhome.xyz
 adguard.chaudharyarnav.com
 adguard.chestnov.ru
-adguard.cinicollerico.top
 adguard.clawsucht.eu
 adguard.cloud-chen.idv.tw
 adguard.cnbeining.com
@@ -205,7 +203,6 @@ adguard.dessoi.cloud
 adguard.dientutronghuong.com
 adguard.discounthost.co.uk
 adguard.diylab.in
-adguard.domorome.wf
 adguard.doranpierst.com.tr
 adguard.drahonn.pro
 adguard.dsns.cloud
@@ -213,7 +210,6 @@ adguard.easez.net
 adguard.ef67daisuki.club
 adguard.eischmann.cz
 adguard.ekhozie.dynu.net
-adguard.elashri.xyz
 adguard.elrobit.com
 adguard.ender.fr
 adguard.eoghan-net.com
@@ -222,7 +218,6 @@ adguard.exium.net
 adguard.ext.devkon.org
 adguard.eyadmojahed.ddnsgeek.com
 adguard.fam-rodenburg.nl
-adguard.fatu.systems
 adguard.frece.de
 adguard.gambini.org
 adguard.gattow.com
@@ -251,7 +246,6 @@ adguard.k-likhachev.ru
 adguard.kalyanmudumby.com
 adguard.kantinyoyok.xyz
 adguard.kasbot.net
-adguard.kazantsev97.msk.ru
 adguard.kiboko.it
 adguard.kitakitsune.xyz
 adguard.kngnet.de
@@ -262,7 +256,6 @@ adguard.lamhoangtung.space
 adguard.laurenlaufman.com
 adguard.lege.despagne.net
 adguard.londonwebnerd.cloud
-adguard.macrosolutionsltd.co.uk
 adguard.maison.gifino.fr
 adguard.manmademagic.com
 adguard.mapor.co
@@ -388,7 +381,6 @@ adguardhome.ittoolman.top
 adguardhome.softcloud.pe
 adguardhome.yavuztutcu.net
 adguardnic.ddns.net
-adguardpi.duckdns.org
 adh.51st.top
 adh.blogcuahieu.com
 adh.fastpacefixit.info
@@ -610,7 +602,6 @@ bei01.dnscry.pt
 bella.981377612.xyz
 berd.moe
 bestwon203.com
-beta.thegodfatheriam.shop
 bev.dns.walshnet.co.uk
 bg.rslvr.eu
 bh.wael.name
@@ -674,7 +665,6 @@ ca-yyz.doh.sb
 ca.doh.cloudveil.org
 ca01.dns4me.net
 ca02.dns4me.net
-caddy.rkn.icu
 callbackping.net
 callcontrol.nop.mobi
 callies-online.site
@@ -769,7 +759,6 @@ cynntex.fun
 d.adguard-dns.com
 d.apemlegit.my.id
 d.bod.lol
-d.dnns.fun
 d.gametechnet.com
 d.hansj.cc
 d.hxhd.cc
@@ -970,7 +959,6 @@ dns.apigw.online
 dns.aquilenet.fr
 dns.ares-taiwan.com
 dns.arkbotech.com
-dns.arnabhome.fun
 dns.articrevised.cc
 dns.artikel10.org
 dns.ashleyjackson.net
@@ -990,7 +978,6 @@ dns.b612.me
 dns.b72.com
 dns.bad-taste.app
 dns.bai0012.com
-dns.baishiyuan.cn
 dns.be2aja.my.id
 dns.beardic.cn
 dns.bebasid.com
@@ -1295,7 +1282,6 @@ dns.iqiyi.com
 dns.irk38.net
 dns.irumatech.com
 dns.is0mino.com
-dns.ishan.pw
 dns.islandnet.com
 dns.isp.dhoho.net
 dns.it-pa.net
@@ -1307,7 +1293,6 @@ dns.itwht.com
 dns.itya.xyz
 dns.jamessliu.com
 dns.japan.joshcheng.host
-dns.jcdn.site
 dns.jd.com
 dns.jerryw.cn
 dns.jhangy.us
@@ -1483,7 +1468,6 @@ dns.netrve.net
 dns.netvpn.net
 dns.neubsi.at
 dns.nextdns.io
-dns.nguyendangduong.codes
 dns.nguyendn.com
 dns.nhtsky.com
 dns.niccoli.cc
@@ -1491,7 +1475,6 @@ dns.nick-slowinski.de
 dns.nicolas.vip
 dns.nieto.app
 dns.niffelen.com
-dns.nimzero.fr
 dns.ningkelle.id
 dns.ninhs.org
 dns.njal.la
@@ -1718,7 +1701,6 @@ dns.thezudrive.xyz
 dns.thiz.top
 dns.thore.cloud
 dns.timboeh.me
-dns.timkevin.us
 dns.tipsy.coffee
 dns.titov.cz
 dns.tkhome.nl
@@ -1767,7 +1749,6 @@ dns.vlo.cc
 dns.vmath.my.id
 dns.vmisch.tech
 dns.volsap.ovh
-dns.vortexstore.cloud
 dns.vpn.i81.ru
 dns.vps.mtsdns.ru
 dns.vps.pw
@@ -2140,7 +2121,6 @@ doh.sandbox.opendns.com
 doh.sb
 doh.seby.io
 doh.sidnlabs.nl
-doh.srv00.com
 doh.suche.org
 doh.sunoaki.net
 doh.sww.net.id
@@ -2627,7 +2607,6 @@ incaseineeditoneday.com
 ind01.dnscry.pt
 ines.zfn.uni-bremen.de
 ingenmannsland.online
-inoainoa.fun
 inpssh.online
 internetsehat.bebasid.com
 intertop.link
@@ -2870,7 +2849,6 @@ mci01.dnscry.pt
 mcore.us.to
 mcttechs.com
 mechanikdns.kozow.com
-media.streamfusion.online
 meet.nop.mobi
 meganerd.nl
 megumin.is.my.waifu.cz
@@ -2879,7 +2857,6 @@ mendozasdelivery.com
 meowless.club
 mfimail.eu
 mia01.dnscry.pt
-michelo.line.pm
 mickedi.isgood.host
 micro.alloxr.info
 midgard.asguardian.de
@@ -3357,7 +3334,6 @@ s3.arashi.solutions
 s3.d3mik.ru
 sa01.dns4me.net
 sabeendns.duckdns.org
-sabine.bruno2000.link
 sabzipolobamahi.nl
 sacarino.es
 safe-guard.badbotdev.xyz
@@ -3428,7 +3404,6 @@ sg2.ooroot.com
 sgd.559299366.xyz
 sgn01.dnscry.pt
 sgs02.just-a-web.com
-sgs03.just-a-web.com
 sh.telex.app
 shadowart.online
 shakdns.cc
@@ -3710,7 +3685,6 @@ vless-service.ufodns.com
 vm.delfini.online
 vm1.arashi.solutions
 vm2.arashi.solutions
-vm3421302.firstbyte.club
 vn.dns.abpvn.com
 vno01.dnscry.pt
 void.mcfly.lol
@@ -3847,7 +3821,6 @@ www.hgrps.eu
 www.ilmxs.com
 www.immadnez7.ru
 www.incaseineeditoneday.com
-www.inoainoa.fun
 www.inpssh.online
 www.it-works4u.com
 www.it-works4u.nl
