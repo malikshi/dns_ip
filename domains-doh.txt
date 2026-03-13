@@ -700,6 +700,7 @@ cld.996969.xyz
 clean.dnsforge.de
 clean.hadan-dns.de
 cleanbrowsing.org
+clearweb.woodbridge.club
 clic.eu.org
 clientdns3.softcom.net
 closetruth.date
@@ -1241,6 +1242,7 @@ dns.hinet.net
 dns.hoian.one
 dns.home.beckett.io
 dns.home.daniil.it
+dns.homenet.saschagaspar.net
 dns.hoody.com
 dns.hopkinton.online
 dns.hopsken.com
@@ -2607,6 +2609,7 @@ incaseineeditoneday.com
 ind01.dnscry.pt
 ines.zfn.uni-bremen.de
 ingenmannsland.online
+inoainoa.fun
 inpssh.online
 internetsehat.bebasid.com
 intertop.link
@@ -2905,6 +2908,7 @@ myadg.ru
 myagh.claptrap.me
 myatris.sbs
 mydevpn.eu
+mydns.bielperes.me
 mydns.ddns.me
 mydns.phatna.net
 mypihole.hopto.org
@@ -3821,6 +3825,7 @@ www.hgrps.eu
 www.ilmxs.com
 www.immadnez7.ru
 www.incaseineeditoneday.com
+www.inoainoa.fun
 www.inpssh.online
 www.it-works4u.com
 www.it-works4u.nl
