@@ -945,6 +945,7 @@ dns.abppro.ru
 dns.adguard-dns.com
 dns.adguard.com
 dns.adguarddns.com
+dns.adnull.com
 dns.adrianlam.com
 dns.adriason.co.uk
 dns.ahmgam.com
@@ -1129,6 +1130,7 @@ dns.dns-over-https.com
 dns.dnsguard.pub
 dns.dnshome.de
 dns.dnsoverhttps.net
+dns.dnssilo.top
 dns.dnswarden.com
 dns.doserver.top
 dns.dotnet.win
@@ -1224,7 +1226,6 @@ dns.girino.org
 dns.giriprabhat.com
 dns.glampool.cloud
 dns.glf.wtf
-dns.glorydns.com
 dns.glsoft.ai
 dns.gnb09.id
 dns.goertz.digital
@@ -1291,7 +1292,6 @@ dns.iblockads.net
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
-dns.imaicool.com
 dns.imchristian.de
 dns.immanuelschaffer.de
 dns.indybanipal.com
@@ -2236,6 +2236,7 @@ draco.plan9-ns2.com
 drahonn.pro
 drandrade21.freeddns.org
 drkcloud.ddns.net
+droyd.top
 drs.rustsword.com
 ds.appl.pk
 ds1.fredic.us
@@ -2625,7 +2626,6 @@ incaseineeditoneday.com
 ind01.dnscry.pt
 ines.zfn.uni-bremen.de
 ingenmannsland.online
-inoainoa.fun
 inpssh.online
 internetsehat.bebasid.com
 intertop.link
@@ -2790,7 +2790,6 @@ layer1.jnraptor.net
 ldaman.duckdns.org
 le-mesle.fr
 leecurrylawfirm.com
-lelux.fi
 lena.az.i81.ru
 lena.hr.i81.ru
 lena.vd.i81.ru
@@ -3476,6 +3475,7 @@ smtp.greppie.nl
 sndkcuf.lekun.me
 socolov.home.ro
 sof01.dnscry.pt
+solaxy.live
 sols.co.in
 solution.w10.life
 songochain.freeddns.org
@@ -3488,6 +3488,10 @@ sq.trin.icu
 squidmall.vip
 sradg.eastus.cloudapp.azure.com
 sradg2.eastus.cloudapp.azure.com
+srv01.dns64.de
+srv02.dns64.de
+srv03.dns64.de
+srv04.dns64.de
 srv5.jiripocta.cz
 ss.0001.xyz
 ss.microbaidu.com
@@ -3602,6 +3606,7 @@ tungdnsne.duckdns.org
 tuskythehusky.tech
 tuu01.dnscry.pt
 twingatedns.dr3ff1c13nt.com
+tx.teradns.org
 tyo.883933770.xyz
 tyo01.dnscry.pt
 tyo02.dnscry.pt
@@ -3610,6 +3615,7 @@ typaza.com
 udns.weixin.qq.com
 ueni.dyndns.org
 uk-lon.doh.sb
+uk.teradns.org
 uk01.dns4me.net
 unasw.eu
 uncensored-dot.dnswarden.com
@@ -3796,7 +3802,6 @@ wiqi.app
 wiqi.top
 wired-guardian.duckdns.org
 wireguard.osmenoga.com
-wisehomeguard.duckdns.org
 wlan.0815cloud.de
 woalongit.synology.me
 woc.beelstb.biz.id
@@ -3838,7 +3843,6 @@ www.hgrps.eu
 www.ilmxs.com
 www.immadnez7.ru
 www.incaseineeditoneday.com
-www.inoainoa.fun
 www.inpssh.online
 www.it-works4u.com
 www.it-works4u.nl
