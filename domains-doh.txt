@@ -177,7 +177,6 @@ adguard.amscenter.net
 adguard.app.sabino.pro
 adguard.arashi.solutions
 adguard.avavd.ru
-adguard.avdkishore.dev
 adguard.ayrespace.cc
 adguard.baltes.info
 adguard.bitteeinbyte.de
@@ -419,12 +418,12 @@ ae-fuj-w-p-2.nashkan.net
 ae-fuj-w-p-3.nashkan.net
 ae-fuj-w-p-4.nashkan.net
 affcdn.net
+affsoft.cc
 africa.avastdns.com
 africadns1.liquidtelecom.net
 africadns2.liquidtelecom.net
 ag.alexf.cc
 ag.apollohct.com
-ag.brianlee.fun
 ag.coco-tama-hoiku.com
 ag.felixf.eu
 ag.ff0x.ca
@@ -669,7 +668,6 @@ bw.mijoregner.de
 bwg.559299366.xyz
 bwg.sooda.moe
 bwh.why4free.top
-c-asm.circumitor.de
 c-dns.com
 c-rm.circumitor.de
 c.cicitt.ch
@@ -768,7 +766,6 @@ cryptostorm.is
 cryptroute.com
 cube.neubsi.at
 cubedns.com
-curser.dev
 cvt-ic-us-adns-001.clearviewtechnology.net
 cvt01.dnscry.pt
 cyliu.idv.tw
@@ -874,7 +871,6 @@ dns-doh.dnsforfamily.com
 dns-dot.dnsforfamily.com
 dns-family.adguard.com
 dns-family.esegece.com
-dns-fr-psv1.cloudsides.com
 dns-free.link
 dns-gcp.aaflalo.me
 dns-guard1.cryptroute.com
@@ -1185,6 +1181,7 @@ dns.fancyorg.at
 dns.farakaft.ir
 dns.farshidhakimy.de
 dns.farshmc.ru
+dns.faze.dev
 dns.fc.idv.tw
 dns.fdue.de
 dns.fehlsprache.de
@@ -1199,6 +1196,7 @@ dns.flux24.net
 dns.flwagners.com
 dns.flyer.vn
 dns.flymc.cc
+dns.foximao.cn
 dns.foxyfy.net
 dns.freddys.my.id
 dns.freemyemail.com
@@ -1226,6 +1224,7 @@ dns.girino.org
 dns.giriprabhat.com
 dns.glampool.cloud
 dns.glf.wtf
+dns.glorydns.com
 dns.glsoft.ai
 dns.gnb09.id
 dns.goertz.digital
@@ -1408,6 +1407,7 @@ dns.lululu.dev
 dns.luma-medien.com
 dns.lupine.solutions
 dns.lvl-network.de
+dns.lvolland.fr
 dns.lvqing.eu.org
 dns.mafyuh.io
 dns.mahiro.online
@@ -1473,7 +1473,6 @@ dns.murgi.de
 dns.musikantit.fi
 dns.muxinghe.cn
 dns.mymachinepanda.online
-dns.mytest.cc
 dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
@@ -1534,6 +1533,7 @@ dns.osmenoga.com
 dns.ostfriese.org
 dns.otezz.net
 dns.ourvau.lt
+dns.ovpn.bond
 dns.p3k.sk
 dns.p55k.com
 dns.pacificmonster.com
@@ -1635,7 +1635,6 @@ dns.schimtar.com
 dns.schlagheck.berlin
 dns.schmidt-zoarn.de
 dns.scott-smith.us
-dns.scott.ovh
 dns.sct-pro.com
 dns.scuola.org
 dns.seaotter.cc
@@ -2188,6 +2187,7 @@ doh2.blahdns.com
 doh2.gslb2.xfinity.com
 doh3.almir1904.eu
 doh3.kekew.info
+dohde.blahdns.com
 dohdot.coxlab.net
 dohipv6.crypto.sx
 dohsg.blahdns.com
@@ -2835,10 +2835,7 @@ lukscasino-542-tr.xyz
 lukscasino-929-tr.xyz
 lux01.dnscry.pt
 luxembourg.privacy-dns.pw
-lvpn.2rdp.ru
-m-asm.circumitor.de
 m-cm.circumitor.de
-m-rm.circumitor.de
 m.nop.mobi
 mad01.dnscry.pt
 maherhost.uk
