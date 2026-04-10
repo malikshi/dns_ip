@@ -310,7 +310,6 @@ adguard.shoupperuser.com
 adguard.shutgaming.net
 adguard.shuting.idv.tw
 adguard.sixxi.de
-adguard.soloanvill.ru
 adguard.spaceindex.net
 adguard.sre.ovh
 adguard.sscw.win
@@ -422,8 +421,8 @@ affsoft.cc
 africa.avastdns.com
 africadns1.liquidtelecom.net
 africadns2.liquidtelecom.net
-ag.alexf.cc
 ag.apollohct.com
+ag.brianlee.fun
 ag.coco-tama-hoiku.com
 ag.felixf.eu
 ag.ff0x.ca
@@ -668,6 +667,7 @@ bw.mijoregner.de
 bwg.559299366.xyz
 bwg.sooda.moe
 bwh.why4free.top
+c-asm.circumitor.de
 c-dns.com
 c-rm.circumitor.de
 c.cicitt.ch
@@ -758,7 +758,6 @@ cpt02.dnscry.pt
 crd.circl.lu
 cristianocosta.me
 crusnik80.co.za
-crypt.mostsecureme.com
 cryptd.space
 crypto.sx
 crypto2049.store
@@ -766,6 +765,7 @@ cryptostorm.is
 cryptroute.com
 cube.neubsi.at
 cubedns.com
+curser.dev
 cvt-ic-us-adns-001.clearviewtechnology.net
 cvt01.dnscry.pt
 cyliu.idv.tw
@@ -1078,7 +1078,6 @@ dns.cooluc.com
 dns.corefusion.xyz
 dns.cryptomize.com
 dns.crystalyx.net
-dns.csa-rz.de
 dns.csaonline.de
 dns.csswg.org
 dns.curser.dev
@@ -1202,10 +1201,8 @@ dns.freddys.my.id
 dns.freemyemail.com
 dns.freopc.fr
 dns.freyja.pw
-dns.friezer.eu
 dns.froth.zone
 dns.fsociety.club
-dns.fsociety.red
 dns.fulgore.fr
 dns.fullaccesstointernet.jp.eu.org
 dns.furrydns.de
@@ -1258,7 +1255,6 @@ dns.hee.ink
 dns.hellozhao.com
 dns.henek.ru
 dns.herkhof.nl
-dns.hexservers.com
 dns.hinet.net
 dns.hoian.one
 dns.home.beckett.io
@@ -1340,7 +1336,6 @@ dns.kamilszczepanski.com
 dns.kapite.in
 dns.kapoww.tk
 dns.karadag.me
-dns.karanovic.ca
 dns.karfamily.net
 dns.karl.one
 dns.kastner-online.de
@@ -1618,6 +1613,7 @@ dns.ronc.ru
 dns.rotunneling.net
 dns.ru.anitelekom.ru
 dns.rubyfish.cn
+dns.safesurfer.co.nz
 dns.safko.eu
 dns.sainternet.xyz
 dns.saneaki.com
@@ -1705,7 +1701,6 @@ dns.t53.de
 dns.taoday.top
 dns.tapawan.ca
 dns.tb4.me
-dns.tbs6920.sbs
 dns.teaminfo.fr
 dns.techcpu.net
 dns.technologycage.com
@@ -1924,7 +1919,6 @@ dns2.srv-home.fr
 dns2.st4rs.net
 dns2.thylacine.co.nz
 dns2.vinc.me
-dns2.xcapenet.ru
 dns2.ytpom.ru
 dns3.dns-ga.de
 dns3.hu10us22.win
@@ -2023,6 +2017,7 @@ doh.appliedprivacy.net
 doh.archuser.org
 doh.armadillodns.net
 doh.asagiri.moe
+doh.asecdns.com
 doh.asia.dnswarden.com
 doh.asli.id
 doh.au.ahadns.net
@@ -2205,6 +2200,7 @@ dot-fi.blahdns.com
 dot-jp.blahdns.com
 dot-sg.blahdns.com
 dot.360.cn
+dot.asecdns.com
 dot.au.ahadns.net
 dot.chi.ahadns.net
 dot.cox.net
@@ -2616,6 +2612,7 @@ igor.vd.i81.ru
 igor.vpn.i81.ru
 ihctw.synology.me
 iij.jp
+ikarosalpha.xyz
 ilinhy.com
 ilmxs.com
 immadnez7.ru
@@ -2670,7 +2667,6 @@ jirecon.nop.mobi
 jit.ddns.net
 jitsi.nop.mobi
 jkdns.me
-jkmoon.ggff.net
 jkt01.dnscry.pt
 jnb01.dnscry.pt
 jnb02.dnscry.pt
@@ -2835,7 +2831,9 @@ lukscasino-542-tr.xyz
 lukscasino-929-tr.xyz
 lux01.dnscry.pt
 luxembourg.privacy-dns.pw
+m-asm.circumitor.de
 m-cm.circumitor.de
+m-rm.circumitor.de
 m.nop.mobi
 mad01.dnscry.pt
 maherhost.uk
@@ -2861,7 +2859,6 @@ matvey.dns.vladpro.ru
 mavalleenumerique.hopto.org
 max.rethinkdns.com
 maxfong.cc
-mc-sft.cn
 mci01.dnscry.pt
 mcore.us.to
 mcttechs.com
@@ -2922,7 +2919,6 @@ myadg.ru
 myagh.claptrap.me
 myatris.sbs
 mydevpn.eu
-mydndworld.isgood.host
 mydns.bielperes.me
 mydns.ddns.me
 mydns.phatna.net
@@ -2936,9 +2932,7 @@ mzs1.ddns.net
 n.3363.net
 n.5201344.xyz
 n.nop.mobi
-n10.martkotur.ru
 n5.lsasss.com
-n50.martkotur.ru
 n8nmegapixar.online
 naganohara-yoimiya.momokko.moe
 najiakeji.top
@@ -3156,7 +3150,6 @@ per01.dnscry.pt
 performance.gosami.xyz
 personal-proj-by-me.eu
 petinom.online
-pg.web-rated.ie
 phantom3c.net
 philqoo.com
 phl01.dnscry.pt
@@ -3388,7 +3381,6 @@ secondary.dns.seia.io
 secondary.dns.yandex.ru
 secondary.family.dns.yandex.ru
 secondary.safe.dns.yandex.ru
-secure-dns.dns-ga.de
 secure-dns.gridlax.com
 secure-dns.pleumkungz.com
 secure.anudeep.me
@@ -3597,7 +3589,6 @@ tsm01.dnscry.pt
 tsr01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
-tuantran.cloud
 tujenasnaszato.xyz
 tungdnsne.duckdns.org
 tuskythehusky.tech
@@ -3753,7 +3744,6 @@ vps.grussenmeyer.com
 vps.jmarkin.ru
 vps.mtsdns.ru
 vps.poly-tank.jp
-vps.rumpus.cc
 vps.techrich.net
 vps01.bbhc.xyz
 vps1.rootax.org
