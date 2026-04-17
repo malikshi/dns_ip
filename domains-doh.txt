@@ -981,6 +981,7 @@ dns.ashleyjackson.net
 dns.asterimoon.com
 dns.asysec.com
 dns.atsilva.link
+dns.auapi.fun
 dns.audet.cloud
 dns.auffray.org
 dns.axto.me
@@ -1287,6 +1288,7 @@ dns.iblockads.net
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
+dns.imaicool.com
 dns.imchristian.de
 dns.immanuelschaffer.de
 dns.indybanipal.com
@@ -1468,6 +1470,7 @@ dns.murgi.de
 dns.musikantit.fi
 dns.muxinghe.cn
 dns.mymachinepanda.online
+dns.mytest.cc
 dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
@@ -1631,6 +1634,7 @@ dns.schimtar.com
 dns.schlagheck.berlin
 dns.schmidt-zoarn.de
 dns.scott-smith.us
+dns.scott.ovh
 dns.sct-pro.com
 dns.scuola.org
 dns.seaotter.cc
@@ -1672,6 +1676,7 @@ dns.spil.co.id
 dns.spirio.fr
 dns.srijan.site
 dns.srinivasrao.co.in
+dns.sshub.win
 dns.sstomp.nl
 dns.startupstack.tech
 dns.stevenz.net
@@ -1766,6 +1771,7 @@ dns.vladpro.ru
 dns.vlo.cc
 dns.vmath.my.id
 dns.vmisch.tech
+dns.vod11.xyz
 dns.volsap.ovh
 dns.vpn.i81.ru
 dns.vps.mtsdns.ru
@@ -2144,6 +2150,7 @@ doh.sandbox.opendns.com
 doh.sb
 doh.seby.io
 doh.sidnlabs.nl
+doh.sublime9.xyz
 doh.suche.org
 doh.sunoaki.net
 doh.sww.net.id
@@ -3145,6 +3152,7 @@ pdx01.dnscry.pt
 pebdbvi58gbc.absq.ch
 ped01.dnscry.pt
 penetrator.shurakenas.ru
+pepetio.xyz
 per.adfilter.net
 per01.dnscry.pt
 performance.gosami.xyz
@@ -3672,6 +3680,7 @@ v1.ufamax.eu
 v1.xylto.com
 v1552270.hosted-by-vdsina.ru
 v2-1.huwenqiang.xyz
+v2.xx3210766.live
 v2202405224322270920.megasrv.de
 v2rich.eu.org
 v3.passby.eu.org
