@@ -1,4 +1,3 @@
-001.smallnode.net
 003153.xyz
 0815cloud.de
 0ms.dev
@@ -403,7 +402,6 @@ admin.homedns.uk
 admir21.ru
 adns.3am.la
 adns.onlinetools.rocks
-ads-ch.landgame.net
 ads.hunga1k47.com
 ads.therman.eu
 ads.x88.in
@@ -496,6 +494,7 @@ all.dns.mullvad.net
 allain.com.br
 alleesph.online
 alon93rus.ru
+alpha-dns.quad9.net
 alpha.cixy.xyz
 ame.drahonn.pro
 amgr.asuscomm.com
@@ -595,7 +594,6 @@ b.jtt.ink
 b.ns.dnslify.com
 b.safe.ns.dnslify.com
 b9c7dc4e-7dde-4903-935b-fd6ea59ca4fb.space
-baksabal.duckdns.org
 bancuh.com
 barnabech.fr
 base.dns.mullvad.net
@@ -714,7 +712,6 @@ cld.996969.xyz
 clean.dnsforge.de
 clean.hadan-dns.de
 cleanbrowsing.org
-clearweb.woodbridge.club
 clic.eu.org
 clientdns3.softcom.net
 closetruth.date
@@ -1183,10 +1180,8 @@ dns.farshidhakimy.de
 dns.farshmc.ru
 dns.faze.dev
 dns.fc.idv.tw
-dns.fdue.de
 dns.fehlsprache.de
 dns.ffnw.de
-dns.fifux.be
 dns.filipccz.eu
 dns.fizz.studio
 dns.flatuslifir.is
@@ -1293,6 +1288,7 @@ dns.imchristian.de
 dns.immanuelschaffer.de
 dns.indybanipal.com
 dns.inforlogia.com
+dns.infosec.xyz
 dns.internal.espresso-tasse.de
 dns.internal.hosmatic.com
 dns.invent.hr
@@ -1584,7 +1580,6 @@ dns.qrtz.club
 dns.quad9.net
 dns.quanhd.net
 dns.quickline.ch
-dns.quickso.cn
 dns.quiet.rocks
 dns.rabbitdns.org
 dns.ramansarda.com
@@ -2041,7 +2036,6 @@ doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
 doh.chi.ahadns.net
-doh.cippapp.com
 doh.cleanbrowsing.org
 doh.cnetwork.cloud
 doh.controld.com
@@ -2622,7 +2616,6 @@ iij.jp
 ikarosalpha.xyz
 ilinhy.com
 ilmxs.com
-immadnez7.ru
 imperio.top
 in-blr.doh.sb
 inadsware.ddns.net
@@ -2723,7 +2716,6 @@ kalwat.duckdns.org
 kams.kii.qzz.io
 katherine-dns.newcore.cl
 kavkaz.monster
-kawpad.southeastasia.cloudapp.azure.com
 kcolspacrm.ir
 kdgnkjho4od8w40.americasnet.com.br
 keithchung.hopto.org
@@ -3244,7 +3236,6 @@ r1bnc.com
 r1bnc.eu.org
 r7ws-poco-f3.dns.xwu.us
 rafi.dynns.com
-raj.pw
 ramy.run.place
 rasp.matthias-iwer.de
 rayneau.fr
@@ -3438,6 +3429,7 @@ shield.afixer.app
 shield.kidshielder.com
 shield1.eranext.net
 shinano.anime.com.my
+shitblocker.com
 siddeus.synology.me
 sig.bxq.net
 signsservers.ru
@@ -3801,7 +3793,6 @@ wireguard.osmenoga.com
 wlan.0815cloud.de
 woalongit.synology.me
 woc.beelstb.biz.id
-woodbridge.club
 workcavestl.duckdns.org
 wp-test.fvds.ru
 wtbd02.solowalk.top
@@ -3837,7 +3828,6 @@ www.golegana.de
 www.greppie.nl
 www.hgrps.eu
 www.ilmxs.com
-www.immadnez7.ru
 www.incaseineeditoneday.com
 www.inpssh.online
 www.it-works4u.com
