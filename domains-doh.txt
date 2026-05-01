@@ -657,7 +657,6 @@ bre01.dnscry.pt
 bru01.dnscry.pt
 bt.luoo.cc
 bts01.dnscry.pt
-bubblex2.top
 bucheli.synology.me
 bud01.dnscry.pt
 buh01.dnscry.pt
@@ -992,6 +991,7 @@ dns.b612.me
 dns.b72.com
 dns.bad-taste.app
 dns.bai0012.com
+dns.baishiyuan.cn
 dns.be2aja.my.id
 dns.beardic.cn
 dns.bebasid.com
@@ -1245,7 +1245,6 @@ dns.hakutakucn.com
 dns.hanahira.dev
 dns.hanmey.de
 dns.hannielzhang.com
-dns.haoxuan.xyz
 dns.hashemlabs.co.uk
 dns.hee.ink
 dns.hellozhao.com
@@ -1846,7 +1845,6 @@ dns1.api110.com
 dns1.blackrandcrf.ru
 dns1.conne.net
 dns1.digitale-gesellschaft.ch
-dns1.dns-ga.de
 dns1.dnscrypt.ca
 dns1.feear.se
 dns1.gms.net.id
@@ -1890,7 +1888,6 @@ dns2.bortus.io
 dns2.cbio.top
 dns2.cybrespace.net
 dns2.digitale-gesellschaft.ch
-dns2.dns-ga.de
 dns2.feear.se
 dns2.gms.net.id
 dns2.gregoret.com.ar
@@ -1921,7 +1918,6 @@ dns2.st4rs.net
 dns2.thylacine.co.nz
 dns2.vinc.me
 dns2.ytpom.ru
-dns3.dns-ga.de
 dns3.hu10us22.win
 dns3.wistarip.com
 dns35.allone.dpdns.org
@@ -2049,7 +2045,6 @@ doh.de.blahdns.com
 doh.defaultroutes.de
 doh.denypradana.com
 doh.disconnect.app
-doh.dns-ga.de
 doh.dns.sb
 doh.dns1.lonet.org
 doh.dns4all.eu
@@ -2183,6 +2178,7 @@ doh2.blahdns.com
 doh2.gslb2.xfinity.com
 doh3.almir1904.eu
 doh3.kekew.info
+doh64.dns4all.eu
 dohde.blahdns.com
 dohdot.coxlab.net
 dohipv6.crypto.sx
@@ -2451,7 +2447,6 @@ guard.yps.tw
 guest.nop.mobi
 guidetoworld.link
 guigu.dns.army
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gw1.dns.haynetwork.id
 gyd01.dnscry.pt
@@ -2918,7 +2913,6 @@ myadg.ru
 myagh.claptrap.me
 myatris.sbs
 mydevpn.eu
-mydns.bielperes.me
 mydns.ddns.me
 mydns.phatna.net
 mypihole.hopto.org
@@ -3122,6 +3116,7 @@ panel.gogolvpn.com
 panel.joosh.ru
 panser.web.id
 par01.dnscry.pt
+paradise-human.shop
 paranoia.mydns.network
 pashagame456.com
 paskam.xyz
