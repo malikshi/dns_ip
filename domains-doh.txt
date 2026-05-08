@@ -202,7 +202,6 @@ adguard.dekonix.ru
 adguard.depieri.net
 adguard.dervart.ru
 adguard.dessoi.cloud
-adguard.dientutronghuong.com
 adguard.discounthost.co.uk
 adguard.diylab.in
 adguard.doranpierst.com.tr
@@ -254,7 +253,6 @@ adguard.kitakitsune.xyz
 adguard.kngnet.de
 adguard.konikoni428.com
 adguard.konnkors.lol
-adguard.kujoe.com
 adguard.lamhoangtung.space
 adguard.laurenlaufman.com
 adguard.lege.despagne.net
@@ -402,7 +400,6 @@ admin.homedns.uk
 admir21.ru
 adns.3am.la
 adns.onlinetools.rocks
-ads.hunga1k47.com
 ads.therman.eu
 ads.x88.in
 adsl.viettel.vn
@@ -426,7 +423,6 @@ ag.felixf.eu
 ag.ff0x.ca
 ag.hostme.co.il
 ag.iyn.one
-ag.m0fo.com
 ag.marschi.de
 ag.snrka.ru
 ag.ssrahul96.xyz
@@ -467,7 +463,6 @@ agh2.server.my.id
 agh3.server.my.id
 agha.sunryu.site
 aghdns.com
-aghome.jcconnell.com
 ahadns.net
 ahcek.com
 ahoj.email
@@ -648,9 +643,7 @@ bog01.dnscry.pt
 bom01.dnscry.pt
 bom02.dnscry.pt
 borisov.page
-botclassic.com
 br.lfac.net.br
-br.servers.legat.ml
 br2.lezainski.com
 bravedns.com
 bre01.dnscry.pt
@@ -712,7 +705,6 @@ clean.dnsforge.de
 clean.hadan-dns.de
 cleanbrowsing.org
 clic.eu.org
-clientdns3.softcom.net
 closetruth.date
 cloud.198.games
 cloud.beerloga.su
@@ -754,7 +746,6 @@ cpt02.dnscry.pt
 crd.circl.lu
 cristianocosta.me
 crusnik80.co.za
-cryptd.space
 crypto.sx
 crypto2049.store
 cryptostorm.is
@@ -796,7 +787,6 @@ darya.persiannit.net
 daverotaquio.net
 dc39.559299366.xyz
 dcbot.drahonn.pro
-dd.961188.xyz
 dd.elashri.net
 dd.hlm.ovh
 ddd.999369.xyz
@@ -867,7 +857,6 @@ dns-doh.dnsforfamily.com
 dns-dot.dnsforfamily.com
 dns-family.adguard.com
 dns-family.esegece.com
-dns-free.link
 dns-gcp.aaflalo.me
 dns-guard1.cryptroute.com
 dns-guard2.cryptroute.com
@@ -897,6 +886,7 @@ dns.0ooo.icu
 dns.0x55.net
 dns.13evl.com
 dns.141664.xyz
+dns.23-4.cn
 dns.233py.com
 dns.233py.com.cdn.cloudflare.net
 dns.240527.xyz
@@ -917,7 +907,6 @@ dns.73zls.com
 dns.7sec.com.br
 dns.7vpn.com
 dns.853852.xyz
-dns.866865.xyz
 dns.886886886.xyz
 dns.888654.xyz
 dns.890806.xyz
@@ -1386,7 +1375,6 @@ dns.lihj.me
 dns.lildinosaur.com
 dns.lilith.cloud
 dns.linkr.ninja
-dns.liruz.fr
 dns.lista.my.id
 dns.listo.click
 dns.lithvik.com
@@ -1439,7 +1427,6 @@ dns.mijoregner.de
 dns.mikeliu.org
 dns.mikopono.nl
 dns.mikrotikrumahan.my.id
-dns.milkpie.one
 dns.millernetwork.uk
 dns.miyun1.com
 dns.mnet-online.de
@@ -1724,7 +1711,7 @@ dns.tls-data.de
 dns.tngch.mydns.jp
 dns.tomitomix.net
 dns.tooizi.eu
-dns.trifanov-online.ru
+dns.tracker.ink
 dns.truong.fi
 dns.trust404.win
 dns.tryk.app
@@ -1736,7 +1723,6 @@ dns.uk-london-1.oraclecloud.com
 dns.umbrella.com
 dns.unerror.network
 dns.unitech.company
-dns.unitynetwork.ru
 dns.unknown-universe.co.uk
 dns.unpak.ac.id
 dns.unx.io
@@ -1822,7 +1808,6 @@ dns.yuyz.net
 dns.yuzia.cc
 dns.yyaan.com
 dns.yyaan.top
-dns.zachbosh.com
 dns.zarchbox.fr
 dns.zemows.industries
 dns.zfsystem.tech
@@ -2609,7 +2594,6 @@ igor.vpn.i81.ru
 ihctw.synology.me
 iij.jp
 ikarosalpha.xyz
-ilinhy.com
 ilmxs.com
 imperio.top
 in-blr.doh.sb
@@ -2709,7 +2693,6 @@ kakawka05.duckdns.org
 kallemarc.de
 kalwat.duckdns.org
 kams.kii.qzz.io
-katherine-dns.newcore.cl
 kavkaz.monster
 kcolspacrm.ir
 kdgnkjho4od8w40.americasnet.com.br
@@ -2780,6 +2763,7 @@ layer1.jnraptor.net
 ldaman.duckdns.org
 le-mesle.fr
 leecurrylawfirm.com
+lelux.fi
 lena.az.i81.ru
 lena.hr.i81.ru
 lena.vd.i81.ru
@@ -2808,13 +2792,11 @@ logs.danamas.net
 lomoff.spb.ru
 lon01.dnscry.pt
 look.xshentx.org
-lookup.zucx.net
 lorc17-dns.komeho.info
 lordsalty.com
 los01.dnscry.pt
 los02.dnscry.pt
 lothuscorp.com.br
-lovekers.cn
 lslnyjq.uk
 luba.az.i81.ru
 luba.hr.i81.ru
@@ -2882,6 +2864,7 @@ mistasinresolver.ru
 mk.skynetinternet.com.br
 mnl01.dnscry.pt
 mnsvless.ikwb.com
+moamao.shop
 moe01.dnscry.pt
 moidns.hopto.org
 moise-et-maurice-gardent-la-maison.schneiderus.org
@@ -2896,7 +2879,6 @@ mresquire.com
 mrs01.dnscry.pt
 mru01.dnscry.pt
 mru02.dnscry.pt
-ms.gswsfh2021.site
 msp01.dnscry.pt
 msr177.com
 mtsdns.ru
@@ -3024,7 +3006,6 @@ ns1.hadan-dns.de
 ns1.hjk.kr
 ns1.hjk.me
 ns1.i-evolve.net
-ns1.lab321.pro
 ns1.opennameserver.org
 ns1.qquack.org
 ns1.recursive.dnsbycomodo.com
@@ -3112,7 +3093,6 @@ p2.freedns.controld.com
 p3.freedns.controld.com
 pad3w.pp.ua
 padermail.net
-panel.gogolvpn.com
 panel.joosh.ru
 panser.web.id
 par01.dnscry.pt
@@ -3225,7 +3205,6 @@ quangdo92.dynu.net
 quantumpulse.dev
 query.hdns.io
 query.mobyds.com
-quic.lol
 r.9132706292.cloudns.be
 r1bnc.com
 r1bnc.eu.org
@@ -3357,7 +3336,6 @@ sams.adg.siudzinski.net
 samsung.dns.joey01245.nl
 sandbox.opendns.com
 sanns.aniuo.com
-saomai.dynu.com
 sarawut.ddns.net
 sascha-rabold.de
 sbdns.co.in
@@ -3530,7 +3508,6 @@ test2.adg.siudzinski.net
 test3.adg.siudzinski.net
 test4.adg.siudzinski.net
 testaghome.meshkov.info
-testapp-0-1-1.duckdns.org
 testguard.meexx.de
 tetra.aeins.at
 th1.dnsfinder.ir
