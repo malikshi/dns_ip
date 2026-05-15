@@ -491,6 +491,7 @@ alleesph.online
 alon93rus.ru
 alpha-dns.quad9.net
 alpha.cixy.xyz
+alpha.dnsbunker.org
 ame.drahonn.pro
 amgr.asuscomm.com
 amigo.az.i81.ru
@@ -646,6 +647,7 @@ borisov.page
 br.lfac.net.br
 br2.lezainski.com
 bravedns.com
+bravo.dnsbunker.org
 bre01.dnscry.pt
 bru01.dnscry.pt
 bt.luoo.cc
@@ -1171,6 +1173,7 @@ dns.faze.dev
 dns.fc.idv.tw
 dns.fehlsprache.de
 dns.ffnw.de
+dns.fifux.be
 dns.filipccz.eu
 dns.fizz.studio
 dns.flatuslifir.is
@@ -1186,6 +1189,7 @@ dns.freddys.my.id
 dns.freemyemail.com
 dns.freopc.fr
 dns.freyja.pw
+dns.friezer.eu
 dns.froth.zone
 dns.fsociety.club
 dns.fulgore.fr
@@ -2083,6 +2087,7 @@ doh.maskab.com
 doh.max.net.id
 doh.mcasviper.de
 doh.meetz.pw
+doh.micronets.in
 doh.mmmalia.com
 doh.mochou.site
 doh.moorecloud.id
@@ -2432,6 +2437,7 @@ guard.yps.tw
 guest.nop.mobi
 guidetoworld.link
 guigu.dns.army
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gw1.dns.haynetwork.id
 gyd01.dnscry.pt
@@ -2446,6 +2452,7 @@ hallo.nop.mobi
 han01.dnscry.pt
 handy-matthias.dns.internal.espresso-tasse.de
 handy-nils.dns.internal.espresso-tasse.de
+hanniel.tech
 hard.dnsforge.de
 hdns.ksyun.com
 hdnsadguardhome.me
@@ -2594,6 +2601,7 @@ igor.vpn.i81.ru
 ihctw.synology.me
 iij.jp
 ikarosalpha.xyz
+ilinhy.com
 ilmxs.com
 imperio.top
 in-blr.doh.sb
@@ -2665,6 +2673,7 @@ jp.559299366.xyz
 jp.95576.app
 jp.dns.bliod.eu.org
 jp.hannielzhang.com
+jp.kano.sh
 jp.rslvr.eu
 jp.tiar.app
 jp.tiarap.org
@@ -2787,6 +2796,7 @@ lis02.dnscry.pt
 lju01.dnscry.pt
 llk01.dnscry.pt
 loadlow.me
+loan.paymdm.xyz
 lofter.httpdns.c.163.com
 logs.danamas.net
 lomoff.spb.ru
@@ -3336,6 +3346,7 @@ sams.adg.siudzinski.net
 samsung.dns.joey01245.nl
 sandbox.opendns.com
 sanns.aniuo.com
+saomai.dynu.com
 sarawut.ddns.net
 sascha-rabold.de
 sbdns.co.in
