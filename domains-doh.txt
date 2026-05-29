@@ -58,9 +58,6 @@
 9827015.xyz
 a-bld.sys-adm.in
 a.9132706292.cloudns.be
-a.family.ns.dnslify.com
-a.ns.dnslify.com
-a.safe.ns.dnslify.com
 a5135324.csie.io
 abe01.dnscry.pt
 abel.waringer-atg.de
@@ -481,7 +478,6 @@ alleesph.online
 alon93rus.ru
 alpha-dns.quad9.net
 alpha.cixy.xyz
-alpha.dnsbunker.org
 ame.drahonn.pro
 amgr.asuscomm.com
 amigo.az.i81.ru
@@ -574,10 +570,7 @@ az.dz4fun.top
 az.i81.ru
 azure.cloudflare-dns.com
 azure.razor1911.xyz
-b.family.ns.dnslify.com
 b.jtt.ink
-b.ns.dnslify.com
-b.safe.ns.dnslify.com
 b9c7dc4e-7dde-4903-935b-fd6ea59ca4fb.space
 bancuh.com
 barnabech.fr
@@ -636,7 +629,6 @@ borisov.page
 br.lfac.net.br
 br2.lezainski.com
 bravedns.com
-bravo.dnsbunker.org
 bre01.dnscry.pt
 bru01.dnscry.pt
 bt.luoo.cc
@@ -1156,7 +1148,6 @@ dns.fancyorg.at
 dns.farakaft.ir
 dns.farshidhakimy.de
 dns.farshmc.ru
-dns.faze.dev
 dns.fc.idv.tw
 dns.fehlsprache.de
 dns.ffnw.de
@@ -1181,6 +1172,7 @@ dns.froth.zone
 dns.fsociety.club
 dns.fulgore.fr
 dns.fullaccesstointernet.jp.eu.org
+dns.furrix.zone
 dns.furrydns.de
 dns.futuredns.me
 dns.fxdc.ru
@@ -1394,7 +1386,6 @@ dns.marbledfennec.net
 dns.marcbond.uk
 dns.marschi.de
 dns.mateo.ovh
-dns.mathewakhil.online
 dns.matthias-prost.com
 dns.maybe.icu
 dns.mayr.ws
@@ -1411,7 +1402,6 @@ dns.mfud.net
 dns.mh4ckt3mh4ckt1c4s.xyz
 dns.michelo.cl
 dns.micro.alloxr.info
-dns.midping.ir
 dns.mihalcea.eu
 dns.mihanentalpo.me
 dns.mijoregner.de
@@ -1947,6 +1937,7 @@ doh-2.seby.io
 doh-ca.naftalie.net
 doh-ch.blahdns.com
 doh-de.blahdns.com
+doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr
 doh-fi.blahdns.com
 doh-ipv6.crypto.sx
 doh-jp.blahdns.com
@@ -2020,7 +2011,6 @@ doh.dns.sb
 doh.dns1.lonet.org
 doh.dns4all.eu
 doh.dnscrypt.uk
-doh.dnslify.com
 doh.dnswarden.com
 doh.domreg.lt
 doh.e7.work
@@ -2109,6 +2099,7 @@ doh.safesurfer.io
 doh.sandbox.opendns.com
 doh.sb
 doh.seby.io
+doh.serverhost.no
 doh.sidnlabs.nl
 doh.sublime9.xyz
 doh.suche.org
@@ -2131,6 +2122,7 @@ doh.us.dnswarden.com
 doh.us.moe.tips
 doh.valscosmos.com
 doh.viatech.com.tw
+doh.vpsdns.co.za
 doh.webnmail.de
 doh.wewitro.net
 doh.xcom.pro
@@ -2652,7 +2644,6 @@ jp.559299366.xyz
 jp.95576.app
 jp.dns.bliod.eu.org
 jp.hannielzhang.com
-jp.kano.sh
 jp.rslvr.eu
 jp.tiar.app
 jp.tiarap.org
@@ -3320,7 +3311,6 @@ sams.adg.siudzinski.net
 samsung.dns.joey01245.nl
 sandbox.opendns.com
 sanns.aniuo.com
-saomai.dynu.com
 sarawut.ddns.net
 sascha-rabold.de
 sbdns.co.in
@@ -3343,7 +3333,6 @@ secure-dns.pleumkungz.com
 secure.anudeep.me
 secure.avastdns.com
 secure.hafnova.com
-securedns.vendorvista.xyz
 securenet.mhsystems.net
 securifi.jagalabs.net
 security-filter-dns.cleanbrowsing.org
@@ -3401,7 +3390,6 @@ sink.nolo.ltd
 sinkdns.nihatkalfazade.com
 sinusbot.drahonn.pro
 sitdns.com
-site-2.duckdns.org
 site-3.duckdns.org
 sjc01.dnscry.pt
 sjc02.dnscry.pt
@@ -3549,7 +3537,6 @@ tungdnsne.duckdns.org
 tuskythehusky.tech
 tuu01.dnscry.pt
 twingatedns.dr3ff1c13nt.com
-tx.teradns.org
 tyo.883933770.xyz
 tyo01.dnscry.pt
 tyo02.dnscry.pt
@@ -3558,7 +3545,6 @@ typaza.com
 udns.weixin.qq.com
 ueni.dyndns.org
 uk-lon.doh.sb
-uk.teradns.org
 uk01.dns4me.net
 unasw.eu
 uncensored-dot.dnswarden.com
@@ -3684,7 +3670,6 @@ vovale.vpn.i81.ru
 voyage-s01.cloudku.technology
 voyage-s02.cloudku.technology
 voyagerz.hopto.org
-vpn.technicule.info
 vpnhellings.nl
 vps-1f675aa1.vps.ovh.us
 vps-ovh.pb2004.pl
@@ -3708,7 +3693,6 @@ vserv.wkind.de
 vski.172896.xyz
 vsrv15195.customer.xenway.de
 vst-sh-se.mooo.com
-vtcuong.site
 vte01.dnscry.pt
 vuivn.site
 walhalla.freemyip.com
