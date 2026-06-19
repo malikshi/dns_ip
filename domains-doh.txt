@@ -138,6 +138,7 @@ adg.rokh.biz
 adg.rueiliu.space
 adg.spacework.com.mx
 adg.tshost.no
+adg.yybyy.wiki
 adg5yvi.ngatngay.net
 adgaurd.lingmont.net
 adgd.fragmentance.ru
@@ -239,6 +240,7 @@ adguard.johanliebert.top
 adguard.johnnypatras.org
 adguard.k-likhachev.ru
 adguard.kalyanmudumby.com
+adguard.kantinyoyok.xyz
 adguard.kasbot.net
 adguard.kiboko.it
 adguard.kitakitsune.xyz
@@ -407,6 +409,7 @@ affsoft.cc
 africadns1.liquidtelecom.net
 africadns2.liquidtelecom.net
 ag.apollohct.com
+ag.brianlee.fun
 ag.coco-tama-hoiku.com
 ag.felixf.eu
 ag.ff0x.ca
@@ -835,6 +838,7 @@ dns-doh.dnsforfamily.com
 dns-dot.dnsforfamily.com
 dns-family.adguard.com
 dns-family.esegece.com
+dns-free.link
 dns-gcp.aaflalo.me
 dns-guard1.cryptroute.com
 dns-guard2.cryptroute.com
@@ -1148,6 +1152,7 @@ dns.fancyorg.at
 dns.farakaft.ir
 dns.farshidhakimy.de
 dns.farshmc.ru
+dns.faze.dev
 dns.fc.idv.tw
 dns.fehlsprache.de
 dns.ffnw.de
@@ -1757,6 +1762,7 @@ dns.weibo.cn
 dns.weixin.qq.com
 dns.weixin.qq.com.cn
 dns.wellstsai.com
+dns.wibenson.cloud
 dns.wincservices.com
 dns.wns.watch
 dns.woodyli.dev
@@ -2263,6 +2269,7 @@ example.doh.blockerdns.com
 excelkin.online
 exns1.exalto.nu
 extended.dns.mullvad.net
+externalmobiel.lekdijk.online
 extra.mask.ad
 extratv.org
 eyg01.dnscry.pt
@@ -2898,6 +2905,7 @@ mzs1.ddns.net
 n.3363.net
 n.5201344.xyz
 n.nop.mobi
+n0.eu
 n5.lsasss.com
 n8nmegapixar.online
 naganohara-yoimiya.momokko.moe
@@ -2997,6 +3005,7 @@ ns1.opennameserver.org
 ns1.qquack.org
 ns1.recursive.dnsbycomodo.com
 ns1.sc-lezhi.com
+ns1.vuivn.site
 ns2.4netguides.org
 ns2.flodns.net
 ns2.hjk.kr
@@ -3005,6 +3014,7 @@ ns2.hshh.org
 ns2.opennameserver.org
 ns2.ravdns.com
 ns2.recursive.dnsbycomodo.com
+ns2.vuivn.site
 ns2.wuyouss.com
 ns3.bit-trail.nl
 ns3.com
@@ -3239,11 +3249,13 @@ resolver.unstoppable.io
 resolver1-fs.opendns.com
 resolver1.absolight.net
 resolver1.amlegion.org
+resolver1.dyndnsinternetguide.com
 resolver1.hosting-cloud.net
 resolver1.ipv6-sandbox.opendns.com
 resolver1.opendns.com
 resolver2-fs.opendns.com
 resolver2.absolight.net
+resolver2.dyndnsinternetguide.com
 resolver2.hosting-cloud.net
 resolver2.ipv6-sandbox.opendns.com
 resolver2.opendns.com
@@ -3320,6 +3332,7 @@ sams.adg.siudzinski.net
 samsung.dns.joey01245.nl
 sandbox.opendns.com
 sanns.aniuo.com
+saomai.dynu.com
 sarawut.ddns.net
 sascha-rabold.de
 sbdns.co.in
@@ -3396,6 +3409,7 @@ sink.nolo.ltd
 sinkdns.nihatkalfazade.com
 sinusbot.drahonn.pro
 sitdns.com
+site-2.duckdns.org
 site-3.duckdns.org
 sjc01.dnscry.pt
 sjc02.dnscry.pt
@@ -3699,6 +3713,7 @@ vski.172896.xyz
 vsrv15195.customer.xenway.de
 vst-sh-se.mooo.com
 vte01.dnscry.pt
+vuivn.site
 walhalla.freemyip.com
 walker.mynetgear.com
 wallpap.eu
@@ -3841,6 +3856,7 @@ yanggan.eu.org
 ychen.cf
 ychen.gq
 ychk.ft1991.top
+yeralin.net
 yh.themcgoughs.org
 yhz01.dnscry.pt
 yin.flyzhouyc.win
