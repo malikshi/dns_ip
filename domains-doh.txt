@@ -172,7 +172,6 @@ adguard.aminetwork.biz
 adguard.amscenter.net
 adguard.app.sabino.pro
 adguard.arashi.solutions
-adguard.avavd.ru
 adguard.ayrespace.cc
 adguard.baltes.info
 adguard.bitteeinbyte.de
@@ -511,7 +510,6 @@ andy123123.xyz
 andybunn.onthewifi.com
 angry.pp.ua
 angrysky.ru
-anhphamhn82.uk
 anixlab.com
 ant.dns.qwer.pw
 antivirus.bebasid.com
@@ -562,7 +560,6 @@ au-syd.doh.sb
 au.rslvr.eu
 au01.dns4me.net
 au02.dns4me.net
-auberge78.site
 audio.dehb.ru
 augne.dns.walshnet.co.uk
 auth.nop.mobi
@@ -893,7 +890,6 @@ dns.7vpn.com
 dns.853852.xyz
 dns.886886886.xyz
 dns.888654.xyz
-dns.890806.xyz
 dns.920313.xyz
 dns.985900.xyz
 dns.9999.sg
@@ -955,7 +951,6 @@ dns.auapi.fun
 dns.audet.cloud
 dns.auffray.org
 dns.axto.me
-dns.aykanbacaksoy.de
 dns.az.i81.ru
 dns.azcom.dev
 dns.azfar.my
@@ -2051,7 +2046,6 @@ doh.in.ahadns.net
 doh.infracell.net
 doh.iqiyi.com
 doh.it.ahadns.net
-doh.iucc.ac.il
 doh.jeroenhd.nl
 doh.kekew.info
 doh.kekew.racing
@@ -2413,7 +2407,6 @@ green2.jnraptor.net
 green3.jnraptor.net
 green4.jnraptor.net
 greppie.nl
-grgrgrkeepcalmkeepcalm.asatid12.ir
 grr01.dnscry.pt
 gru01.dnscry.pt
 grunwald-marc.de
@@ -3691,6 +3684,7 @@ vovale.vpn.i81.ru
 voyage-s01.cloudku.technology
 voyage-s02.cloudku.technology
 voyagerz.hopto.org
+vpn.technicule.info
 vpnhellings.nl
 vps-1f675aa1.vps.ovh.us
 vps-ovh.pb2004.pl
