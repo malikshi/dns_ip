@@ -43,7 +43,6 @@
 3dcosas.xyz
 3dns.eu
 3jjxxl.tech
-3x.az.i81.ru
 45.32.17.58.vultrusercontent.com
 51576162.ru
 55780358.xyz
@@ -153,6 +152,7 @@ adguard-dns.com
 adguard-dns.eu.org
 adguard-home.de
 adguard-home.myddns.me
+adguard-ironhide.ultima-thule.ru
 adguard-kartoffel.zernico.de
 adguard-koe.dns64.de
 adguard-server.pp.ua
@@ -246,7 +246,6 @@ adguard.kitakitsune.xyz
 adguard.kngnet.de
 adguard.konikoni428.com
 adguard.konnkors.lol
-adguard.lamhoangtung.space
 adguard.laurenlaufman.com
 adguard.lege.despagne.net
 adguard.llf520.dpdns.org
@@ -284,7 +283,6 @@ adguard.poster.place
 adguard.ppfeufer.de
 adguard.pushedv.de
 adguard.quydang.name.vn
-adguard.rabmoor.cz
 adguard.rdekuyper.nl
 adguard.rennes.despagne.net
 adguard.rjscho.net
@@ -460,7 +458,6 @@ ahcek.com
 ahoj.email
 aicx99.shop
 aihe.app
-aitkcrev.minhduc.pw
 ajlxwk4kedu5.absq.ch
 akari.anime.com.my
 akhilkalwakurthy.dyndns.org
@@ -473,7 +470,6 @@ alidns.com
 alidns.session.pub
 alidns2.cb1999.top
 alina.virttec.net
-alisa.az.i81.ru
 alisa.hr.i81.ru
 alisa.vd.i81.ru
 alisa.vpn.i81.ru
@@ -486,7 +482,6 @@ alpha-dns.quad9.net
 alpha.cixy.xyz
 ame.drahonn.pro
 amgr.asuscomm.com
-amigo.az.i81.ru
 amigo.hr.i81.ru
 amigo.px.i81.ru
 amigo.vd.i81.ru
@@ -542,7 +537,6 @@ arm.adblocker.eu.org
 armm.duckdns.org
 armorrush.eu.org
 arrakis.korolyzer.com.br
-artemis.orionnexus.top
 as6604t-04.myasustor.com
 ashixu.ggff.net
 asia.tri-dns.net
@@ -570,7 +564,6 @@ axistechsupport.com
 aydank.freeddns.org
 ayman-dns.731my.com
 az.dz4fun.top
-az.i81.ru
 azure.cloudflare-dns.com
 azure.razor1911.xyz
 b.jtt.ink
@@ -669,7 +662,6 @@ ccadguard.dynu.net
 ccyykk.top
 cdn.0ms.dev
 cdn.refined.pro
-cdns.lagzerotm.com
 cdzopi.duckdns.org
 cfdjb.org
 chandr1000.net
@@ -951,7 +943,6 @@ dns.auapi.fun
 dns.audet.cloud
 dns.auffray.org
 dns.axto.me
-dns.az.i81.ru
 dns.azcom.dev
 dns.azfar.my
 dns.b33.network
@@ -1075,7 +1066,6 @@ dns.deldown.de
 dns.deltain.ru
 dns.demon-inc.tw
 dns.dev-umbrellagov.com
-dns.devopscloud.icu
 dns.dewei.dev
 dns.dgea.fr
 dns.dhemant.observer
@@ -1229,7 +1219,6 @@ dns.hoian.one
 dns.home.beckett.io
 dns.home.daniil.it
 dns.homenet.saschagaspar.net
-dns.hoody.com
 dns.hopkinton.online
 dns.hopsken.com
 dns.horcrux.vip
@@ -1301,7 +1290,6 @@ dns.jstockley.com
 dns.juancamos.com
 dns.jundev.org
 dns.jungle-im.ir
-dns.jupitrdns.com
 dns.justinnetworkingsolutions.com
 dns.k3nny.fr
 dns.kamilszczepanski.com
@@ -1484,7 +1472,6 @@ dns.ocedric.net
 dns.octoworld.fr
 dns.odinpl.com
 dns.ofdoom.net
-dns.olimpya44.shop
 dns.oliverweinhold.de
 dns.oliviertv.co.za
 dns.olpploiopkuyhiopsfrt.info
@@ -1611,7 +1598,6 @@ dns.seekfor.top
 dns.seia.io
 dns.seiffert.me
 dns.sellan.fr
-dns.serdcebolit.ru
 dns.server2.tschoerner.eu
 dns.servizimv.it
 dns.sev.monster
@@ -1626,7 +1612,6 @@ dns.silen.org
 dns.silentlybren.com
 dns.simplylinux.ch
 dns.sindominio.net
-dns.sitdns.com
 dns.skous.dedyn.io
 dns.skrep.eu
 dns.skrep.in
@@ -1836,7 +1821,6 @@ dns1.saferbfc.org
 dns1.sarak.as
 dns1.sarakas.net
 dns1.schooldns.nl
-dns1.serdcebolit.ru
 dns1.server.my.id
 dns1.slowb.ro
 dns1.tardishost.ru
@@ -1993,7 +1977,6 @@ doh.blockerdns.com
 doh.boje8.me
 doh.bortzmeyer.fr
 doh.bt.com
-doh.bugdns.com
 doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
@@ -2083,7 +2066,6 @@ doh.ny.ahadns.net
 doh.oco-lae.my.id
 doh.onedns.net
 doh.opendns.com
-doh.p2cdn.cn
 doh.palapa.net.id
 doh.phdns1.lonet.org
 doh.phdns2.lonet.org
@@ -2312,7 +2294,6 @@ fidelius.top
 filter.badbotdev.xyz
 filter.das.sch.id
 filter.myaddr.io
-filya.az.i81.ru
 filya.hr.i81.ru
 filya.vd.i81.ru
 filya.vpn.i81.ru
@@ -2421,7 +2402,6 @@ guard.lumusimc.co.uk
 guard.magic-pics.tk
 guard.miracloud.fr
 guard.pp.ua
-guard.sntrk.ru
 guard.telesterion.de
 guard.thefather.cloud
 guard.yps.tw
@@ -2516,7 +2496,6 @@ homejerem.duckdns.org
 homelab.terabit.net.id
 homenet.telecomitalia.it
 homita.id.vn
-honor.cyvexadns.online
 horus-team.com
 host.jerry-lee.uk
 host8.248.cloudhost.in.th
@@ -2582,7 +2561,6 @@ ibuki.cgnat.net
 ie01.dns4me.net
 iev01.dnscry.pt
 iev02.dnscry.pt
-igor.az.i81.ru
 igor.hr.i81.ru
 igor.vd.i81.ru
 igor.vpn.i81.ru
@@ -2636,7 +2614,6 @@ jen01.dnscry.pt
 jfeoks.duckdns.org
 jhb01.dnscry.pt
 jimmyshjj.top
-jin.az.i81.ru
 jirecon.nop.mobi
 jit.ddns.net
 jitsi.nop.mobi
@@ -2648,7 +2625,6 @@ jnprd.com
 johneldenring.lol
 jonathanaugusto.freeddns.org
 jonzalvo.duckdns.org
-joouddo.ru
 josephfamily.org
 joshberg.org
 jp-dns1.bancuh.com
@@ -2693,7 +2669,6 @@ kcolspacrm.ir
 kdgnkjho4od8w40.americasnet.com.br
 keithchung.hopto.org
 keithchunguat.hopto.org
-kekv.fun
 kellerbier-home.com
 kennethhuang.com
 kevinss-us-1.kevinss886.de5.net
@@ -2720,7 +2695,6 @@ kondrcloud.ru
 kopcm.ru
 korridor.semia-infra.net
 korzhov.dev
-kotys.az.i81.ru
 kotys.hr.i81.ru
 kotys.vd.i81.ru
 kotys.vpn.i81.ru
@@ -2760,7 +2734,6 @@ ldaman.duckdns.org
 le-mesle.fr
 leecurrylawfirm.com
 lelux.fi
-lena.az.i81.ru
 lena.hr.i81.ru
 lena.vd.i81.ru
 lena.vpn.i81.ru
@@ -2792,7 +2765,6 @@ los01.dnscry.pt
 los02.dnscry.pt
 lothuscorp.com.br
 lslnyjq.uk
-luba.az.i81.ru
 luba.hr.i81.ru
 luba.vd.i81.ru
 luba.vpn.i81.ru
@@ -2818,7 +2790,6 @@ mailer.amlegion.org
 maincloud.ir
 mainframe.dewed.de
 malanser.ru
-malelolula.store
 man01.dnscry.pt
 management.alexpollard.net
 maqgie.xyz
@@ -2854,7 +2825,6 @@ mil01.dnscry.pt
 minilla.store
 mipelinusa.ddns.net
 mipelinusa.duckdns.org
-mistasinresolver.ru
 mk.skynetinternet.com.br
 mnl01.dnscry.pt
 mnsvless.ikwb.com
@@ -2945,7 +2915,6 @@ ningyan.top
 nitter.ujwie.co
 nl-ams-w-p-1.nashkan.net
 nl-ams.doh.sb
-nl-ams2.doh.sb
 nl-dro-w-f-1.nashkan.net
 nl-dro-w-p-1.nashkan.net
 nl.dns.privex.io
@@ -3040,7 +3009,6 @@ office.heimtec.com
 office.pramanik.org
 ogd01.dnscry.pt
 okado.online
-olga.az.i81.ru
 olga.hr.i81.ru
 olga.vd.i81.ru
 olga.vpn.i81.ru
@@ -3067,7 +3035,6 @@ ordns.he.net
 ore-dns.bitdefender.net
 orjp4.lz0724.com
 orpi.privado.ovh
-oscnl.site
 othernj.drahonn.pro
 ott01.dnscry.pt
 oury.privado.ovh
@@ -3141,6 +3108,7 @@ pm9352-bd.xyz
 pmo01.dnscry.pt
 pns2.sadraidc.com
 polisitogel.beauty
+polisitogel.contractors
 polisitogel.hair
 polisitogel.show
 polisitogel.webcam
@@ -3152,7 +3120,6 @@ premiumtier-network.instadart.net
 prg01.dnscry.pt
 princez.uk
 privacy.plumedns.com
-privacydns.go6lab.si
 private.canadianshield.cira.ca
 privatebard.com
 privatnas.servebeer.com
@@ -3310,7 +3277,6 @@ s1.yushuncompany.com
 s2.d3mik.ru
 s3-api.arashi.solutions
 s3.arashi.solutions
-s3.d3mik.ru
 sa01.dns4me.net
 sabeendns.duckdns.org
 sabzipolobamahi.nl
@@ -3402,7 +3368,6 @@ singy.smartq.dev
 sink.nolo.ltd
 sinkdns.nihatkalfazade.com
 sinusbot.drahonn.pro
-sitdns.com
 site-2.duckdns.org
 site-3.duckdns.org
 sjc01.dnscry.pt
@@ -3641,7 +3606,6 @@ vadim.online
 vasiliysoldatkin.ru
 vasilykumaev.ru
 vasya-sad.px.i81.ru
-vasya.az.i81.ru
 vasya.hr.i81.ru
 vasya.vd.i81.ru
 vasya.vpn.i81.ru
@@ -3663,7 +3627,6 @@ virga.pp.ua
 virmamp33.sytes.net
 vlad.dns.vladpro.ru
 vladpro.ru
-vless-service.ufodns.com
 vm.delfini.online
 vm1.arashi.solutions
 vm2.arashi.solutions
@@ -3672,11 +3635,9 @@ vn.dns.abpvn.com
 vno01.dnscry.pt
 void.mcfly.lol
 vorlif.org
-vova.az.i81.ru
 vova.hr.i81.ru
 vova.vd.i81.ru
 vova.vpn.i81.ru
-vovale.az.i81.ru
 vovale.hr.i81.ru
 vovale.px.i81.ru
 vovale.vd.i81.ru
@@ -3698,6 +3659,7 @@ vps.deckberg.de
 vps.grussenmeyer.com
 vps.jmarkin.ru
 vps.poly-tank.jp
+vps.robotboard.de
 vps.techrich.net
 vps01.bbhc.xyz
 vps1.rootax.org
@@ -3721,13 +3683,11 @@ waw02.dnscry.pt
 waydnes.ru
 wazuh.arashi.solutions
 wdns.233py.com
-web-rated.ie
 webdav.cubecloud.win
 webmail.drahonn.pro
 webteufel-it.solutions
 wec-httpdns-platform-dbankcloud-com-drcn.region.dbankedge.cn
 wg-ag.isgood.host
-wg-aghome.freemyip.com
 wg.pastorov.ru
 wg.req1.fr
 wg.thienhv.com
@@ -3735,7 +3695,6 @@ whatcaniplay.com
 wifrousl.spdns.de
 wikimedia-dns.org
 wikimediadns.org
-win10virtual.az.i81.ru
 win10virtual.hr.i81.ru
 win10virtual.vd.i81.ru
 win10virtual.vpn.i81.ru
@@ -3770,7 +3729,6 @@ www.closetruth.date
 www.dehb.ru
 www.digitallink.be
 www.dns.stud.cloud
-www.dnsadguard.co.uk
 www.dnsforge.de
 www.doh.xyz
 www.drahonn.pro
@@ -3817,7 +3775,6 @@ www.vdsn-nl-2.azatmutq.com
 www.vik.ro
 www.vpn.stroialliance.com
 www.vpnhellings.nl
-www.wg-aghome.freemyip.com
 www.wiqi.top
 www.ychk.ft1991.top
 wyx.cloud
