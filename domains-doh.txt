@@ -591,7 +591,6 @@ bg.rslvr.eu
 bh.wael.name
 biba.ydns.eu
 bigseal1.gu-natee.uk
-bilidon.dnsuser.info
 biying.flymlc.com
 bkk01.dnscry.pt
 bl.eq.md
@@ -935,6 +934,7 @@ dns.ares-taiwan.com
 dns.arkbotech.com
 dns.articrevised.cc
 dns.artikel10.org
+dns.as212683.net
 dns.ashleyjackson.net
 dns.asterimoon.com
 dns.asysec.com
@@ -958,6 +958,7 @@ dns.bebasid.com
 dns.belnet.be
 dns.bermeitinger.eu
 dns.beta.gandi.net
+dns.bezmezhau.com
 dns.bgeneto.com
 dns.bibica.net
 dns.bibitos.cc
@@ -1290,6 +1291,7 @@ dns.jstockley.com
 dns.juancamos.com
 dns.jundev.org
 dns.jungle-im.ir
+dns.jupitrdns.com
 dns.justinnetworkingsolutions.com
 dns.k3nny.fr
 dns.kamilszczepanski.com
@@ -2020,7 +2022,9 @@ doh.funil.de
 doh.funtopia.tv
 doh.futa.app
 doh.futa.gg
+doh.gcp.pathofgrace.com
 doh.greenwood.eu.org
+doh.hosterra.tech
 doh.hshkf.com
 doh.hugang8.cn
 doh.ibr.cs.tu-bs.de
@@ -2116,12 +2120,12 @@ doh.viatech.com.tw
 doh.vpsdns.co.za
 doh.webnmail.de
 doh.westeu.pi-dns.com
+doh.westus.pi-dns.com
 doh.wewitro.net
 doh.xcom.pro
 doh.xfinity.com
 doh.xorlet.ru
 doh.xyz
-doh.yspv.ru
 doh.ywhost.com
 doh.zephyrus.id
 doh.zhongbr.uk
@@ -2162,6 +2166,7 @@ dot.chi.ahadns.net
 dot.cox.net
 dot.eastas.pi-dns.com
 dot.eastau.pi-dns.com
+dot.eastus.pi-dns.com
 dot.es.ahadns.net
 dot.ffmuc.net
 dot.in.ahadns.net
@@ -2179,6 +2184,7 @@ dot.seby.io
 dot.tiar.app
 dot.tooli.ca
 dot.ublockdns.com
+dot.westus.pi-dns.com
 dot.xfinity.com
 dot1.applied-privacy.net
 dot1.appliedprivacy.net
@@ -2289,7 +2295,6 @@ fezgate.ovh
 fi-hel-w-f-2.nashkan.net
 fi-hel-w-p-1.nashkan.net
 fi.r5acq.com
-fi.wjcload.tech
 fidelius.top
 filter.badbotdev.xyz
 filter.das.sch.id
@@ -2407,7 +2412,6 @@ guard.thefather.cloud
 guard.yps.tw
 guest.nop.mobi
 guidetoworld.link
-guigu.dns.army
 gustamadh.dynv6.net
 gva01.dnscry.pt
 gw1.dns.haynetwork.id
@@ -2751,7 +2755,6 @@ link.altapo.ru
 lion.dns.qwer.pw
 lis01.dnscry.pt
 lis02.dnscry.pt
-lju01.dnscry.pt
 llk01.dnscry.pt
 loadlow.me
 lofter.httpdns.c.163.com
@@ -3105,7 +3108,6 @@ pluton.plan9-dns.com
 pm1239-bd.xyz
 pm7051-br.xyz
 pm9352-bd.xyz
-pmo01.dnscry.pt
 pns2.sadraidc.com
 polisitogel.beauty
 polisitogel.contractors
