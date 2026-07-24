@@ -566,6 +566,7 @@ ayman-dns.731my.com
 az.dz4fun.top
 azure.cloudflare-dns.com
 azure.razor1911.xyz
+b-ii.com
 b.jtt.ink
 b9c7dc4e-7dde-4903-935b-fd6ea59ca4fb.space
 bancuh.com
@@ -770,7 +771,6 @@ dds.wpme.pl
 de-adguard.dr3ff1c13nt.com
 de-ber.doh.sb
 de-dus.doh.sb
-de-f1.foxyfy.net
 de-fra-w-f-1.nashkan.net
 de-fra-w-f-2.nashkan.net
 de-fra-w-f-3.nashkan.net
@@ -1035,6 +1035,7 @@ dns.containerpi.com
 dns.controld.com
 dns.cooluc.com
 dns.corefusion.xyz
+dns.criena.net
 dns.cryptomize.com
 dns.crystalyx.net
 dns.csaonline.de
@@ -1893,6 +1894,7 @@ dnscdn.bai0012.com
 dnscity.org
 dnsdoh.art
 dnsenc.com
+dnses.alekberg.net
 dnsforfamily.com
 dnsforge.de
 dnsguard.hte.vn
@@ -3005,6 +3007,8 @@ o.rsaikat.com
 o1.lt
 oci02.at9.eu
 oculta.me
+odoh-target-se.alekberg.net
+odoh-target.alekberg.net
 odoh.cloudflare-dns.com
 odoh.crypto.sx
 odvr.nic.cz
@@ -3341,6 +3345,7 @@ sg-w-p-1.nashkan.net
 sg.101818.xyz
 sg.rslvr.eu
 sg.telex.app
+sg.yepdns.com
 sg01.dns4me.net
 sg1.dnswarden.com
 sg2.ooroot.com
