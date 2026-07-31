@@ -261,6 +261,7 @@ adguard.mokocup.dev
 adguard.myddns.org
 adguard.nasaud.info
 adguard.neelyha.tk
+adguard.neon0404.space
 adguard.netmasc.services
 adguard.nielsenhost.dk
 adguard.niko-sem.com
@@ -620,7 +621,6 @@ bne01.dnscry.pt
 bobr.netphoenix.ru
 bobstrecansky.com
 bog01.dnscry.pt
-bom01.dnscry.pt
 bom02.dnscry.pt
 borisov.page
 botclassic.com
@@ -1035,7 +1035,6 @@ dns.containerpi.com
 dns.controld.com
 dns.cooluc.com
 dns.corefusion.xyz
-dns.criena.net
 dns.cryptomize.com
 dns.crystalyx.net
 dns.csaonline.de
@@ -1462,6 +1461,7 @@ dns.nop.mobi
 dns.novali.date
 dns.novg.net
 dns.npe.bz
+dns.npsolution.it
 dns.ntccloud.vn
 dns.ntr.lol
 dns.nubecita.biz
@@ -1486,7 +1486,6 @@ dns.ord.chriswang.work
 dns.oryxlabs.com
 dns.osmenoga.com
 dns.ostfriese.org
-dns.oszx.co
 dns.otezz.net
 dns.ourvau.lt
 dns.p3k.sk
@@ -1736,6 +1735,7 @@ dns.walshnet.co.uk
 dns.wang.art
 dns.wantfreedom.eu.org
 dns.wargan.io
+dns.warma.me
 dns.warpnine.de
 dns.warrior.fr
 dns.watch
@@ -1894,7 +1894,6 @@ dnscdn.bai0012.com
 dnscity.org
 dnsdoh.art
 dnsenc.com
-dnses.alekberg.net
 dnsforfamily.com
 dnsforge.de
 dnsguard.hte.vn
@@ -1907,6 +1906,7 @@ dnsotls.lab.nic.cl
 dnspod.com
 dnspub.restena.lu
 dnsresolver02.ddns.net
+dnsse.alekberg.net
 dnssec.dns.enginyring.com
 dnssecure.aluwela.se
 dnsserver.mailchan.eu
@@ -2306,7 +2306,6 @@ filya.vd.i81.ru
 filya.vpn.i81.ru
 fimoshinckaya-federation.site
 firefox.dns.nextdns.io
-fjr01.dnscry.pt
 flat.loisy.it
 fly.io
 flyloadguard.dynu.net
@@ -2396,7 +2395,6 @@ green3.jnraptor.net
 green4.jnraptor.net
 greppie.nl
 grr01.dnscry.pt
-gru01.dnscry.pt
 grunwald-marc.de
 gruppo.pp.ua
 gsat.familyds.com
@@ -2973,7 +2971,6 @@ ns1.opennameserver.org
 ns1.qquack.org
 ns1.recursive.dnsbycomodo.com
 ns1.sc-lezhi.com
-ns1.vuivn.site
 ns2.4netguides.org
 ns2.flodns.net
 ns2.hjk.kr
@@ -2982,7 +2979,6 @@ ns2.hshh.org
 ns2.opennameserver.org
 ns2.ravdns.com
 ns2.recursive.dnsbycomodo.com
-ns2.vuivn.site
 ns2.wuyouss.com
 ns3.bit-trail.nl
 ns3.com
@@ -3007,6 +3003,7 @@ o.rsaikat.com
 o1.lt
 oci02.at9.eu
 oculta.me
+odoh-target-noads-se.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 odoh.cloudflare-dns.com
@@ -3678,7 +3675,6 @@ vsrv15195.customer.xenway.de
 vst-sh-se.mooo.com
 vtcuong.site
 vte01.dnscry.pt
-vuivn.site
 walhalla.freemyip.com
 walker.mynetgear.com
 wallpap.eu
