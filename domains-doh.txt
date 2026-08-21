@@ -83,6 +83,7 @@ adguard1.jsanagustin.net
 adguard1.leadmon.net
 adguardhome.atakorah.com
 adl.adfilter.net
+ads.hunga1k47.com
 adult-filter-dns.cleanbrowsing.org
 ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
@@ -120,7 +121,6 @@ arashi.net.eu.org
 area51.mywire.org
 armorrush.eu.org
 asia.tri-dns.net
-at-wie-w-p-1.nashkan.net
 at.pzhg.me
 atl01.dnscry.pt
 atris.cyou
@@ -212,6 +212,7 @@ dns-doh-no-safe-search.dnsforfamily.com
 dns-doh.dnsforfamily.com
 dns-dot.dnsforfamily.com
 dns-family.adguard.com
+dns-fr-psv1.cloudsides.com
 dns-free.link
 dns-malwaresec.nordthreatprotection.com
 dns-nosec.quad9.net
@@ -456,6 +457,7 @@ dns.keweon.center
 dns.koala.us.to
 dns.korzhyk.pp.ua
 dns.kosan.moe
+dns.kugoapps.com
 dns.kukal.cz
 dns.kusoneko.moe
 dns.kuuhaku.moe
@@ -477,6 +479,7 @@ dns.lsho.top
 dns.luma-medien.com
 dns.lvolland.fr
 dns.maitrekuc.fr
+dns.maolaohei.xyz
 dns.marasov.id
 dns.marbledfennec.net
 dns.mateo.ovh
@@ -633,7 +636,6 @@ dns.vaioswolke.xyz
 dns.vault81.de
 dns.velyn.my.id
 dns.vinnyp.xyz
-dns.vinokurov.tk
 dns.vip-kingstore.xyz
 dns.vmath.my.id
 dns.vod11.xyz
@@ -734,6 +736,7 @@ doh.apad.pro
 doh.applied-privacy.net
 doh.appliedprivacy.net
 doh.archuser.org
+doh.armadillodns.net
 doh.asagiri.moe
 doh.asia.dnswarden.com
 doh.azoris.ovh
@@ -771,13 +774,11 @@ doh.immerda.ch
 doh.infracell.net
 doh.jeroenhd.nl
 doh.kekew.info
-doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im
 doh.kooman.org
 doh.la.ahadns.net
 doh.lacontrevoie.fr
-doh.li
 doh.libredns.gr
 doh.luigi.nexific.it
 doh.lv
@@ -810,7 +811,6 @@ doh.sunoaki.net
 doh.syshero.org
 doh.sz-dns.com
 doh.technochat.in
-doh.thio.me
 doh.tiar.app
 doh.tiarap.org
 doh.totoro.pub
@@ -834,7 +834,6 @@ dohtrial.att.net
 dooh.cloudflare-dns.com
 dot-de.blahdns.com
 dot-sg.blahdns.com
-dot.360.cn
 dot.cox.net
 dot.ffmuc.net
 dot.la.ahadns.net
@@ -858,7 +857,6 @@ dub01.dnscry.pt
 dukun.de
 dus01.dnscry.pt
 ea-dns.rubyfish.cn
-easyhandshake.com
 echoe1yidzu4ioo5.myfritz.net
 edgy-dns.com
 edns.233py.com
@@ -895,7 +893,6 @@ firefox.dns.nextdns.io
 fly.io
 fnt01.dnscry.pt
 fr-dns1.bancuh.com
-fr-gra-w-p-1.nashkan.net
 fr1.dnswarden.com
 fra-dns.bitdefender.net
 fra01.dnscry.pt
@@ -925,6 +922,7 @@ google-public-dns-a.google.com
 google-public-dns-b.google.com
 goose.buckyfan.net
 greatideasforlife.lol
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1015,6 +1013,7 @@ lewsha.lol
 lifeisa.live
 lindung.pp.ua
 lion.dns.qwer.pw
+lion.yazilimatolye.com
 lis01.dnscry.pt
 llk01.dnscry.pt
 loadlow.me
@@ -1357,6 +1356,7 @@ wyx.cloud
 xbcpb668.com
 xenergy.cc
 xholgm.top
+xmr.land
 xn--durhre-yxa.de
 xorbiadns.com
 ychen.cf
